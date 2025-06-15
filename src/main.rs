@@ -116,7 +116,7 @@ fn append<W: Write>(
 ) {
     for path in src {
         let path = path.unwrap();
-        let mut buf;
+        let mut buf = PathBuf::new();
         let mut target = *target.as_ref().unwrap_or(&path.as_ref());
         if target_is_dir(target) {
             buf = target.to_path_buf();
