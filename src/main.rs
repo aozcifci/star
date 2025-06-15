@@ -256,7 +256,7 @@ fn get_decoder(file_type: &str, file: File) -> Box<dyn Read> {
 
 fn extract(format_type: &str, filepath: &Path, dst: &str, compression_only: bool) {
     let dst: &Path = dst.as_ref();
-    if dst.exists() & (!dst.is_dir()) {
+    if dst.exists() && !dst.is_dir() {
         panic!("dst path {} exists", dst.display());
     }
     let file = std::fs::File::open(filepath).unwrap();
