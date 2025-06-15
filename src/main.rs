@@ -63,7 +63,7 @@ fn main() {
                         .takes_value(true)
                         .multiple(true)
                         .required(true)
-                        .help("append file to new package.allow glob and rename."),
+                        .help("append file to new package. Allow glob and rename."),
                 ),
         )
         .subcommand(
