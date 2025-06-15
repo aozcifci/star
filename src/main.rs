@@ -165,7 +165,7 @@ fn get_encoder(file_type: &str, file: File) -> Box<dyn Write> {
         "tar" => Box::new(file),
         "zstd" => Box::new(
             zstd::stream::write::Encoder::new(file, 21)
-                .expect("faild to create zstd encoder")
+                .expect("failed to create zstd encoder")
                 .auto_finish(),
         ),
         _ => unreachable!("unknown file type"),
@@ -248,7 +248,7 @@ fn get_decoder(file_type: &str, file: File) -> Box<dyn Read> {
         "gzip" => Box::new(flate2::read::GzDecoder::new(file)),
         "tar" => Box::new(file),
         "zstd" => {
-            Box::new(zstd::stream::read::Decoder::new(file).expect("faild to create zstd encoder"))
+            Box::new(zstd::stream::read::Decoder::new(file).expect("failed to create zstd decoder"))
         }
         _ => unreachable!("unknown file type"),
     }
