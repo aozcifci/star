@@ -1,0 +1,718 @@
+<section class="chapter" id="nasil-okunur">
+  <h2>Bu kitap nasıl okunur?</h2>
+
+  <p>Bu kitap, MACD göstergesini sıfırdan ve acele etmeden öğrenmek isteyenler için yazıldı. Amacımız bir gecede “uzman” olmanız değil; fiyat grafiklerinde MACD’nin ne anlattığını, nasıl hesaplandığını ve sinyalleri nasıl okumanız gerektiğini adım adım kavramanız. Finansal piyasalarda tek bir gösterge bile başlı başına karar vermek için yeterli değildir; bu kitap da size “kesin kazanç formülü” vaat etmez. Bunun yerine, düşünerek ve pratik yaparak ilerlemenizi sağlayacak sağlam bir temel sunar.</p>
+
+  <p>Kitabın tamamı yaklaşık yüz sayfalık bir yolculuk olarak planlandı. Birinci bölümde — yani şu anda okuduğunuz kısımda — temel kavramları kuruyoruz: teknik analize giriş, hareketli ortalamalar, MACD’nin ne olduğu, anatomisi ve formülü. İkinci bölümde sinyal okuma, histogram, uyumsuzluklar ve pratik uygulamalar gelecek. Üçüncü bölümde ise farklı zaman dilimleri, risk yönetimi ve sık yapılan hatalar ele alınacak. Her bölüm bir öncekinin üzerine inşa edilir; bu yüzden atlamadan okumak genellikle daha verimli olur. Eğer MACD konusunda hiç deneyiminiz yoksa, özellikle hareketli ortalama ve formül bölümlerini ikinci kez okumak zaman kaybı değil, pekiştirme fırsatıdır.</p>
+
+  <figure>
+    <img src="gorseller/22-ogrenme-yolu.png" alt="MACD öğrenme yolu: temel kavramlar, sinyal okuma, pratik uygulama">
+    <figcaption>Şekil: Kitabın genel öğrenme yolu — önce temel, sonra sinyal, en son pratik.</figcaption>
+  </figure>
+
+  <h3>Kimler için yazıldı?</h3>
+
+  <p>Bu kitap özellikle şu okuyucu profillerine hitap eder:</p>
+
+  <ul>
+    <li><strong>Yeni başlayanlar:</strong> Borsa, kripto veya forex grafiklerine yeni bakan; “MACD” kelimesini duymuş ama ne işe yaradığını bilmeyenler.</li>
+    <li><strong>Temel seviyede teknik analiz bilenler:</strong> Destek-direnç, trend çizgisi gibi kavramlara aşina; göstergelere geçmek isteyenler.</li>
+    <li><strong>Kendi kendine öğrenenler:</strong> Video ve forumlardan parça parça bilgi toplamış; tutarlı ve sade bir kaynak arayanlar.</li>
+    <li><strong>Öğretmen ve eğitmenler:</strong> Öğrencilerine MACD’yi anlatırken kullanabilecekleri düzenli bir metin arayanlar.</li>
+  </ul>
+
+  <p>İleri düzey algoritmik ticaret, istatistiksel arbitraj veya kurumsal risk modellemesi bu kitabın kapsamı dışındadır. Burada odak noktamız grafikte MACD’yi anlamak ve yorumlamaktır. Eğer Python veya Excel ile otomatik strateji yazmak istiyorsanız, bu kitap size MACD’nin mantığını verir; kodlama ise ayrı bir öğrenme yoludur.</p>
+
+  <h3>Ön koşullar: Ne bilmeniz yeterli?</h3>
+
+  <p>Özel bir matematik veya programlama bilgisi şart değildir. Dördüncü sınıf düzeyinde dört işlem ve basit yüzde hesabı yeterlidir. Formüllerde geçen terimleri sade Türkçe ile açıklayacağız. Grafik platformu olarak TradingView, MetaTrader veya benzeri herhangi bir aracı kullanabilirsiniz; kitap belirli bir platforma bağlı değildir.</p>
+
+  <p>Yine de şunları bilmeniz faydalı olur:</p>
+
+  <ol>
+    <li>Bir fiyat grafiğinin nasıl okunduğu (yatay eksen zaman, dikey eksen fiyat).</li>
+    <li>Alım ve satım kavramının temel anlamı.</li>
+    <li>Yatırımın risk içerdiği gerçeği — kaybetme ihtimali her zaman vardır.</li>
+  </ol>
+
+  <h3>Nasıl çalışmalısınız?</h3>
+
+  <p>Her bölümü okuduktan sonra kısa bir mola verin ve grafik üzerinde gördüklerinizi arayın. Örneğin hareketli ortalama bölümünü bitirdiğinizde, sevdiğiniz bir hissenin grafiğine gidip 12 ve 26 günlük EMA çizgilerini ekleyin. MACD anatomisi bölümünden sonra MACD göstergesini aynı grafiğe yerleştirin. Bu “okuma + uygulama” döngüsü, bilgiyi kalıcı kılar.</p>
+
+  <p>Kitapta <strong>Alıştırma</strong> kutuları bulacaksınız. Cevapları hemen aramayın; önce kendi başınıza düşünün. Cevaplar kitabın sonundaki ekte toplanmıştır (“Cevaplar ekte”). Yanlış yapmak öğrenmenin parçasıdır; önemli olan neden yanlış olduğunu anlamaktır.</p>
+
+  <div class="callout">
+    <p><strong>Önerilen tempo:</strong> Birinci bölümü 3–5 oturumda bitirmek çoğu okuyucu için uygundur. Her oturum 30–45 dakika sürebilir. Acele etmeyin; kavramları sindirmek zaman alır.</p>
+  </div>
+
+  <h3>Terminoloji ve kısaltmalar</h3>
+
+  <p>Kitap boyunca tutarlı terimler kullanıyoruz. İngilizce kısaltmalar teknik literatürde yaygın olduğu için hem Türkçe karşılıklarını hem de orijinal kısaltmaları veriyoruz:</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Kısaltma</th>
+        <th>İngilizce</th>
+        <th>Türkçe karşılık</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>MACD</td>
+        <td>Moving Average Convergence Divergence</td>
+        <td>Hareketli ortalama yakınsama ve ıraksama</td>
+      </tr>
+      <tr>
+        <td>SMA</td>
+        <td>Simple Moving Average</td>
+        <td>Basit hareketli ortalama</td>
+      </tr>
+      <tr>
+        <td>EMA</td>
+        <td>Exponential Moving Average</td>
+        <td>Üssel hareketli ortalama</td>
+      </tr>
+      <tr>
+        <td>Sinyal hattı</td>
+        <td>Signal line</td>
+        <td>MACD’nin EMA’sı (genelde 9 periyot)</td>
+      </tr>
+      <tr>
+        <td>Histogram</td>
+        <td>Histogram</td>
+        <td>MACD ile sinyal hattı arasındaki farkın sütun grafiği</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h3>Önemli uyarı</h3>
+
+  <div class="callout warn">
+    <p>Bu kitap <strong>eğitim amaçlıdır</strong>; yatırım tavsiyesi değildir. MACD veya başka bir gösterge geçmiş fiyat verisine dayanır; geçmiş performans gelecekteki sonuçların garantisi değildir. Gerçek parayla işlem yapmadan önce risk toleransınızı değerlendirin, gerekirse profesyonel danışmanlık alın ve küçük miktarlarla pratik yapın. Kitaptaki örnekler yalnızca öğretim içindir; belirli bir menkul kıymete yönlendirme amacı taşımaz.</p>
+  </div>
+
+  <p>Son bir not: MACD popüler bir göstergedir; popüler olması “her zaman doğru” anlamına gelmez. Bu kitabın amacı, göstergeyi eleştirel bir gözle kullanmanızı sağlamaktır — ne zaman işe yaradığını, ne zaman yanıltıcı olabileceğini birlikte keşfedeceğiz.</p>
+
+  <h3>Kitabın yapısı ve semboller</h3>
+
+  <p>Bölümler mantıksal bir sırayla ilerler; dijital okuyucularda doğrudan ilgili başlığa atlayabilirsiniz. Önemli uyarılar sarı kutularda, dikkat gerektiren noktalar turuncu uyarı kutularında vurgulanır. Formüller ayrı bloklarda gösterilir; yanlarında sayısal örnekler bulunur. Şekillerin altındaki açıklamalar, grafiği okurken nelere bakmanız gerektiğini hatırlatır.</p>
+
+  <p>Metin içinde İngilizce orijinal terimler parantez içinde verilir; özellikle vurgulanması gereken Türkçe karşılıklar kalın yazılır. Örneğin crossover kelimesi “kesişim” anlamında kullanılır; ilerleyen bölümlerde sık geçecektir. Sayfa sonlarındaki alıştırmalar, o bölümün özünü pekiştirmek içindir; hepsini yapmak zorunda değilsiniz, ancak en az birini kendi cümlelerinizle yanıtlamanız öğrenmeyi hızlandırır.</p>
+
+  <h3>Öğrenme günlüğü tutmak</h3>
+
+  <p>Deneyimli okuyucuların ortak tavsiyesi şudur: kısa bir öğrenme günlüğü tutun. Her oturum sonunda üç satır yazmanız yeterli: bugün ne öğrendim, hangi grafikte ne gördüm, ne anlamadım. Bir hafta sonra bu notlara döndüğünüzde ilerlemenizi somut olarak görürsünüz. MACD öğrenirken özellikle “bugün histogram ne yapıyordu?” sorusunu not etmek, ikinci bölüme geçtiğinizde sinyal okumayı kolaylaştırır.</p>
+
+  <h3>Demo hesap ve kağıt üzerinde pratik</h3>
+
+  <p>Gerçek parayla işlem yapmadan önce birçok platform demo hesap sunar. Bu kitabı okurken demo hesapta veya yalnızca izleme modunda MACD eklemeniz yeterlidir. Alım-satım yapmak şart değil; amaç gözlem yapmaktır. Kağıt üzerinde de pratik yapabilirsiniz: bir hissenin son 30 günlük kapanışını not edip basitleştirilmiş EMA hesabı denemek, formül bölümünde kafanızdaki soru işaretlerini azaltır. Hata yapmak burada ucuzdur; gerçek hesapta pahalı olabilir.</p>
+
+  <div class="callout">
+    <p><strong>Alıştırma</strong></p>
+    <ol>
+      <li>Bu kitabı okumadan önce MACD hakkında bildiğiniz üç şeyi yazın. Bölüm sonunda bu listeyi tekrar gözden geçirin; ne değişti?</li>
+      <li>Kullandığınız grafik platformunda MACD göstergesini bulun. Henüz yorumlamayın; yalnızca nerede olduğunu not edin.</li>
+      <li>“Eğitim amaçlıdır, yatırım tavsiyesi değildir” uyarısını kendi cümlelerinizle özetleyin (2–3 cümle).</li>
+    </ol>
+    <p><em>Cevaplar ekte.</em></p>
+  </div>
+</section>
+
+<section class="chapter" id="teknik-analize-giris">
+  <h2>Teknik analize yumuşak giriş</h2>
+
+  <p>Teknik analiz, fiyat ve hacim verilerini inceleyerek gelecekteki fiyat hareketleri hakkında olasılıksal çıkarımlar yapma çalışmasıdır. Temel analiz şirket bilançolarına, ekonomik verilere ve sektör haberlerine odaklanırken; teknik analiz çoğunlukla grafiğe bakar. İki yaklaşım birbirinin düşmanı değildir; birçok yatırımcı her ikisini de bir arada kullanır. Bu kitapta teknik analizin bir köşesini — MACD göstergesini — derinlemesine ele alacağız; ama önce birkaç temel taşı yerine oturtalım.</p>
+
+  <h3>Fiyat nedir ve grafik ne anlatır?</h3>
+
+  <p>Bir hisse senedi, döviz çifti veya kripto paranın “fiyatı”, o anda alıcı ile satıcının buluştuğu değerdir. Grafikte her mum (candlestick) veya çizgi noktası, belirli bir zaman dilimindeki açılış, kapanış, en yüksek ve en düşük fiyatları özetler. Mum grafiği okumayı bilmek şart değil; çizgi grafik de MACD için yeterlidir. Önemli olan şudur: grafik, piyasanın kolektif kararlarının görsel bir kaydıdır.</p>
+
+  <p>Fiyat yükselirken grafik genelde yukarı gider; düşerken aşağı. Ancak fiyat düz bir çizgi halinde ilerlemez. Dalgalanır, duraklar, geri çekilir, tekrar yükselir. Teknik analiz bu dalgalanmaların tekrar eden örüntüler taşıyıp taşımadığını araştırır. MACD de bu dalgalanmaları sayısal bir dille özetlemeye çalışan araçlardan biridir.</p>
+
+  <h3>Gösterge (indikatör) nedir?</h3>
+
+  <p>Gösterge, fiyat verisinden türetilen ve grafiğin altında veya üzerinde çizilen matematiksel bir ölçümdür. Göstergeler fiyatı tahmin etmez; fiyatın nasıl davrandığına dair ek bilgi sunar. Örneğin:</p>
+
+  <ul>
+    <li><strong>Trend göstergeleri:</strong> Fiyatın yönünü ve momentumunu ölçer (MACD bu gruba girer).</li>
+    <li><strong>Oscilatörler:</strong> Belirli bir bant içinde salınan değerler üretir (RSI, Stokastik gibi).</li>
+    <li><strong>Hacim göstergeleri:</strong> İşlem miktarını analiz eder.</li>
+  </ul>
+
+  <p>MACD hem trend hem momentum özellikleri taşır; bu yüzden yeni başlayanlar için iyi bir başlangıç göstergesidir — ama tek başına “kutsal kase” değildir.</p>
+
+  <h3>Teknik analizin sınırları</h3>
+
+  <p>Teknik analiz şu varsayıma dayanır: fiyat hareketleri belirli bilgileri yansıtır ve bazı örüntüler tekrarlanabilir. Bu varsayım her zaman geçerli olmayabilir. Beklenmedik haberler, likidite krizleri veya manipülasyon grafikte “mantıksız” görünen hareketlere yol açabilir. Bu nedenle göstergeleri mutlak doğru olarak değil, olasılık ve bağlam çerçevesinde okumak gerekir.</p>
+
+  <div class="callout">
+    <p><strong>Analogi:</strong> Göstergeleri hava durumu tahmini gibi düşünün. Barometre basıncı düşüyorsa yağmur ihtimali artar; ama “kesin yağacak” demek doğru olmaz. MACD de benzer şekilde “momentum zayıflıyor olabilir” der; “yarın mutlaka düşer” demez.</p>
+  </div>
+
+  <h3>MACD’nin teknik analizdeki yeri</h3>
+
+  <p>MACD, 1970’lerin sonunda Gerald Appel tarafından geliştirilen ve günümüzde neredeyse her grafik platformunda bulunan bir momentum-trend göstergesidir. İki hareketli ortalamanın ilişkisini ölçer; sonuçları çizgi, sinyal hattı ve histogram olarak sunar. Diğer göstergelere göre avantajları:</p>
+
+  <ul>
+    <li>Görsel olarak anlaşılır: kesişmeler ve histogram renk değişimleri net sinyaller verir.</li>
+    <li>Çoğu piyasada (hisse, forex, kripto) benzer şekilde çalışır.</li>
+    <li>Varsayılan ayarlar (12, 26, 9) geniş kitle tarafından kullanıldığı için “kendini gerçekleştiren” etki yaratabilir — çok sayıda trader aynı seviyelere bakar.</li>
+  </ul>
+
+  <p>Dezavantajları da vardır: yatay (yatay trend) piyasalarda sık yanlış sinyal üretebilir; gecikmeli (lagging) bir göstergedir, yani fiyat hareketinden sonra tepki verir. Bu kitabın ilerleyen bölümlerinde bu sınırları nasıl yöneteceğinizi de konuşacağız.</p>
+
+  <h3>Grafik okuma alışkanlığı</h3>
+
+  <p>MACD’ye geçmeden önce basit bir alışkanlık edinin: grafiğe bakarken üç soru sorun.</p>
+
+  <ol>
+    <li><strong>Trend ne yönde?</strong> Yükseliş, düşüş veya yatay mı?</li>
+    <li><strong>Volatilite yüksek mi?</strong> Mumlar büyük mü, küçük mü?</li>
+    <li><strong>Hacim destekliyor mu?</strong> (Hacim verisi varsa) fiyat hareketi işlem hacmiyle uyumlu mu?</li>
+  </ol>
+
+  <p>MACD bu soruların cevabını tek başına vermez; ama özellikle birinci soruya — trend ve momentum — güçlü katkı sağlar.</p>
+
+  <h3>Zaman dilimi seçimi</h3>
+
+  <p>Teknik analizde “grafik” derken hangi zaman diliminden bahsettiğimiz kritiktir. Aynı enstrümanın günlük grafiği ile beş dakikalık grafiği tamamen farklı hikâyeler anlatabilir. MACD her zaman diliminde hesaplanabilir; ancak sinyallerin anlamı dilime göre değişir. Günlük grafikteki bir kesişim haftalarca etkili olabilecek orta vadeli bir değişimi işaret edebilirken, bir dakikalık grafikteki kesişim çok kısa ömürlü gürültü olabilir.</p>
+
+  <p>Bu kitapta öncelikle günlük (D1) ve dört saatlik (H4) grafiklere odaklanıyoruz. Yeni başlayanlar için bu dilimler hem yeterli veri sunar hem de aşırı gürültüden kaçınmaya yardımcı olur. İşlem yapmıyorsanız bile bu dilimlerde MACD’yi izlemek, öğrenme eğrisini yumuşatır. Daha sonra kendi tarzınıza göre 15 dakika veya haftalık grafiklere genişletebilirsiniz.</p>
+
+  <h3>Mum grafiğine kısa bakış</h3>
+
+  <p>MACD mum rengine bakmaz; yalnızca kapanış fiyatını kullanır. Yine de mum grafiğini okumak faydalıdır. Yeşil mum kapanışın açılıştan yüksek olduğunu, kırmızı mum düşüş gününü gösterir. Uzun fitiller o gün içinde fiyatın nereye kadar gidip geri döndüğünü anlatır. MACD paneline bakarken üstteki mum yapısıyla birlikte düşünmek, sinyalin fiyat onayı aramanıza yardım eder.</p>
+
+  <h3>Temel analiz ile birlikte düşünmek</h3>
+
+  <p>MACD bir şirketin kârlılığını veya borç yükünü ölçmez. Kötü bilançolu bir şirketin hissesi teknik olarak güçlü MACD verebilir; tersi de mümkündür. Uzun vadeli yatırımcılar çoğu zaman temel analize ağırlık verir, MACD’yi zamanlama aracı olarak kullanır. Kısa vadeli trader’lar ise çoğunlukla grafiğe odaklanır. Hangi kampa mensupsanız meseleniz değil; önemli olan MACD’nin rolünü abartmamaktır.</p>
+
+  <h3>Mini örnek: Fiyat hareketi ve “ne zaman” sorusu</h3>
+
+  <p>Diyelim ki bir hisse son beş günde 100 TL’den 110 TL’ye çıktı. “Hâlâ alınır mı?” sorusunun cevabı yalnızca fiyata bakarak verilemez. Teknik analist şunları sorar: Bu yükseliş hızlandı mı yoksa yavaşladı mı? Önceki direnç seviyesine yakın mıyız? Göstergeler uyumsuzluk (divergence) gösteriyor mu? MACD, bu soruların en azından momentum kısmına ışık tutar.</p>
+
+  <p>Sayısal bir sezgi: 100 → 105 → 108 → 110 şeklinde yavaşlayan bir yükselişte, MACD çizgisi hâlâ yukarı olsa bile eğimi azalabilir. Bu, momentumun zayıfladığına işaret edebilir — henüz satış sinyali değil, ama dikkat uyarısı. Aynı hisse 100 → 108 → 115 → 125 gibi hızlanan bir yapıda MACD eğimi dikleşir; histogram sütunları uzar. Fiyat grafiğine bakmadan yalnızca MACD paneline baktığınızda bile “hareket hızlanıyor mu, yavaşlıyor mu?” sorusuna kısmi cevap alırsınız; tam resim için her zaman fiyatı birincil tutun.</p>
+
+  <div class="callout">
+    <p><strong>Alıştırma</strong></p>
+    <ol>
+      <li>Teknik analiz ile temel analiz arasındaki farkı bir cümleyle ifade edin.</li>
+      <li>Bir göstergenin “fiyatı tahmin etmediğini” kendi örneğinizle açıklayın.</li>
+      <li>MACD’nin “gecikmeli” olması ne anlama gelir? Günlük grafikte bunun pratik sonucu nedir?</li>
+    </ol>
+    <p><em>Cevaplar ekte.</em></p>
+  </div>
+</section>
+
+<section class="chapter" id="hareketli-ortalamalar">
+  <h2>Hareketli ortalamalar: SMA, EMA ve MACD’nin tercihi</h2>
+
+  <p>MACD’yi anlamanın en sağlam yolu, önce hareketli ortalamayı anlamaktan geçer. Hareketli ortalama (moving average), belirli bir periyottaki fiyatların ortalamasını alır ve zamanla bir çizgi oluşturur. Bu çizgi, fiyatın “gürültüsünü” yumuşatarak genel eğilimi gösterir. MACD tam olarak iki farklı periyottaki üssel hareketli ortalamaların (EMA) farkına dayanır. Bu bölümde basit (SMA) ve üssel (EMA) ortalamaları derinlemesine karşılaştıracağız.</p>
+
+  <h3>Basit hareketli ortalama (SMA)</h3>
+
+  <p>SMA, seçilen periyottaki kapanış fiyatlarının aritmetik ortalamasıdır. Örneğin 5 günlük SMA için son beş günün kapanış fiyatlarını toplar, beşe böler. Her yeni gün, en eski gün çıkarılır ve yeni gün eklenir — bu yüzden ortalama “hareket eder”.</p>
+
+  <p>Beş günlük kapanış fiyatları: 10, 12, 11, 13, 14 TL olsun.</p>
+
+  <div class="formula">
+    SMA<sub>5</sub> = (10 + 12 + 11 + 13 + 14) ÷ 5 = 60 ÷ 5 = <strong>12 TL</strong>
+  </div>
+
+  <p>Ertesi gün kapanış 15 TL olursa, en eski gün (10 TL) düşer:</p>
+
+  <div class="formula">
+    SMA<sub>5</sub> = (12 + 11 + 13 + 14 + 15) ÷ 5 = 65 ÷ 5 = <strong>13 TL</strong>
+  </div>
+
+  <p>SMA’nın özelliği: her gün eşit ağırlığa sahiptir. Dünkü fiyat ile beş gün önceki fiyat ortalamaya aynı oranda katkı yapar. Bu adil görünse de, teknik analistler çoğu zaman “en son fiyat daha önemli” der; işte burada EMA devreye girer. Örneğin bir hisse aylarca 100 TL civarında dolaşıp bir haftada 120 TL’ye fırlarsa, 20 günlük SMA hâlâ geçmişin ağır basmasıyla 105 civarında kalabilir; 20 günlük EMA ise belki 115’e yaklaşır. Yatırımcı “fiyat SMA’nın çok üzerinde, aşırı mı?” diye düşünürken, MACD tarafında EMA tabanlı fark zaten momentumu yansıtmış olur.</p>
+
+  <h3>Üssel hareketli ortalama (EMA)</h3>
+
+  <p>EMA, son fiyatlara daha fazla ağırlık veren bir ortalama türüdür. Yeni kapanış, ortalamayı SMA’ya göre daha hızlı etkiler. Formül biraz daha karmaşıktır; çarpan (multiplier) kavramı kullanılır:</p>
+
+  <div class="formula">
+    Çarpan = 2 ÷ (Periyot + 1)
+  </div>
+
+  <p>12 periyotluk EMA için çarpan = 2 ÷ 13 ≈ 0,1538. Her yeni gün:</p>
+
+  <div class="formula">
+    EMA<sub>bugün</sub> = (Kapanış<sub>bugün</sub> × Çarpan) + (EMA<sub>dün</sub> × (1 − Çarpan))
+  </div>
+
+  <p>İlk EMA değeri genelde SMA ile başlatılır; sonraki günler üstteki formülle güncellenir.</p>
+
+  <h3>SMA ve EMA: Sayısal karşılaştırma</h3>
+
+  <p>Aynı fiyat dizisinde SMA ve EMA’nın nasıl ayrıştığını görelim. Kapanışlar: 100, 102, 101, 105, 108 (5 gün).</p>
+
+  <p><strong>SMA<sub>5</sub>:</strong> (100 + 102 + 101 + 105 + 108) ÷ 5 = 516 ÷ 5 = 103,2</p>
+
+  <p><strong>EMA<sub>5</sub>:</strong> Çarpan = 2 ÷ 6 ≈ 0,333. İlk gün EMA ≈ SMA ile başlar. Basitleştirilmiş hesap için son gün EMA’yı yaklaşık 105,5 kabul edebiliriz (tam seri hesaplandığında son değer SMA’dan yüksek çıkar çünkü son günler güçlü yükseliş içerir).</p>
+
+  <p>Fiyat hızla yükseldiğinde EMA, SMA’nın üzerinde kalır ve fiyata daha yakın seyreder. Fiyat düştüğünde EMA yine daha hızlı tepki verir. MACD’nin “hızlı” ve “yavaş” hatları EMA olduğu için, momentum değişimlerini SMA tabanlı bir göstergeden daha erken yakalar — ama bu erkenlik bazen yanlış alarm da üretebilir.</p>
+
+  <figure>
+    <img src="gorseller/12-sma-vs-ema.png" alt="Aynı periyotta SMA ve EMA çizgilerinin fiyata tepki hızı karşılaştırması">
+    <figcaption>Şekil: SMA (düz çizgi) fiyata daha geç uyum sağlar; EMA (kesikli) son fiyatlara daha duyarlıdır.</figcaption>
+  </figure>
+
+  <h3>Neden MACD EMA kullanır?</h3>
+
+  <p>MACD’nin yaratıcısı Gerald Appel, kısa vadeli momentum değişimlerini yakalamak istedi. İki SMA farkı alınsaydı gösterge daha yavaş ve daha “yumuşak” olurdu. İki EMA farkı ise:</p>
+
+  <ul>
+    <li>Kısa EMA (12) ile uzun EMA (26) arasındaki mesafeyi daha canlı ölçer.</li>
+    <li>Trend dönüşlerinde kesişmeler genelde daha erken görünür.</li>
+    <li>Sinyal hattı da 9 periyotluk EMA olduğu için tüm yapı tutarlı bir “üssel aile” içinde kalır.</li>
+  </ul>
+
+  <p>Bu bir “doğruluk” meselesi değil, <strong>tasarım tercihi</strong>dir. Bazı varyantlar MACD’yi SMA ile hesaplar; standart ve en yaygın olan EMA tabanlı MACD’dir. Bu kitapta standart tanımı kullanıyoruz. İleride “MACD-SMA” veya “PPO” (yüzde fiyat osilatörü) gibi türevlerle karşılaşırsanız, hepsinin ortak fikrin iki ortalama ilişkisini ölçmek olduğunu bilmeniz yeterlidir; detaylar farklı olsa da sezgi aynı kalır.</p>
+
+  <h3>Periyot seçimi: 12 ve 26 nereden geliyor?</h3>
+
+  <p>12 ve 26, yaklaşık iki hafta ve bir ay işlem günü sayısına karşılık gelir (eskiden haftada 6 işlem günü vardı: 2×6=12, 4×6≈26). Günümüzde haftada 5 işlem günü olsa da bu periyotlar evrensel standart haline gelmiştir. Değiştirmek mümkündür; ancak değiştirince gösterge davranışı ve diğer trader’larla “ortak dil” kaybolabilir. Yeni başlayanlara önce varsayılanları öğrenmek, sonra denemek önerilir.</p>
+
+  <h3>Hareketli ortalama tuzakları</h3>
+
+  <p>Hareketli ortalamalar trendli piyasalarda iyi çalışır; yatay piyasada fiyat ortalamanın etrafında gidip gelirken sürekli yanlış kırılım sinyalleri verebilir. MACD de aynı sorunu paylaşır. Ayrıca:</p>
+
+  <ul>
+    <li>Çok kısa periyot → çok fazla gürültü.</li>
+    <li>Çok uzun periyot → çok fazla gecikme.</li>
+    <li>Tek başına ortalama kesişimi → risk yönetimi olmadan yetersiz.</li>
+  </ul>
+
+  <div class="callout warn">
+    <p>“Altın kesişim” (golden cross) ve “ölüm kesişimi” (death cross) gibi popüler terimler 50/200 SMA için sık kullanılır. MACD’nin 12/26 kesişimi farklı bir ölçektir; aynı isimleri karıştırmayın.</p>
+  </div>
+
+  <h3>Elle hesap alıştırması: 3 günlük EMA</h3>
+
+  <p>Kapanışlar: 20, 22, 21. Çarpan (3 gün) = 2 ÷ 4 = 0,5.</p>
+  <ol>
+    <li>Gün 1: EMA ≈ 20 (başlangıç).</li>
+    <li>Gün 2: EMA = 22×0,5 + 20×0,5 = 11 + 10 = <strong>21</strong>.</li>
+    <li>Gün 3: EMA = 21×0,5 + 21×0,5 = <strong>21</strong>.</li>
+  </ol>
+  <p>Fiyat 22’ye sıçrayınca EMA hemen 21’e yükseldi; SMA ise (20+22+21)/3 ≈ 21,0 olurdu — burada yakın, ama daha uzun serilerde fark belirginleşir.</p>
+
+  <h3>Daha uzun seri: SMA ve EMA ayrışması</h3>
+
+  <p>On günlük kapanış serisini düşünelim: fiyat 100’den başlayıp her gün yaklaşık 1 TL artıyor, sonra son üç günde hızlanarak 112, 115, 118 oluyor. 10 günlük SMA son günde tüm günlerin eşit ağırlıklı ortalamasıdır; 10 günlük EMA ise son günlerdeki sıçramayı daha fazla yansıtır. Bu senaryoda EMA, SMA’nın üzerinde ve fiyata daha yakın seyreder. MACD’nin hızlı hattı 12 EMA olduğunda, tam da bu son günlerin ağırlığı sayesinde momentum artışını SMA tabanlı bir farktan önce hissetmeye başlarsınız.</p>
+
+  <p>Ters senaryoda fiyat uzun süre yatay seyredip aniden düşerse EMA yine önce tepki verir. MACD çizgisi negatife doğru hızla kayar. Bu davranışı grafikte bir kez görmek, on sayfa teoriden daha çok şey öğretir.</p>
+
+  <h3>Hareketli ortalama periyodu ve “gün” kavramı</h3>
+
+  <p>“12 günlük EMA” ifadesi günlük grafikte son 12 kapanışı kullanır. Saatlik grafikte aynı 12 periyot son 12 saatlik kapanış demektir. Periyot sayısı sabit kalır, zaman birimi grafiğe göre değişir. Bu yüzden 12-26-9 üçlüsünü başka zaman dilimine taşırken aynı süreyi mi korumalıyım diye düşünmek gerekir. Bu kitabın üçüncü bölümünde zaman dilimi uyarlama konusuna döneceğiz; şimdilik günlük grafik varsayılanımız olsun.</p>
+
+  <h3>MACD öncesi EMA alıştırması</h3>
+
+  <p>MACD’ye geçmeden önce grafiğinize yalnızca 12 ve 26 EMA ekleyin. Fiyat 12 EMA’nın üzerindeyken kısa vadeli güçlü, altındayken zayıf kabul edilir. 26 EMA daha uzun vadeli trend filtresi gibidir. İki çizgi birbirine yaklaştığında MACD sıfıra yaklaşır; uzaklaştığında MACD büyür. Bu gözlem, formül bölümündeki denklemleri okuduğunuzda zihninizde canlanacaktır.</p>
+
+  <div class="callout">
+    <p><strong>Alıştırma</strong></p>
+    <ol>
+      <li>Periyot 10 olan EMA’nın çarpanını hesaplayın.</li>
+      <li>Kapanışlar 50, 52, 54 iken 3 günlük SMA’yı bulun.</li>
+      <li>MACD’nin EMA yerine SMA kullanması durumunda gösterge daha hızlı mı yoksa daha yavaş mı tepki verirdi? Neden?</li>
+    </ol>
+    <p><em>Cevaplar ekte.</em></p>
+  </div>
+</section>
+
+<section class="chapter" id="macd-nedir">
+  <h2>MACD nedir? İsim, tarihçe ve yakınsama–ıraksama</h2>
+
+  <p>MACD, İngilizce <em>Moving Average Convergence Divergence</em> ifadesinin kısaltmasıdır. Türkçede “hareketli ortalama yakınsama ve ıraksama” olarak çevrilir. Bu uzun isim aslında göstergenin ne yaptığını anlatır: iki hareketli ortalamanın birbirine yaklaşması (yakınsama) veya uzaklaşması (ıraksama) ölçülür. Basitçe söylemek gerekirse MACD, kısa vadeli momentum ile uzun vadeli momentum arasındaki farkı izler.</p>
+
+  <h3>Kısa tarihçe: Gerald Appel</h3>
+
+  <p>MACD, 1970’lerin sonunda Amerikalı teknik analist ve yazar <strong>Gerald Appel</strong> tarafından geliştirildi. Appel, hem hisse senedi hem de emtia piyasalarında çalışıyordu; MACD’yi önce emtialar için, sonra hisseler için uyarladı. 1979 civarında kitap ve makalelerle yaygınlaştı. O dönemde bilgisayarlı grafikler sınırlıydı; trader’lar göstergeleri hesap makinesi ve tablo kağıdıyla takip ederdi. MACD’nin popülaritesi, karmaşık görünmesine rağmen hesaplanmasının net ve tekrarlanabilir olmasıyla arttı. Bugün bir tıkla eklenen gösterge, o zamanlar saatler süren emek ürünüydü — bu tarihsel bağlam, MACD’ye saygıyla yaklaşmayı hatırlatır.</p>
+
+  <p>Appel’in orijinal amacı, trendin yönünü ve momentumdaki değişimi tek bir panelde göstermekti. Yıllar içinde 9 periyotluk sinyal hattı ve histogram eklentileri standart hale geldi — bunlar çoğu zaman MACD’nin parçası diye anılır, oysa tarihsel olarak adım adım zenginleşmiş bir yapıdır. Günümüzde Appel’in adı hâlâ MACD ile anılır; bu da göstergenin kısa bir moda olmadığını, onlarca yıl süren kullanım ve testten geçtiğini gösterir.</p>
+
+  <h3>Yakınsama ve ıraksama ne demek?</h3>
+
+  <p><strong>Yakınsama (convergence):</strong> İki hareketli ortalama birbirine yaklaşır. MACD bağlamında bu, kısa EMA ile uzun EMA arasındaki farkın küçülmesi demektir. Momentum zayıflıyor veya trend yavaşlıyor olabilir.</p>
+
+  <p><strong>Iraksama (divergence):</strong> İki ortalama birbirinden uzaklaşır; MACD çizgisi sıfır çizgisinden uzaklaşır veya mutlak değeri artar. Momentum güçleniyor olabilir.</p>
+
+  <figure>
+    <img src="gorseller/08-yakinsama-iraksama.png" alt="İki hareketli ortalamanın yakınsaması ve ıraksaması; MACD çizgisinin davranışı">
+    <figcaption>Şekil: Fiyat yükselirken EMA’lar ıraksayabilir (MACD büyür); trend yorulunca yakınsar (MACD küçülür).</figcaption>
+  </figure>
+
+  <p>Dikkat: “Iraksama” kelimesi MACD isminde geçer, ama pratikte trader’lar çoğu zaman <strong>uyumsuzluk</strong> (divergence) için de “ıraksama” terimini kullanır — fiyat ile MACD’nin zıt yönde hareket etmesi. Bu kitapta karışıklığı önlemek için:</p>
+
+  <ul>
+    <li><strong>Yakınsama / ıraksama (MACD ismi):</strong> İki EMA arasındaki mesafe.</li>
+    <li><strong>Uyumsuzluk:</strong> Fiyat ile MACD’nin yönünün ayrışması (ilerleyen bölümlerde).</li>
+  </ul>
+
+  <h3>MACD tek cümleyle</h3>
+
+  <p>12 periyotluk EMA ile 26 periyotluk EMA arasındaki farkı çizer; bu farkın 9 periyotluk EMA’sını sinyal hattı olarak ekler; ikisi arasındaki farkı da histogramda gösterir.</p>
+
+  <p>Bu tanım şimdilik soyut gelebilir; sonraki iki bölümde her parçayı ayrı ayrı açacağız.</p>
+
+  <h3>MACD ne değildir?</h3>
+
+  <p>Yaygın yanlış anlamaları netleştirelim:</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Yanlış</th>
+        <th>Doğru</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>MACD fiyatın yerine geçer.</td>
+        <td>MACD fiyattan türetilir; fiyat her zaman birincil veridir.</td>
+      </tr>
+      <tr>
+        <td>MACD her al sinyalinde kazandırır.</td>
+        <td>Sinyaller olasılıksaldır; yanlış sinyaller sıktır.</td>
+      </tr>
+      <tr>
+        <td>MACD sadece hisse senedinde çalışır.</td>
+        <td>Forex, emtia, kripto ve endekslerde de kullanılır.</td>
+      </tr>
+      <tr>
+        <td>MACD tek başına yeterlidir.</td>
+        <td>Bağlam, trend filtresi ve risk yönetimi gerekir.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h3>Neden hâlâ popüler?</h3>
+
+  <p>Onlarca yeni gösterge çıkmış olmasına rağmen MACD, eğitim materyallerinde ve pratikte sık referans alınır. Bunun nedenleri arasında tarihsel güven, sade yapı, çoklu zaman dilimlerine uyum ve “herkesin bildiği” ortak seviyeler sayılabilir. Popülerlik avantajdır; aynı histogram dönüşümünde çok sayıda emir tetiklenebilir. Dezavantajı da aynı nedenden kaynaklanır: kalabalık trade bazen sinyali erken fiyatlar.</p>
+
+  <h3>MACD ve piyasa psikolojisi</h3>
+
+  <p>MACD doğrudan korku veya açgözlülük ölçmez; ama momentum değişimi çoğu zaman kitlesel davranışın sonucudur. Yükseliş hızlandıkça kısa EMA uzun EMA’dan hızla uzaklaşır — MACD büyür. Panik satışta tersi olur. Göstergeyi okurken “grafikteki çizgilerin arkasında insan kararları var” diye düşünmek, aşırı mekanik yorumu biraz yumuşatır.</p>
+
+  <h3>MACD’nin diğer göstergelerle ilişkisi</h3>
+
+  <p>MACD tek başına bir ekosistem değildir. RSI aşırı alım–satım bölgesini ölçer; MACD trend ve momentum farkını. Bollinger bantları volatiliteyi gösterir; MACD bant içindeki yönü teyit edebilir. Bu kitap MACD’ye odaklandığı için diğer göstergeleri derinlemesine işlemiyoruz; ancak ileride MACD sinyalini destek ve direnç seviyeleriyle birlikte okumanın neden önemli olduğunu göreceksiniz. Amaç en çok göstergeyi ekrana sığdırmak değil; bir göstergeyi gerçekten bilmektir.</p>
+
+  <h3>Appel sonrası gelişmeler</h3>
+
+  <p>Gerald Appel’den sonra MACD’ye çeşitli varyasyonlar eklendi: farklı periyotlar, histogram renk kuralları, çift MACD panelleri, hacim ağırlıklı türevler. Bunların çoğu orijinal fikrin üzerine inşa edilmiştir. Yatırım bankaları ve perakende trader’lar aynı göstergeyi farklı amaçlarla kullanır; biri trend filtresi, diğeri kısa vadeli giriş zamanlaması. Standart 12-26-9 tanımını bilmeniz, bu varyasyonları daha sonra değerlendirmenizi kolaylaştırır.</p>
+
+  <h3>Yakınsama örneği: trend yorgunluğu</h3>
+
+  <p>Fiyat yeni bir zirve yapıyor ama MACD önceki zirvenin altında kalıyorsa — buna uyumsuzluk denir — momentum zayıflıyor olabilir. Tam tersi, fiyat dip yaparken MACD daha yüksek dip yapıyorsa yükseliş momentumu güçleniyor olabilir. İsimdeki ıraksama kelimesi burada farklı bir bağlamda kullanılır; karışıklığı azaltmak için uyumsuzluk bölümünde ayrıntılı ele alacağız. Şimdilik bilin: MACD yalnızca çizgi kesişimi değil, fiyatla karşılaştırmalı okuma da sunar.</p>
+
+  <div class="callout">
+    <p><strong>Alıştırma</strong></p>
+    <ol>
+      <li>MACD kısaltmasının açılımını Türkçe ve İngilizce yazın.</li>
+      <li>Yakınsama ile uyumsuzluk (divergence) arasındaki farkı kendi cümlelerinizle açıklayın.</li>
+      <li>Gerald Appel MACD’yi hangi amaçla geliştirmişti?</li>
+    </ol>
+    <p><em>Cevaplar ekte.</em></p>
+  </div>
+</section>
+
+<section class="chapter" id="anatomi">
+  <h2>MACD anatomisi: Üç parça detaylı inceleme</h2>
+
+  <p>Standart MACD göstergesi üç görsel bileşenden oluşur: <strong>MACD çizgisi</strong>, <strong>sinyal hattı</strong> ve <strong>histogram</strong>. Çoğu platformda gösterge fiyat grafiğinin altında ayrı bir panelde yer alır. Bu bölümde her bir parçanın ne ölçtüğünü, nasıl yorumlandığını ve birbirleriyle ilişkisini adım adım işleyeceğiz.</p>
+
+  <figure>
+    <img src="gorseller/01-macd-anatomi.png" alt="MACD paneli: MACD çizgisi, sinyal hattı, histogram ve sıfır çizgisi">
+    <figcaption>Şekil: MACD anatomisi — mavi MACD çizgisi, turuncu sinyal hattı, histogram sütunları ve yatay sıfır çizgisi.</figcaption>
+  </figure>
+
+  <h3>1. MACD çizgisi (MACD line)</h3>
+
+  <p>MACD çizgisi, göstergenin kalbidir. Hesabı:</p>
+
+  <div class="formula">
+    MACD çizgisi = EMA<sub>12</sub> − EMA<sub>26</sub>
+  </div>
+
+  <p>Sonuç pozitifse kısa vadeli ortalama uzun vadelinin üzerindedir; bu genelde yükseliş momentumu ile ilişkilendirilir. Negatifse kısa ortalama altta demektir — düşüş momentumu. Sıfıra yakın değerler, iki ortalamanın birbirine yakın olduğu, trendin zayıf veya dönüşüm aşamasında olabileceği anlamına gelir.</p>
+
+  <p>MACD çizgisinin <strong>eğimi</strong> de önemlidir: yukarı eğim momentum artışı, aşağı eğim momentum kaybı. Sadece pozitif/negatif bakmak yeterli değildir; çizgi pozitif olsa bile aşağı dönmeye başlayabilir — bu erken uyarı niteliğindedir. Aynı şekilde MACD derin negatifteyken eğim yukarı dönüyorsa, henüz sıfır üstüne çıkılmamış olsa bile “satış baskısı yavaşlıyor” mesajı taşınabilir. Bu tür ince okuma, ikinci bölümde sinyal filtreleriyle birleştiğinde anlam kazanır.</p>
+
+  <h3>2. Sinyal hattı (signal line)</h3>
+
+  <p>Sinyal hattı, MACD çizgisinin 9 periyotluk EMA’sıdır. Amacı MACD’deki kısa vadeli dalgalanmaları yumuşatmak ve “kesişim” sinyalleri üretmektir.</p>
+
+  <div class="formula">
+    Sinyal hattı = EMA<sub>9</sub>(MACD çizgisi)
+  </div>
+
+  <p>Klasik yorum:</p>
+  <ul>
+    <li>MACD çizgisi sinyal hattını <strong>yukarı</strong> keserse → alım sinyali (bullish crossover).</li>
+    <li>MACD çizgisi sinyal hattını <strong>aşağı</strong> keserse → satım sinyali (bearish crossover).</li>
+  </ul>
+
+  <p>Bu kesişimler trendli piyasalarda daha anlamlıdır. Yatay piyasada MACD ve sinyal hattı birbirine çok yakın salınır; sık kesişim = sık yanlış sinyal riski.</p>
+
+  <h3>3. Histogram</h3>
+
+  <p>Histogram, MACD çizgisi ile sinyal hattı arasındaki farkın sütun grafiği olarak çizilmesidir:</p>
+
+  <div class="formula">
+    Histogram = MACD çizgisi − Sinyal hattı
+  </div>
+
+  <p>Histogram pozitifse MACD sinyalin üzerinde; negatifse altında. Sütunlar büyüdükçe iki çizgi arasındaki mesafe artıyor demektir — momentum güçleniyor olabilir. Sütunlar küçülürken (ama henüz negatife geçmeden) momentum zayıflıyor olabilir; bu bazen kesişimden önce görülür.</p>
+
+  <p>Birçok platform histogramı renklendirir: yeşil (veya mavi) pozitif, kırmızı negatif. Renk değişimi — pozitiften negatife veya tersi — kesişim anına yakın görsel ipucu verir.</p>
+
+  <h3>Sıfır çizgisi (zero line)</h3>
+
+  <p>Yatay sıfır seviyesi, MACD çizgisinin pozitif ile negatif arasında geçiş yaptığı yerdir. MACD’nin sıfırı yukarı kesmesi, 12 EMA’nın 26 EMA’nın üzerine çıktığı anlamına gelir — orta vadeli “yükseliş rejimi” sinyali olarak yorumlanır. Aşağı kesmesi düşüş rejimi. Sıfır çizgisi kesişimleri sinyal hattı kesişimlerinden daha geç ama genelde daha “ağır” kabul edilir.</p>
+
+  <h3>Üç parçanın birlikte okunması</h3>
+
+  <p>Düşünün: MACD çizgisi “ham momentum farkı”, sinyal hattı “yumuşatılmış eşik”, histogram “ikisi arasındaki gerilim”dir.</p>
+
+  <ol>
+    <li>Fiyat güçlü yükseliyor → MACD pozitif ve büyüyor → histogram sütunları uzuyor.</li>
+    <li>Yükseliş yavaşlıyor → MACD hâlâ pozitif ama eğim düzleşiyor → histogram küçülüyor.</li>
+    <li>MACD sinyali aşağı kesiyor → histogram negatife geçiyor → kısa vadeli satış baskısı sinyali.</li>
+    <li>MACD sıfırın altında ama yukarı dönüyor → histogram negatiften küçülüyor → potansiyel dip dönüşü izlenmeli.</li>
+  </ol>
+
+  <h3>Panel ölçeği ve karşılaştırma</h3>
+
+  <p>MACD değerleri fiyat birimi değildir; hisse 10 TL veya 1000 TL olsa da MACD ölçeği farklıdır. Bu yüzden iki farklı hissenin MACD değerlerini doğrudan karşılaştırmak anlamsızdır. Aynı enstrümanda zaman içindeki değişim ve sıfır çizgisine göre konum önemlidir.</p>
+
+  <h3>Platform farklılıkları</h3>
+
+  <p>TradingView, MetaTrader, Thinkorswim gibi platformlarda renkler ve varsayılan kalınlıklar değişebilir; mantık aynıdır. Bazı platformlarda MACD çizgisi “MACD”, bazen “Value” diye etiketlenir. Sinyal hattı “Signal” olarak geçer. Ayarlarda “12, 26, 9” görüyorsanız standart Appel MACD’sindesiniz demektir.</p>
+
+  <h3>Mini senaryo: Günlük grafikte bir hafta</h3>
+
+  <p>Pazartesi: MACD −0,5, sinyal −0,3, histogram −0,2 (negatif bölge, MACD sinyalin altında).</p>
+  <p>Çarşamba: MACD −0,1, sinyal −0,2, histogram +0,1 (MACD sinyali yukarı kesti — histogram pozitife döndü).</p>
+  <p>Cuma: MACD +0,2, sinyal 0, histogram +0,2 (sıfır çizgisinin hemen üstü — rejim değişimi ihtimali).</p>
+  <p>Bu senaryoda çarşamba kesişimi erken uyarı, cuma sıfır üstü “trend onayı” arayışı olabilir. Tek başına alım emri değil; örnek okuma zinciri.</p>
+
+  <div class="callout warn">
+    <p>Histogram bazen MACD çizgisinden daha “gürültülü” görünür çünkü fark alınır. Çok kısa vadeli grafiklerde (1 dakika gibi) üç parça da hızlı salınır; bu kitapta önce günlük ve 4 saatlik gibi orta vadeli düşünmeyi öneriyoruz.</p>
+  </div>
+
+  <h3>Üç parçanın zaman içindeki dansı</h3>
+
+  <p>Güçlü bir yükseliş trendinde tipik sıra şöyledir: önce MACD çizgisi sıfırın altından yukarı çıkar ve sinyal hattını keser; histogram pozitife döner ve büyür; MACD sıfır çizgisini yukarı keser; histogram zirve yapar ve yavaşça küçülmeye başlar; MACD sinyali aşağı keser; histogram negatife geçer. Trend henüz bitmemiş olsa bile kısa vadeli düzeltme uyarısı alınmış olur. Bu diziyi bir kez canlı grafikte izlemek, ikinci bölümdeki sinyal kurallarını ezberlemekten daha kalıcıdır.</p>
+
+  <h3>Negatif bölgede okuma</h3>
+
+  <p>MACD negatifken kötü demek doğru değildir; düşüş trendinde veya düzeltme aşamasında olmak normaldir. Negatif bölgede MACD’nin sinyali yukarı kesmesi, düşüş momentumunun kısa süreliğine zayıfladığını gösterebilir — bu bir karşı trend tepkisinin habercisi olabilir, ama ana trend hâlâ aşağı olabilir. Ana trend yönünde işlem arayanlar, negatif bölgedeki yukarı kesişimleri daha küçük ölçekte değerlendirir; trend yönüne göre filtre kullanmak ilerleyen bölümlerin konusudur.</p>
+
+  <h3>Görsel hiyerarşi: neye önce bakılır?</h3>
+
+  <p>Pratikte birçok okuyucu şu sırayı benimser: önce fiyat ve genel trend, sonra MACD’nin sıfır çizgisine göre konumu, ardından sinyal kesişimi, en son histogram inceliği. Histogram erken uyarı verebilir ama tek başına işlem nedeni sayılmamalıdır. Bu hiyerarşi, panik halinde her sinyale atlamanızı önler.</p>
+
+  <div class="callout">
+    <p><strong>Alıştırma</strong></p>
+    <ol>
+      <li>MACD çizgisi +0,8, sinyal +0,5 iken histogram değeri nedir?</li>
+      <li>Histogram küçülüyor ama hâlâ pozitif — bu ne anlama gelebilir?</li>
+      <li>Sıfır çizgisi kesişimi ile sinyal hattı kesişiminden hangisi genelde daha geç oluşur? Neden?</li>
+    </ol>
+    <p><em>Cevaplar ekte.</em></p>
+  </div>
+</section>
+
+<section class="chapter" id="formul">
+  <h2>Formül ve elle anlaşılır hesap sezgisi</h2>
+
+  <p>Bu bölümde MACD’nin nasıl hesaplandığını adım adım göreceğiz. Günlük hayatta her gün elle hesap yapmanız gerekmez; grafik yazılımı bunu otomatik yapar. Yine de formülü anlamak, göstergenin neden geciktiğini, neden bazen sinyal vermediğini ve parametre değiştirince ne olacağını kavramanızı sağlar. Birçok başarısız strateji, göstergenin ne ölçtüğünü bilmeden kurallar listesine dayanır; siz önce ölçümü, sonra kuralı öğrenin.</p>
+
+  <figure>
+    <img src="gorseller/02-macd-formulu.png" alt="MACD hesap akışı: kapanış fiyatından EMA12, EMA26, MACD çizgisi, sinyal ve histogram">
+    <figcaption>Şekil: MACD hesap zinciri — kapanış fiyatı → EMA’lar → fark → sinyal EMA’sı → histogram.</figcaption>
+  </figure>
+
+  <h3>Standart parametreler: 12, 26, 9</h3>
+
+  <ul>
+    <li><strong>12:</strong> Hızlı EMA periyodu.</li>
+    <li><strong>26:</strong> Yavaş EMA periyodu.</li>
+    <li><strong>9:</strong> Sinyal hattı EMA periyodu.</li>
+  </ul>
+
+  <p>Bu üç sayı “Appel MACD”nin evrensel varsayılanıdır. Değiştirmek isterseniz (örneğin 8, 17, 9) yeni bir gösterge profili oluşturursunuz; sonuçları karşılaştırırken aynı parametreleri kullanmalısınız.</p>
+
+  <h3>Hesap adımları (özet)</h3>
+
+  <ol>
+    <li>Her kapanış fiyatı için <strong>EMA<sub>12</sub></strong> hesapla.</li>
+    <li>Aynı seri için <strong>EMA<sub>26</sub></strong> hesapla.</li>
+    <li><strong>MACD<sub>t</sub> = EMA<sub>12,t</sub> − EMA<sub>26,t</sub></strong></li>
+    <li>MACD serisinin üzerinde <strong>9 periyotluk EMA</strong> al → sinyal hattı.</li>
+    <li><strong>Histogram<sub>t</sub> = MACD<sub>t</sub> − Sinyal<sub>t</sub></strong></li>
+  </ol>
+
+  <p>EMA hesabı için önceki bölümdeki formül geçerlidir. İlk 26 gün için MACD tam anlamıyla “oturmamış” olabilir; pratikte trader’lar genelde yeterli geçmiş veri olduğunda (50–100 mum) okumaya başlar.</p>
+
+  <h3>Basitleştirilmiş sayısal örnek</h3>
+
+  <p>Gerçek piyasada onlarca ondalık basamak vardır; öğrenme için yuvarlak sayılar kullanalım. Diyelim ki belirli bir gün sonunda:</p>
+
+  <ul>
+    <li>EMA<sub>12</sub> = 48,50 TL</li>
+    <li>EMA<sub>26</sub> = 47,00 TL</li>
+  </ul>
+
+  <div class="formula">
+    MACD = 48,50 − 47,00 = <strong>+1,50</strong>
+  </div>
+
+  <p>Önceki günlerin MACD değerleri: 1,20; 1,35; 1,42; 1,48; 1,50 olsun. Sinyal hattı bu serinin 9 EMA’sıdır — tam hesap uzundur; basitleştirilmiş olarak sinyal ≈ <strong>1,30</strong> diyelim.</p>
+
+  <div class="formula">
+    Histogram = 1,50 − 1,30 = <strong>+0,20</strong>
+  </div>
+
+  <p>MACD sinyalin üzerinde, histogram pozitif — kısa vadeli momentum, yumuşatılmış eşiğin üstünde. Ertesi gün MACD 1,45’e düşerse (fiyat hafif geri çekilmiş olabilir), histogram küçülür; kesişim henüz olmasa da momentum zayıflama izlenir.</p>
+
+  <h3>EMA çarpanları tablosu</h3>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Periyot</th>
+        <th>Çarpan = 2 ÷ (n + 1)</th>
+        <th>MACD’deki rol</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>12</td>
+        <td>2 ÷ 13 ≈ 0,1538</td>
+        <td>Hızlı EMA — kısa vadeli fiyat</td>
+      </tr>
+      <tr>
+        <td>26</td>
+        <td>2 ÷ 27 ≈ 0,0741</td>
+        <td>Yavaş EMA — uzun vadeli fiyat</td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td>2 ÷ 10 = 0,2000</td>
+        <td>Sinyal hattı — MACD’nin yumuşatıcısı</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>26 periyotlu EMA’nın çarpanı daha küçük olduğu için daha yavaş hareket eder; 12 ile arasındaki fark MACD’yi oluşturur.</p>
+
+  <h3>Neden fark alınıyor?</h3>
+
+  <p>Tek bir EMA çizgisi fiyatı takip eder; iki EMA farkı ise “kısa vadeli ortalama, uzun vadeliye göre ne kadar önde?” sorusunu yanıtlar. Fark büyüdükçe trend hızlanmış demektir. Fark küçüldükçe trend yoruluyor olabilir. Bu, MACD ismindeki yakınsama ve ıraksamanın matematiksel köküdür.</p>
+
+  <h3>Elle hesap: mini veri seti</h3>
+
+  <p>Beş günlük kapanış: 100, 102, 104, 103, 105. Uzun seri olmadan tam MACD hesaplanamaz; ama sezgi için 12 ve 26 yerine <em>3 ve 5 günlük EMA</em> ile oyuncak örnek yapalım (oranlar farklı, mantık aynı).</p>
+
+  <p>3 günlük EMA (çarpan 0,5) son gün ≈ 104; 5 günlük SMA başlangıç için ≈ 102,8 (tam EMA26 yerine basit ortalama). Oyuncak MACD ≈ 104 − 102,8 = <strong>1,2</strong> (pozitif, kısa ortalama uzunun üstünde).</p>
+
+  <p>Bu rakamlar gerçek 12-26 MACD değil; ama “kısa EMA &gt; uzun EMA → pozitif MACD” ilişkisini pekiştirir.</p>
+
+  <h3>Hesap sezgisi: gecikme nereden gelir?</h3>
+
+  <p>MACD üç katmanlı EMA içerir (12, 26 ve sinyal için 9). Her EMA son fiyatı bir derece yumuşatır. Bu yüzden MACD, fiyatın zirvesinden veya dibinden genelde sonra döner. Bu kusur değil; tasarım gereği gürültüyü filtreleme bedelidir. Çok hızlı sinyal isteyenler periyotları kısaltır (risk: daha fazla yanlış sinyal). Daha ağır sinyal isteyenler uzatır (risk: geç kalma).</p>
+
+  <div class="callout">
+    <p><strong>Pratik not:</strong> Excel veya Google Eğitim Tabloları’nda EMA fonksiyonu ile MACD sütunları oluşturup grafikle karşılaştırma yapabilirsiniz. Bir kez elle kurmak, platform ayarlarını değiştirdiğinizde neyin değiştiğini anlamanızı kolaylaştırır.</p>
+  </div>
+
+  <h3>Parametre değiştirince ne olur?</h3>
+
+  <ul>
+    <li><strong>12’yi 8 yapmak:</strong> Daha hızlı MACD, daha erken kesişimler, daha fazla gürültü.</li>
+    <li><strong>26’yı 30 yapmak:</strong> Daha yavaş MACD, daha az sinyal, daha geç tepki.</li>
+    <li><strong>9’u 5 yapmak:</strong> Sinyal hattı MACD’ye daha yakın; histogram kısa periyotta daha oynak.</li>
+  </ul>
+
+  <p>Optimum parametre diye evrensel bir cevap yoktur; enstrüman, zaman dilimi ve işlem stilinize bağlıdır. Bu kitabın ilerleyen kısımlarında günlük ve swing trade için farklı düşünceler paylaşacağız. Şimdilik 12-26-9 üçlüsünü değiştirmeden en az bir ay gözlem yapmanız, kendi gözleminizi oluşturmanız açısından değerlidir. Sabır, bu alanda en az formül kadar önemlidir.</p>
+
+  <h3>MACD ile fiyat: birim bağımsızlığı</h3>
+
+  <p>EMA<sub>12</sub> ve EMA<sub>26</sub> aynı birimde (TL, dolar vb.) olduğu için fark da o birimdedir. Hisse fiyatı ikiye katlanırsa EMA’lar da ölçeklenir; MACD mutlak değer olarak büyür ama sıfır çizgisi ve kesişim mantığı korunur. Yüzdesel normalizasyon isteyenler MACD’yi fiyata bölen türevler kullanır; bu kitapta klasik MACD yeterlidir.</p>
+
+  <h3>Özet formül kartı</h3>
+
+  <div class="formula">
+    Çarpan<sub>n</sub> = 2 ÷ (n + 1)<br>
+    EMA<sub>bugün</sub> = Kapanış × Çarpan + EMA<sub>dün</sub> × (1 − Çarpan)<br>
+    MACD = EMA<sub>12</sub> − EMA<sub>26</sub><br>
+    Sinyal = EMA<sub>9</sub>(MACD)<br>
+    Histogram = MACD − Sinyal
+  </div>
+
+  <p>Bu beş satır, standart MACD’nin tam matematiksel özüdür. Geri kalan her şey — renkler, uyarılar, strateji kuralları — bu özün yorum katmanıdır.</p>
+
+  <h3>Adım adım tablo örneği (oyuncak veri)</h3>
+
+  <p>Aşağıdaki tablo öğretim amaçlıdır; gerçek EMA hesabı önceki günlerin tam serisini gerektirir. Son iki gün için MACD sezgisi kuruyoruz:</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Gün</th>
+        <th>Kapanış</th>
+        <th>EMA<sub>12</sub> (yaklaşık)</th>
+        <th>EMA<sub>26</sub> (yaklaşık)</th>
+        <th>MACD</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>t−1</td>
+        <td>50,00</td>
+        <td>48,20</td>
+        <td>47,80</td>
+        <td>+0,40</td>
+      </tr>
+      <tr>
+        <td>t</td>
+        <td>52,00</td>
+        <td>48,80</td>
+        <td>48,10</td>
+        <td>+0,70</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Fiyat 50’den 52’ye sıçradığında MACD 0,40’tan 0,70’e yükseldi — kısa EMA uzun EMA’dan daha hızlı yukarı çekildi. Sinyal hattı 9 günlük yumuşatma olduğu için bir günde 0,40’tan 0,70’e zıplamaz; örneğin 0,55’te kalıyorsa histogram +0,15 olur ve büyümeye devam eder. Bu mekanizma, neden histogramın bazen kesişimden önce küçülmeye başladığını açıklar.</p>
+
+  <h3>Yaygın hesap hataları</h3>
+
+  <ul>
+    <li><strong>Yetersiz geçmiş veri:</strong> İlk 26 mumda EMA tam oturmamış olabilir; karşılaştırmaları en az 50 mumdan sonra yapmak daha güvenilirdir.</li>
+    <li><strong>Farklı kapanış türü:</strong> Bazı platformlar bölünme düzeltmeli kapanış kullanır; başka platformla karşılaştırırken aynı veri kaynağını kullanın.</li>
+    <li><strong>Sinyal periyodunu unutmak:</strong> MACD çizgisi hesaplandıktan sonra bir kez daha EMA uygulanır; bu adımı atlamak yanlış sonuç verir.</li>
+  </ul>
+
+  <h3>Formülü bilmenin pratik faydası</h3>
+
+  <p>Elle hesap yapmak zorunda kalmayacaksınız; ancak formülü bilince şunları yapabilirsiniz: platformda MACD hızlı periyodu 8 yaptığınızda neyin değiştiğini tahmin edersiniz; backtest sonuçlarını yorumlarken aşırı uyum riskini sorgularsınız; bir eğitim videosunda anlatılanın standart MACD mi yoksa özel bir varyant mı olduğunu ayırt edersiniz. Bu eleştirel okuma, kitabın genel eğitim felsefesiyle uyumludur.</p>
+
+  <div class="callout">
+    <p><strong>Alıştırma</strong></p>
+    <ol>
+      <li>EMA<sub>12</sub> = 25,40 ve EMA<sub>26</sub> = 25,90 ise MACD değeri ve kısa yorumunuz nedir?</li>
+      <li>9 periyotluk sinyal hattının çarpanını hesaplayın.</li>
+      <li>MACD’de üç EMA katmanı olduğu için gecikme artar — bu cümleyi kabul ediyor musunuz? Gerekçenizle açıklayın.</li>
+    </ol>
+    <p><em>Cevaplar ekte.</em></p>
+  </div>
+
+  <p>Birinci bölümü burada tamamlıyoruz. Hareketli ortalama mantığını, MACD’nin ne olduğunu, üç bileşenini ve hesap zincirini öğrendiniz. İkinci bölümde bu iskeleti kullanarak sinyalleri, histogram dönüşümlerini ve fiyat–MACD uyumsuzluklarını okumaya geçeceğiz. Grafiğinizi açık tutun; öğrenme yolu teoriden pratiğe uzanır. Bir sonraki oturumda günlük grafikte en az bir enstrümanda MACD panelini açıp bu bölümdeki terimleri etiketlemeyi deneyin: MACD çizgisi nerede, sinyal nerede, histogram pozitif mi negatif mi? Bu basit alıştırma, ikinci bölüme güçlü bir giriş sağlar.</p>
+</section>
