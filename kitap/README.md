@@ -1,39 +1,48 @@
-# Yıldızların Defteri
+# MACD: Sıfırdan Ustaya Tam Rehber
 
-Kısa bir edebi roman taslağı. Gece, hafıza ve yazma eylemi üzerine.
+**Alt başlık:** Moving Average Convergence Divergence — formül, sinyaller, ıraksama, stratejiler ve görsel örneklerle eksiksiz kitap
 
-## Özet
+**Dil:** Türkçe  
+**Tür:** Teknik analiz eğitim kitabı  
+**Kapsam:** Teori + hesaplama + sinyal okuma + strateji + risk / tuzaklar  
+**Görseller:** `kitap/gorseller/` (14 şekil)  
+**Örnek kod:** `kitap/ornekler/macd_gorselleri_uret.py`
 
-Deniz, babasından kalan boş bir defteri açtığında içinde tek bir cümle bulur: *“Yıldızlar kaybolmaz; sadece isimlerini unuturuz.”* Defteri doldurmaya başladıkça hem ailesinin hem de kendi hayatının eksik sayfalarını yeniden yazar.
+---
 
-## Tür
+## Bu kitap kime göre?
 
-Edebi kurgu · kısa roman (novella)
+- Teknik analize yeni başlayanlar
+- MACD’yi “kesişim = al/sat” diye ezberleyen ama nedenini bilmeyenler
+- Forex, hisse, kripto veya endeks grafiklerinde momentum okumak isteyenler
 
-## Dosya düzeni
+## Kitap yapısı
 
+| # | Bölüm | Dosya |
+|---|--------|--------|
+| 01 | MACD nedir? | `bolumler/01-macd-nedir.md` |
+| 02 | Tarihçe ve standart ayarlar | `bolumler/02-tarihce-ve-ayarlar.md` |
+| 03 | Formül ve adım adım hesaplama | `bolumler/03-formul-ve-hesaplama.md` |
+| 04 | Üç bileşeni derinlemesine | `bolumler/04-uc-bilesen.md` |
+| 05 | Temel sinyaller | `bolumler/05-temel-sinyaller.md` |
+| 06 | Iraksama (divergence) | `bolumler/06-iraksama.md` |
+| 07 | Zaman dilimi ve ayar seçimi | `bolumler/07-zaman-dilimi-ayar.md` |
+| 08 | Stratejiler ve karar akışı | `bolumler/08-stratejiler.md` |
+| 09 | Diğer göstergelerle kombinasyon | `bolumler/09-kombinasyon.md` |
+| 10 | Hatalar, tuzaklar, risk yönetimi | `bolumler/10-hatalar-ve-risk.md` |
+| 11 | Pratik kontrol listesi | `bolumler/11-kontrol-listesi.md` |
+| Ek A | Sözlük | `ekler/sozluk.md` |
+| Ek B | Formül kartı | `ekler/formul-karti.md` |
+| Ek C | Kaynaklar | `ekler/kaynaklar.md` |
+
+Tek dosyada okumak için: [`KITAP.md`](KITAP.md)
+
+## Görselleri yeniden üretmek
+
+```bash
+python3 kitap/ornekler/macd_gorselleri_uret.py
 ```
-kitap/
-├── README.md              ← bu dosya
-├── ozet-ve-plan.md        ← konu, perde yapısı, temalar
-├── karakterler/           ← karakter notları
-├── bolumler/              ← bölüm metinleri
-└── notlar/                ← üslup, dünya, araştırma notları
-```
 
-## Yazım durumu
+## Önemli uyarı
 
-| Bölüm | Başlık | Durum |
-|-------|--------|-------|
-| 01 | Boş Sayfa | Taslak |
-| 02 | Kuzey | Taslak |
-| 03 | Kayıp İsimler | Taslak |
-| 04 | Defterin Ortası | Taslak |
-| 05 | Son Yıldız | Taslak |
-
-## Nasıl devam edilir?
-
-1. `ozet-ve-plan.md` içinde konuyu veya türü değiştirin.
-2. Yeni bölüm için `bolumler/06-baslik.md` ekleyin.
-3. Karakter değişimleri `karakterler/` altında güncellensin.
-4. Bitmiş metni birleştirmek için bölümleri sırayla okuyun veya birleştirin.
+Bu kitap **eğitim amaçlıdır**. Yatırım tavsiyesi değildir. Geçmiş performans gelecek sonuçları garanti etmez. Gerçek sermaye ile işlem açmadan önce kendi risk kurallarınızı ve test süreçlerinizi uygulayın.
