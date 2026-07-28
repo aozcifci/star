@@ -1,0 +1,911 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sinyalin Ritmi — MACD'yi Sade Anlatım</title>
+  <meta name="description" content="Giriş ve orta seviye için görsellerle desteklenmiş MACD rehberi." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #0f1c24;
+      --bg-2: #152832;
+      --ink: #e8f0f4;
+      --muted: #8aa3b0;
+      --teal: #2ec4b6;
+      --amber: #f4a261;
+      --coral: #e76f51;
+      --gold: #e9c46a;
+      --line: #243944;
+      --max: 720px;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: "Source Sans 3", system-ui, sans-serif;
+      background:
+        radial-gradient(1200px 600px at 10% -10%, #1a3a44 0%, transparent 55%),
+        radial-gradient(900px 500px at 100% 0%, #2a2418 0%, transparent 45%),
+        var(--bg);
+      color: var(--ink);
+      line-height: 1.7;
+      font-size: 1.05rem;
+    }
+
+    a { color: var(--teal); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+    a:hover { color: var(--gold); }
+
+    .wrap { width: min(var(--max), calc(100% - 2rem)); margin: 0 auto; }
+
+    /* Cover */
+    .cover {
+      min-height: 100vh;
+      display: grid;
+      align-content: end;
+      padding: 2rem 0 3.5rem;
+      position: relative;
+      overflow: hidden;
+    }
+    .cover::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(180deg, rgba(15,28,36,0.25) 0%, rgba(15,28,36,0.88) 62%, var(--bg) 100%),
+        url("gorseller/00-kapak.png") center / cover no-repeat;
+      z-index: 0;
+    }
+    .cover .wrap { position: relative; z-index: 1; }
+    .cover-kicker {
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      font-size: 0.78rem;
+      color: var(--teal);
+      font-weight: 600;
+      margin-bottom: 0.75rem;
+    }
+    .cover h1 {
+      font-family: "Fraunces", Georgia, serif;
+      font-size: clamp(2.6rem, 8vw, 4.4rem);
+      line-height: 1.05;
+      margin: 0 0 0.6rem;
+      font-weight: 700;
+      max-width: 12ch;
+    }
+    .cover .subtitle {
+      font-size: clamp(1.15rem, 3vw, 1.45rem);
+      color: var(--amber);
+      margin: 0 0 1rem;
+      font-weight: 600;
+    }
+    .cover .lead {
+      max-width: 38ch;
+      color: var(--muted);
+      margin: 0 0 1.75rem;
+    }
+    .cover-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem 1.25rem;
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+    .cover-meta span { border-left: 2px solid var(--teal); padding-left: 0.7rem; }
+
+    /* Nav */
+    nav.toc {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      backdrop-filter: blur(10px);
+      background: rgba(15, 28, 36, 0.82);
+      border-bottom: 1px solid var(--line);
+      padding: 0.65rem 0;
+    }
+    nav.toc .wrap {
+      display: flex;
+      gap: 0.85rem;
+      overflow-x: auto;
+      scrollbar-width: thin;
+      white-space: nowrap;
+      font-size: 0.88rem;
+    }
+    nav.toc a {
+      color: var(--muted);
+      text-decoration: none;
+      padding: 0.25rem 0;
+    }
+    nav.toc a:hover { color: var(--ink); }
+
+    /* Chapters */
+    section.chapter {
+      padding: 3.5rem 0 1rem;
+      border-top: 1px solid var(--line);
+    }
+    .chapter-num {
+      font-size: 0.8rem;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--teal);
+      font-weight: 700;
+      margin-bottom: 0.4rem;
+    }
+    h2 {
+      font-family: "Fraunces", Georgia, serif;
+      font-size: clamp(1.7rem, 4vw, 2.25rem);
+      line-height: 1.2;
+      margin: 0 0 1rem;
+    }
+    h3 {
+      font-family: "Fraunces", Georgia, serif;
+      font-size: 1.25rem;
+      margin: 2rem 0 0.6rem;
+      color: var(--gold);
+    }
+    p { margin: 0 0 1rem; }
+    .muted { color: var(--muted); }
+
+    figure {
+      margin: 1.75rem 0 2rem;
+    }
+    figure img {
+      width: 100%;
+      height: auto;
+      border-radius: 6px;
+      display: block;
+      border: 1px solid var(--line);
+      background: var(--bg-2);
+    }
+    figcaption {
+      margin-top: 0.55rem;
+      font-size: 0.9rem;
+      color: var(--muted);
+      text-align: center;
+    }
+
+    .callout {
+      background: linear-gradient(135deg, rgba(46,196,182,0.08), rgba(233,196,106,0.06));
+      border: 1px solid var(--line);
+      border-left: 3px solid var(--teal);
+      border-radius: 4px;
+      padding: 1rem 1.15rem;
+      margin: 1.4rem 0;
+    }
+    .callout.warn {
+      border-left-color: var(--coral);
+      background: linear-gradient(135deg, rgba(231,111,81,0.08), rgba(15,28,36,0.2));
+    }
+    .callout strong { color: var(--ink); }
+
+    ul, ol { margin: 0 0 1.1rem; padding-left: 1.2rem; }
+    li { margin: 0.35rem 0; }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.2rem 0 1.6rem;
+      font-size: 0.95rem;
+    }
+    th, td {
+      border: 1px solid var(--line);
+      padding: 0.65rem 0.75rem;
+      text-align: left;
+      vertical-align: top;
+    }
+    th {
+      background: var(--bg-2);
+      color: var(--teal);
+      font-weight: 600;
+    }
+
+    .formula {
+      font-family: ui-monospace, "Cascadia Code", monospace;
+      background: var(--bg-2);
+      border: 1px solid var(--line);
+      border-radius: 4px;
+      padding: 0.85rem 1rem;
+      margin: 1rem 0 1.3rem;
+      overflow-x: auto;
+      color: var(--gold);
+      font-size: 0.95rem;
+    }
+
+    .grid-2 {
+      display: grid;
+      gap: 1rem;
+      grid-template-columns: 1fr;
+      margin: 1.2rem 0;
+    }
+    @media (min-width: 640px) {
+      .grid-2 { grid-template-columns: 1fr 1fr; }
+    }
+    .mini {
+      background: var(--bg-2);
+      border: 1px solid var(--line);
+      border-radius: 4px;
+      padding: 1rem;
+    }
+    .mini h4 {
+      margin: 0 0 0.4rem;
+      font-family: "Fraunces", Georgia, serif;
+      font-size: 1.05rem;
+      color: var(--amber);
+    }
+
+    footer.book-end {
+      padding: 3rem 0 4rem;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+    footer.book-end h2 {
+      color: var(--ink);
+      font-size: 1.6rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .glossary dt {
+      font-weight: 700;
+      color: var(--teal);
+      margin-top: 0.85rem;
+    }
+    .glossary dd {
+      margin: 0.15rem 0 0;
+      color: var(--muted);
+    }
+
+    @media print {
+      nav.toc { display: none; }
+      .cover { min-height: auto; page-break-after: always; }
+      section.chapter { page-break-before: always; }
+      body { background: #fff; color: #111; }
+      a { color: #000; }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="cover" id="kapak">
+    <div class="wrap">
+      <p class="cover-kicker">Teknik Analiz · Görsel Rehber</p>
+      <h1>Sinyalin Ritmi</h1>
+      <p class="subtitle">MACD'yi Sade Anlatım</p>
+      <p class="lead">
+        Hareketli ortalamaların kesişiminden momentumun diline:
+        giriş ve orta seviye okuyucu için anlaşılır, görsellerle desteklenmiş bir MACD kitabı.
+      </p>
+      <div class="cover-meta">
+        <span>Seviye: Giriş → Orta</span>
+        <span>Odak: Anlama + Uygulama</span>
+        <span>Görsel anlatım</span>
+      </div>
+    </div>
+  </header>
+
+  <nav class="toc" aria-label="İçindekiler">
+    <div class="wrap">
+      <a href="#giris">Giriş</a>
+      <a href="#bolum-1">1. Nedir?</a>
+      <a href="#bolum-2">2. Anatomi</a>
+      <a href="#bolum-3">3. Formül</a>
+      <a href="#bolum-4">4. Kesişim</a>
+      <a href="#bolum-5">5. Sıfır</a>
+      <a href="#bolum-6">6. Histogram</a>
+      <a href="#bolum-7">7. Uyumsuzluk</a>
+      <a href="#bolum-8">8. Ayarlar</a>
+      <a href="#bolum-9">9. Strateji</a>
+      <a href="#bolum-10">10. Hatalar</a>
+      <a href="#bolum-11">11. Birlikte</a>
+      <a href="#ozet">Özet</a>
+      <a href="#sozluk">Sözlük</a>
+    </div>
+  </nav>
+
+  <main>
+
+    <section class="chapter" id="giris">
+      <div class="wrap">
+        <p class="chapter-num">Önsöz</p>
+        <h2>Neden bu kitap?</h2>
+        <p>
+          MACD, grafik platformlarında en sık açılan göstergelerden biridir.
+          Yine de birçok kişi onu “yeşil kesişim = al, kırmızı kesişim = sat” diye ezberler.
+          Bu yaklaşım bazen işe yarar; çoğu zaman da yatay piyasada üst üste yanlış sinyal üretir.
+        </p>
+        <p>
+          Bu kitap ezberi değil <em>anlamayı</em> hedefler. MACD’nin neyi ölçtüğünü,
+          üç bileşeninin nasıl konuştuğunu ve sinyalleri nasıl süzgeçten geçireceğini
+          sade bir dille anlatır. Matematik korkutucu olmayacak; formüller kısa tutulacak.
+          Asıl ağırlık görsellerde ve pratik yorumda.
+        </p>
+        <div class="callout">
+          <strong>Kimler için?</strong>
+          Yeni başlayanlar ve “MACD’yi açıyorum ama emin değilim” diyen orta seviye okuyucular için.
+          Günlük al-sat vaadi yoktur; piyasa risk içerir. Bu bir eğitim materyalidir.
+        </div>
+        <p class="muted">
+          Tarihçe notu: MACD, 1970’lerde Gerald Appel tarafından geliştirildi.
+          Histogram bileşeni ise Thomas Aspray’in katkılarıyla popülerleşti.
+          Bugün hisse, forex, kripto ve emtia grafiklerinde aynı mantıkla kullanılır.
+        </p>
+      </div>
+    </section>
+
+    <section class="chapter" id="bolum-1">
+      <div class="wrap">
+        <p class="chapter-num">Bölüm 1</p>
+        <h2>MACD nedir? İsmin içindeki hikâye</h2>
+        <p>
+          <strong>MACD</strong> açılımı İngilizce’de
+          <em>Moving Average Convergence Divergence</em> demektir.
+          Türkçeye sade çeviriyle: <strong>Hareketli Ortalamaların Yakınsaması ve Iraksaması</strong>.
+        </p>
+        <p>
+          Buradaki fikir şudur: Kısa vadeli bir ortalama ile uzun vadeli bir ortalama
+          birbirine yaklaşıyor mu (yakınsama / convergence), yoksa uzaklaşıyor mu (ıraksama / divergence)?
+          Bu yaklaşma–uzaklaşma, fiyatın momentumunu ölçmenin pratik bir yoludur.
+        </p>
+
+        <figure>
+          <img src="gorseller/08-yakinsama-iraksama.png" alt="EMA12 ve EMA26 yakınsama-ıraksama ve MACD farkı" />
+          <figcaption>Şekil 1 — İki ortalama birbirine yaklaşınca MACD sıfıra gider; uzaklaşınca MACD büyür.</figcaption>
+        </figure>
+
+        <h3>Trend mi, momentum mu?</h3>
+        <p>
+          MACD hem trend takip eden hem de momentum ölçen bir göstergedir.
+          Trend tarafı: kısa ortalama uzun ortalamanın üstünde mi, altında mı?
+          Momentum tarafı: bu fark büyüyor mu, küçülüyor mu?
+        </p>
+        <p>
+          Bu yüzden MACD’ye “saf osilatör” demek eksik kalır. RSI gibi aşırı alım/satım
+          seviyelerine sıkışmaz; sıfır çizgisinin üstünde ve altında serbestçe dolaşır.
+        </p>
+
+        <div class="grid-2">
+          <div class="mini">
+            <h4>Ne işe yarar?</h4>
+            <ul>
+              <li>Trend yönünü okumak</li>
+              <li>Momentum değişimini görmek</li>
+              <li>Olası dönüş uyarıları almak</li>
+              <li>Giriş–çıkış zamanlamasını iyileştirmek</li>
+            </ul>
+          </div>
+          <div class="mini">
+            <h4>Ne değildir?</h4>
+            <ul>
+              <li>Tek başına “garanti sinyal” makinesi değil</li>
+              <li>Geleceği bilmez; gecikmeli ölçer</li>
+              <li>Yatay piyasada sık yanıltır</li>
+              <li>Risk yönetiminin yerini tutmaz</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="chapter" id="bolum-2">
+      <div class="wrap">
+        <p class="chapter-num">Bölüm 2</p>
+        <h2>MACD’nin anatomisi: üç parça</h2>
+        <p>
+          Grafikte MACD’yi açtığınızda genellikle alt pencerede üç şey görürsünüz:
+          iki çizgi ve çubuklardan oluşan bir histogram. Bunları ayrı ayrı tanımak,
+          sinyali doğru okumanın anahtarıdır.
+        </p>
+
+        <figure>
+          <img src="gorseller/01-macd-anatomi.png" alt="Fiyat grafiği ve altında MACD çizgisi, sinyal çizgisi, histogram" />
+          <figcaption>Şekil 2 — Üstte fiyat, altta MACD paneli: çizgiler + histogram + sıfır çizgisi.</figcaption>
+        </figure>
+
+        <h3>1) MACD çizgisi</h3>
+        <p>
+          Hızlı EMA ile yavaş EMA’nın farkıdır. Standart ayarda:
+          12 periyotluk EMA − 26 periyotluk EMA. Bu çizgi “şu an kısa vade,
+          uzun vadeye göre nerede?” sorusuna cevap verir.
+        </p>
+
+        <h3>2) Sinyal çizgisi</h3>
+        <p>
+          MACD çizgisinin kendisinin 9 periyotluk EMA’sıdır. Yani MACD’nin yumuşatılmış hâlidir.
+          Alış/satış tetiklerinin çoğu, MACD’nin bu çizgiyi kesmesiyle okunur.
+        </p>
+
+        <h3>3) Histogram</h3>
+        <p>
+          MACD çizgisi ile sinyal çizgisi arasındaki mesafedir.
+          Barlar büyüyorsa mesafe açılıyor (momentum hızlanıyor olabilir);
+          barlar küçülüyorsa mesafe kapanıyor (momentum yavaşlıyor olabilir).
+        </p>
+
+        <div class="callout">
+          <strong>Pratik bakış:</strong>
+          MACD çizgisi “hikâyeyi” anlatır, sinyal çizgisi “tetik” verir,
+          histogram ise “tempo”yu gösterir. Üçünü birlikte okuyun.
+        </div>
+      </div>
+    </section>
+
+    <section class="chapter" id="bolum-3">
+      <div class="wrap">
+        <p class="chapter-num">Bölüm 3</p>
+        <h2>Formül: korkmadan, kısa ve net</h2>
+        <p>
+          EMA (Exponential Moving Average / Üssel Hareketli Ortalama),
+          son fiyatlara daha fazla ağırlık veren bir ortalamadır.
+          SMA’ya göre yeni bilgilere daha hızlı tepki verir. MACD bu yüzden EMA kullanır.
+        </p>
+
+        <figure>
+          <img src="gorseller/02-macd-formulu.png" alt="MACD hesaplama akış şeması" />
+          <figcaption>Şekil 3 — Standart hesap zinciri: EMA12 − EMA26 → MACD → sinyal ve histogram.</figcaption>
+        </figure>
+
+        <div class="formula">
+          MACD = EMA(12) − EMA(26)<br />
+          Sinyal = EMA(9) of MACD<br />
+          Histogram = MACD − Sinyal
+        </div>
+
+        <p>
+          Sayılar platformdan platforma aynıdır: <strong>(12, 26, 9)</strong>.
+          Bunlar “sihirli” değildir; Appel’in popülerleştirdiği varsayılandır.
+          Günlük grafikte çok kullanılır; başka periyotlarda da aynı mantık geçerlidir.
+        </p>
+
+        <h3>Küçük sayısal örnek (sezgi için)</h3>
+        <p>
+          Diyelim EMA12 = 104,50 ve EMA26 = 102,00 olsun.
+          O zaman MACD = 2,50 olur. Sinyal çizgisi de örneğin 1,80 ise
+          histogram = 0,70’tir: MACD, sinyalin üstündedir ve mesafe pozitiftir.
+        </p>
+        <p class="muted">
+          Not: Platformlar EMA’yı genelde “close” (kapanış) fiyatından hesaplar.
+          Bazı yazılımlarda kaynak fiyatı değiştirebilirsiniz; varsayılanı bilmek yeterlidir.
+        </p>
+      </div>
+    </section>
+
+    <section class="chapter" id="bolum-4">
+      <div class="wrap">
+        <p class="chapter-num">Bölüm 4</p>
+        <h2>Sinyal çizgisi kesişimi: en bilinen sinyal</h2>
+        <p>
+          En sık öğretilen MACD kuralı kesişimdir:
+        </p>
+        <ul>
+          <li><strong>Boğa kesişimi:</strong> MACD çizgisi, sinyal çizgisini aşağıdan yukarı keser → alış adayı.</li>
+          <li><strong>Ayı kesişimi:</strong> MACD çizgisi, sinyal çizgisini yukarıdan aşağı keser → satış / kısa adayı.</li>
+        </ul>
+
+        <figure>
+          <img src="gorseller/03-sinyal-kesisimi.png" alt="Boğa ve ayı sinyal çizgisi kesişimleri işaretli MACD grafiği" />
+          <figcaption>Şekil 4 — Kesişimler fiyatla birlikte okunmalı; dikey çizgiler örnek tetik noktalarıdır.</figcaption>
+        </figure>
+
+        <h3>Neden işe yarayabilir?</h3>
+        <p>
+          Kesişim, kısa vadeli momentumun, yakın dönem ortalamasının önüne geçtiğini (veya gerisine düştüğünü) söyler.
+          Trendli piyasalarda bu, devam veya dönüşün erken işaretlerinden biri olabilir.
+        </p>
+
+        <h3>Neden yanıltabilir?</h3>
+        <p>
+          Yatay (range) piyasalarda MACD çizgisi ile sinyal çizgisi sık sık birbirini keser.
+          Her kesişim bir “fırsat” değildir; çoğu gürültüdür.
+          Ayrıca MACD ortalamalara dayandığı için gecikmelidir: büyük hareketin bir kısmı kaçmış olabilir.
+        </p>
+
+        <div class="callout warn">
+          <strong>Orta seviye filtre:</strong>
+          Kesişimi tek başına almayın. Tercihen: (1) ana trend yönüyle aynı olsun,
+          (2) önemli destek/direnç yakınında oluşsun, (3) histogram yön değişimini teyit etsin.
+        </div>
+      </div>
+    </section>
+
+    <section class="chapter" id="bolum-5">
+      <div class="wrap">
+        <p class="chapter-num">Bölüm 5</p>
+        <h2>Sıfır çizgisi: trend eğiliminin haritası</h2>
+        <p>
+          Sıfır çizgisi, MACD panelinin “kuzey–güney” sınırıdır.
+        </p>
+        <ul>
+          <li><strong>MACD &gt; 0:</strong> EMA12, EMA26’nın üstündedir → kısa vade, uzun vadeye göre daha güçlü (boğa eğilim).</li>
+          <li><strong>MACD &lt; 0:</strong> EMA12, EMA26’nın altındadır → kısa vade daha zayıf (ayı eğilim).</li>
+        </ul>
+
+        <figure>
+          <img src="gorseller/04-sifir-cizgisi.png" alt="MACD'nin sıfır çizgisinin üstünde ve altında olduğu bölgeler" />
+          <figcaption>Şekil 5 — Sıfırın üstü ve altı, trend bias’ını (eğilimini) hızlıca gösterir.</figcaption>
+        </figure>
+
+        <h3>Sıfır çizgisi kesişimi</h3>
+        <p>
+          MACD’nin sıfırı yukarı kesmesi, kısa ortalamanın uzun ortalamayı geçmesi demektir —
+          klasik hareketli ortalama kesişiminin MACD dilindeki hâlidir.
+          Aşağı kesmesi ise tersi. Bu sinyal, sinyal-çizgisi kesişiminden genelde daha seyrek
+          ve daha “ağır”dır; ama yine gecikmeli olabilir.
+        </p>
+
+        <h3>Daha güvenilir kesişimler nerede doğar?</h3>
+        <table>
+          <thead>
+            <tr>
+              <th>Durum</th>
+              <th>Yorum</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Boğa kesişimi, sıfırın <em>altında</em></td>
+              <td>Erken dönüş adayı olabilir; teyit ister. Risk/ödül bazen daha iyi.</td>
+            </tr>
+            <tr>
+              <td>Boğa kesişimi, sıfırın <em>üstünde</em></td>
+              <td>Trend devamı senaryosuna daha yakındır; “trendle birlikte işlem” mantığı.</td>
+            </tr>
+            <tr>
+              <td>Ayı kesişimi, sıfırın <em>üstünde</em></td>
+              <td>Güçlü yükselişte düzeltme uyarısı olabilir; hemen trend dönüşü demek değildir.</td>
+            </tr>
+            <tr>
+              <td>Ayı kesişimi, sıfırın <em>altında</em></td>
+              <td>Düşüş trendinde devam sinyali olarak daha anlamlıdır.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="chapter" id="bolum-6">
+      <div class="wrap">
+        <p class="chapter-num">Bölüm 6</p>
+        <h2>Histogram: tempo ve erken uyarı</h2>
+        <p>
+          Birçok yeni başlayan iki çizgiye bakar, histogramı “süs” sanır.
+          Oysa histogram, MACD ile sinyal arasındaki mesafeyi — yani momentumun
+          <em>hızlanma / yavaşlama</em> bilgisini — görselleştirir.
+        </p>
+
+        <figure>
+          <img src="gorseller/05-histogram-okuma.png" alt="Büyüyen ve küçülen histogram barları ile momentum değişimi" />
+          <figcaption>Şekil 6 — Barlar büyüyorsa tempo artıyor; küçülüyorsa tempo düşüyor olabilir.</figcaption>
+        </figure>
+
+        <h3>Nasıl okunur?</h3>
+        <ol>
+          <li><strong>Pozitif ve büyüyen barlar:</strong> MACD, sinyalin üstünde ve mesafe açılıyor → yükseliş momentumu güçlenebilir.</li>
+          <li><strong>Pozitif ama küçülen barlar:</strong> Hâlâ boğa tarafındasınız ama tempo düşüyor → kesişim yaklaşabilir.</li>
+          <li><strong>Negatif ve derinleşen barlar:</strong> Satış tempo artıyor olabilir.</li>
+          <li><strong>Negatif ama sıfıra yaklaşan barlar:</strong> Satış tempo zayıflıyor → boğa kesişimi için erken uyarı.</li>
+        </ol>
+
+        <div class="callout">
+          <strong>Thomas Aspray’in katkısı:</strong>
+          Histogram, sinyal çizgisi kesişimini “önceden sezmek” için tasarlandı.
+          Aggressive trader erken girebilir; temkinli trader yine kesişimi bekler.
+          Erken giriş = daha iyi fiyat potansiyeli, ama daha fazla yanlış alarm.
+        </div>
+
+        <h3>Histogram dönüşü (histogram reversal)</h3>
+        <p>
+          Aşırı bir bölgede histogram zirve yapıp yön değiştirirse,
+          momentumun zirveye ulaştığı düşünülebilir.
+          Bu, tek başına işlem nedeni olmak zorunda değildir; ama “dikkat: tempo değişiyor”
+          demenin iyi bir yoludur.
+        </p>
+      </div>
+    </section>
+
+    <section class="chapter" id="bolum-7">
+      <div class="wrap">
+        <p class="chapter-num">Bölüm 7</p>
+        <h2>Uyumsuzluk (divergence): fiyat ile MACD ayrışınca</h2>
+        <p>
+          Uyumsuzluk, fiyatın bir şey söyleyip göstergenin başka bir şey söylemesidir.
+          Momentumun fiyat hareketini “onaylamadığı” anlardır. Dönüş ihtimalini yükseltebilir;
+          ama her uyumsuzluk dönüşle bitmez — bazen trend sadece nefes alır.
+        </p>
+
+        <h3>Boğa uyumsuzluğu</h3>
+        <p>
+          Fiyat daha düşük bir dip yapar; MACD ise daha yüksek bir dip yapar.
+          Satış tarafında momentum zayıflıyor olabilir → olası yükseliş dönüşü uyarısı.
+        </p>
+        <figure>
+          <img src="gorseller/06-boga-uyumsuzluk.png" alt="Fiyat düşük dip, MACD yüksek dip — boğa uyumsuzluğu" />
+          <figcaption>Şekil 7 — Boğa uyumsuzluğu: fiyat zayıflıyor gibi görünürken momentum toparlanıyor olabilir.</figcaption>
+        </figure>
+
+        <h3>Ayı uyumsuzluğu</h3>
+        <p>
+          Fiyat daha yüksek bir tepe yapar; MACD daha düşük bir tepe yapar.
+          Alış tarafında momentum zayıflıyor olabilir → olası düşüş / düzeltme uyarısı.
+        </p>
+        <figure>
+          <img src="gorseller/07-ayi-uyumsuzluk.png" alt="Fiyat yüksek tepe, MACD düşük tepe — ayı uyumsuzluğu" />
+          <figcaption>Şekil 8 — Ayı uyumsuzluğu: fiyat yeni zirve yaparken momentum geride kalır.</figcaption>
+        </figure>
+
+        <h3>Daha sağlam uyumsuzluk nasıl ayırt edilir?</h3>
+        <ul>
+          <li>Birkaç barlık “mini” uyumsuzluklar sık ve zayıf olur.</li>
+          <li>Birkaç haftaya yayılan, belirgin tepe/dip farkı olanlar daha anlamlıdır.</li>
+          <li>Uyumsuzluktan sonra sinyal kesişimi veya fiyat kırılımı teyit sağlar.</li>
+          <li>Güçlü trendlerde uyumsuzluk uzun süre “yanlış” kalabilir; trendle savaşmayın.</li>
+        </ul>
+
+        <div class="callout warn">
+          <strong>Uyarı:</strong>
+          Uyumsuzluk bir “kehanet” değildir. Erken uyarıdır.
+          İşlem planınızda teyit, stop ve pozisyon boyutu olmadan kullanmayın.
+        </div>
+      </div>
+    </section>
+
+    <section class="chapter" id="bolum-8">
+      <div class="wrap">
+        <p class="chapter-num">Bölüm 8</p>
+        <h2>Ayarlar ve zaman dilimleri</h2>
+        <p>
+          Varsayılan <strong>12-26-9</strong> çoğu senaryoda iyi bir başlangıçtır.
+          Ayar değiştirmek “daha iyi sinyal” garantisi vermez; çoğu zaman geçmişe uydurma (curve fitting) riski taşır.
+        </p>
+
+        <figure>
+          <img src="gorseller/10-zaman-dilimleri.png" alt="Farklı işlem stillerine göre zaman dilimi tablosu" />
+          <figcaption>Şekil 9 — Aynı gösterge, farklı zaman diliminde farklı gürültü seviyesi üretir.</figcaption>
+        </figure>
+
+        <h3>Ne zaman ayar değiştirmeyi düşünürsünüz?</h3>
+        <table>
+          <thead>
+            <tr>
+              <th>Ayar örneği</th>
+              <th>Karakter</th>
+              <th>Ne zaman?</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>12, 26, 9</td>
+              <td>Dengeli, klasik</td>
+              <td>Öğrenirken ve swing’de varsayılan</td>
+            </tr>
+            <tr>
+              <td>8, 17, 9 veya 5, 13, 5</td>
+              <td>Daha hızlı, daha gürültülü</td>
+              <td>Kısa vadeli işlem, hızlı tepki isteyenler</td>
+            </tr>
+            <tr>
+              <td>19, 39, 9 (örnek)</td>
+              <td>Daha yavaş, daha sakin</td>
+              <td>Uzun vadeli eğilim okumak isteyenler</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div class="callout">
+          <strong>Altın kural:</strong>
+          Bir ayar seçin. En az birkaç düzine işlem / geniş bir geçmiş test boyunca sabitinizi koruyun.
+          Her kayıptan sonra ayar değiştirmek, strateji değil tepkidir.
+        </div>
+
+        <h3>Çoklu zaman dilimi (MTF) fikri</h3>
+        <p>
+          Orta seviye bir pratik: Üst zaman diliminde (ör. günlük) MACD’nin sıfırın hangi tarafında olduğuna bakın —
+          bu sizin “bias”ınız olsun. Alt zaman diliminde (ör. 1 saat) yalnızca bias yönünde kesişim / histogram sinyali arayın.
+          Bu, karşı trende işlem sayısını azaltır.
+        </p>
+      </div>
+    </section>
+
+    <section class="chapter" id="bolum-9">
+      <div class="wrap">
+        <p class="chapter-num">Bölüm 9</p>
+        <h2>Pratik strateji iskeletleri</h2>
+        <p>
+          Aşağıdakiler “zengin eden sihirli sistemler” değildir.
+          Öğrenme ve disiplin için net, test edilebilir iskeletlerdir.
+        </p>
+
+        <figure>
+          <img src="gorseller/09-strateji-haritasi.png" alt="Dört adımlı MACD karar haritası" />
+          <figcaption>Şekil 10 — Dört katmanlı okuma: kesişim → sıfır filtresi → histogram → uyumsuzluk teyidi.</figcaption>
+        </figure>
+
+        <h3>İskelet A — Trend devamı (orta seviye başlangıç)</h3>
+        <ol>
+          <li>Günlük grafikte MACD sıfırın üstünde olsun (boğa bias).</li>
+          <li>4 saat veya 1 saatte boğa sinyal kesişimi bekleyin.</li>
+          <li>Histogramın negatiften pozitife geçmesini veya büyümeye başlamasını teyit sayın.</li>
+          <li>Stop’u son swing dibinin altına koyun; hedefi riskin en az 1.5–2 katı düşünün.</li>
+        </ol>
+
+        <h3>İskelet B — Erken histogram uyarısı + teyit</h3>
+        <ol>
+          <li>Histogram aşırı bölgede yön değiştirsin (tempo kırılması).</li>
+          <li>İşleme hemen girmeyin; sinyal çizgisi kesişimini bekleyin.</li>
+          <li>Yakında destek/direnç veya yuvarlak sayı varsa öncelik verin.</li>
+        </ol>
+
+        <h3>İskelet C — Uyumsuzluk avcısı (dikkatli kullanın)</h3>
+        <ol>
+          <li>Net boğa veya ayı uyumsuzluğu işaretleyin.</li>
+          <li>MACD kesişimi veya fiyatın yapı kırılımı olmadan işlem açmayın.</li>
+          <li>Güçlü trend günlerinde bu iskeleti küçültün veya kapatın.</li>
+        </ol>
+
+        <p class="muted">
+          İpucu: Bir deftere “sinyal türü / zaman dilimi / sonuç / hata” yazın.
+          İki haftada MACD’yi “hissetmek”, iki ayda ölçmekten daha az öğreticidir.
+        </p>
+      </div>
+    </section>
+
+    <section class="chapter" id="bolum-10">
+      <div class="wrap">
+        <p class="chapter-num">Bölüm 10</p>
+        <h2>Sık yapılan hatalar</h2>
+
+        <figure>
+          <img src="gorseller/11-sik-hatalar.png" alt="Dört yaygın MACD hatası kartları" />
+          <figcaption>Şekil 11 — En pahalı hataların çoğu bilgi eksikliğinden değil, disiplinsizlikten gelir.</figcaption>
+        </figure>
+
+        <ol>
+          <li>
+            <strong>Her kesişimi işlem sanmak.</strong>
+            Özellikle yatay piyasada MACD “tırıs” gider. Önce piyasa rejimini okuyun:
+            trend mi, range mi?
+          </li>
+          <li>
+            <strong>Gecikmeyi yok saymak.</strong>
+            Ortalama tabanlı göstergeler geç kalır. Geç kalan sinyale “kaçırma korkusu”yla
+            büyük pozisyon açmak klasik tuzaktır.
+          </li>
+          <li>
+            <strong>Tek gösterge fanatizmi.</strong>
+            MACD güçlüdür ama yalnız değildir. Fiyat yapısı her zaman birincildir.
+          </li>
+          <li>
+            <strong>Sürekli ayar değiştirmek.</strong>
+            Geçmişe mükemmel uyan ayar, gelecekte çoğu zaman bozulur.
+          </li>
+          <li>
+            <strong>Uyumsuzluğu abartmak.</strong>
+            Uyumsuzluk “kesin dönüş” diye okunursa, trend içinde erken ters pozisyon birikir.
+          </li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="chapter" id="bolum-11">
+      <div class="wrap">
+        <p class="chapter-num">Bölüm 11</p>
+        <h2>MACD’yi diğer araçlarla birlikte kullanmak</h2>
+        <p>
+          En iyi MACD kullanımı, onu orkestra şefi değil enstrümanlardan biri yapmaktır.
+        </p>
+
+        <table>
+          <thead>
+            <tr>
+              <th>Araç</th>
+              <th>MACD ile rol paylaşımı</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Fiyat yapısı (HH/HL, LH/LL)</td>
+              <td>Birincil gerçek. MACD yalnızca momentum yorumudur.</td>
+            </tr>
+            <tr>
+              <td>Hacim</td>
+              <td>Kesişim / kırılım hacimle geliyorsa güven artabilir.</td>
+            </tr>
+            <tr>
+              <td>RSI</td>
+              <td>Aşırı alım/satım bağlamı; MACD ile çift uyumsuzluk aramak popülerdir.</td>
+            </tr>
+            <tr>
+              <td>Destek / direnç / seviye</td>
+              <td>Sinyalin “nerede” doğduğu, “ne olduğu” kadar önemlidir.</td>
+            </tr>
+            <tr>
+              <td>200 periyot EMA</td>
+              <td>Büyük trend filtresi: üstünde sadece boğa MACD, altında sadece ayı MACD.</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <h3>Basit bir kontrol listesi (işlem öncesi)</h3>
+        <ul>
+          <li>Üst zaman dilimi bias’ım ne?</li>
+          <li>MACD sinyali bias ile aynı yönde mi?</li>
+          <li>Histogram tempo hakkında ne diyor?</li>
+          <li>Yakında kritik seviye var mı?</li>
+          <li>Stop nerede, risk ne kadar, hedef mantıklı mı?</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="chapter" id="ozet">
+      <div class="wrap">
+        <p class="chapter-num">Kapanış</p>
+        <h2>Özet: Sinyalin ritmini duymak</h2>
+        <p>
+          MACD, iki ortalamanın mesafesini ölçerek piyasanın temposunu görünür kılar.
+          Çizgiler yönü ve tetikleri, sıfır çizgisi eğilimi, histogram hızlanmayı,
+          uyumsuzluk ise olası yorgunluğu anlatır.
+        </p>
+        <p>
+          İyi bir MACD okuyucusu her yeşil/kırmızı kesişimi avlamaz.
+          Ritmi dinler: trend mi, duraksama mı, hızlanma mı, tükenme mi?
+          Sonra fiyat yapısı ve risk kurallarıyla karar verir.
+        </p>
+        <div class="callout">
+          <strong>Tek cümlelik özet:</strong>
+          MACD momentumun metronomudur; dansı fiyat yapar, siz tempo ile adımınızı ayarlarsınız.
+        </div>
+        <p class="muted">
+          Bu kitap eğitim amaçlıdır. Finansal tavsiye değildir.
+          Gerçek parayla denemeden önce demo / kâğıt üzerinde bolca pratik yapın.
+        </p>
+      </div>
+    </section>
+
+    <section class="chapter" id="sozluk">
+      <div class="wrap">
+        <p class="chapter-num">Ek</p>
+        <h2>Mini sözlük</h2>
+        <dl class="glossary">
+          <dt>EMA</dt>
+          <dd>Üssel hareketli ortalama; son fiyatlara daha fazla ağırlık verir.</dd>
+          <dt>Yakınsama (convergence)</dt>
+          <dd>İki ortalamanın birbirine yaklaşması; MACD sıfıra doğru çekilir.</dd>
+          <dt>Iraksama (divergence) — isim anlamında</dt>
+          <dd>İki ortalamanın uzaklaşması; MACD’nin mutlak değeri büyür.</dd>
+          <dt>Uyumsuzluk (divergence) — sinyal anlamında</dt>
+          <dd>Fiyat ile MACD’nin tepe/dip yönünün ayrışması.</dd>
+          <dt>Sinyal çizgisi</dt>
+          <dd>MACD’nin 9 periyotluk EMA’sı; kesişim tetikleyicisi.</dd>
+          <dt>Histogram</dt>
+          <dd>MACD − sinyal; tempo / mesafe göstergesi.</dd>
+          <dt>Lag / gecikme</dt>
+          <dd>Ortalama tabanlı göstergelerin fiyata geç tepki vermesi.</dd>
+          <dt>Bias</dt>
+          <dd>Belirli bir dönem için yön tercihi (boğa / ayı eğilim).</dd>
+          <dt>Swing</dt>
+          <dd>Günler–haftalar süren orta vadeli hareket / işlem tarzı.</dd>
+        </dl>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="book-end">
+    <div class="wrap">
+      <h2>Sinyalin Ritmi</h2>
+      <p>
+        Alt başlık: <em>MACD'yi Sade Anlatım</em> · Giriş ve orta seviye görsel rehber<br />
+        Görseller bu kitap için üretilmiş eğitim diyagramlarıdır; gerçek piyasa verisi vaadi taşımaz.
+      </p>
+      <p>
+        Kaynak çerçeve: Gerald Appel (MACD), Thomas Aspray (histogram),
+        yaygın teknik analiz uygulamaları (Investopedia, StockCharts ChartSchool ve benzeri eğitim kaynakları).
+      </p>
+      <p><a href="#kapak">↑ Başa dön</a></p>
+    </div>
+  </footer>
+
+</body>
+</html>
