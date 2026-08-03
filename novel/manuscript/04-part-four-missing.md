@@ -16,7 +16,7 @@
 
 ---
 
-## 19
+## 32
 
 ### The Quiet One
 
@@ -60,7 +60,41 @@ You got Toby to do something by making it the biggest stage in the room.
 
 ---
 
-## 20
+## 33
+
+### Dot
+
+Dorothy Prejean was seventy-two the Christmas her phone call finally landed, and she made it, as she had made the previous eight, from the kitchen of her house in Cameron Parish with a rum ball in one hand and the receiver in the other, and it began the way all nine began:
+
+"Dale. It's your aunt. Has the law grown a spine yet?"
+
+Eight years running, her nephew had answered with the weather of his practice — liens, fenders, the parish's small carpentered griefs — and eight years running she had let him off with love, because she knew what she was really doing with the call and so did he: she was renewing a license. Keeping a wound registered. In 2010 she had held a boy's hand in a harbor office and watched the machine take his testimony and return it stamped VOID, and she had made herself one promise on the drive home, being a woman of the water and disinclined to large vows: *I will not let this become a story I used to tell.* The call was the not-letting. Nine Decembers of it.
+
+This ninth December, her nephew was quiet a moment, and then he said: "Aunt Dot. You watch the noon show? Channel 4?"
+
+She set down the rum ball.
+
+What she contributed to the machinery of Part Four, the record barely holds — one intake note in Prejean's file, *consulted D.P. re: 2010 hotline referral, background* — and the omission is this chapter's reason for existing, because what she actually contributed was the thing no file has a field for. She drove up on the third of January, 2019 — seventy-two, cataract in one eye, a deckhand's forearms still — and sat in her nephew's office across from Victor Weaver, whom she had never met, and looked at him a long minute with the eye that still worked, and said:
+
+"I held your nephew's hand when it was small. Now. Tell me every single thing, and don't you dare soften it for my age. I've cleaned fish uglier than any sentence you've got."
+
+And Victor — who had told it to Prejean as an inventory, and would tell it to detectives as a chronology, and to the jury as a liturgy — told it that once, the only time in the whole proceeding, as what it was: a grief. Because she was the first listener he'd had who owed nothing to any machine, and took notes on nothing, and interrupted only twice — once to ask whether Robbie had kept growing (*"he was small for it, that day on the dock; they lie about eating, the kept ones"*), and once, at the tree, to put both fists on the desk and say a word in coastal French that Prejean declined, at trial, to translate for the court, drawing from the gallery the single laugh of the proceedings, and from the judge, who was Cameron-raised, no rebuke.
+
+It was Dot who found the flaw in the plan, and the finding took her nine minutes. The plan as built ran: get the family on the program, let simultaneity do what depositions couldn't, wait for a crack, feed the crack to the law. She heard it through, nodded at its cleverness the way you nod at a well-made net, and then said: "And the boy? When it works — when it cracks — every camera in America is going to go looking for the one that got away twice. You've built a machine to make my Robbie famous. Who's standing next to him when it happens?"
+
+Silence in the office. Two men of strategy, caught planless at the exact spot where strategy runs out and someone has to simply *stand next to a person*.
+
+"That's what I judged," said Dot Prejean. She stood, buttoned her coat, and issued the whole of her instructions to the campaign, which were also, though nobody in the room knew it yet, a prophecy of the green-room corridor, of the Tennessee bus, of a conference room where a boy would empty a tin in front of a television host with his hands flat on a table: "Find him before the show does. He'll come — he's been waiting on the arithmetic his whole life; that one could smell a change of tide through a motel wall. And when he comes, you put a person in the room, hear? Not a lawyer, not a cop, not a producer. A person, whose whole job is: stand next to him. You did it once, Dale — no, you didn't, none of us did, that's the entire sermon, cher, we let a ten-year-old stand in a harbor office holding nothing but my hand and I had to give that back at the end. *This time somebody stays standing there.* Now. Which of you is driving me to the Circle K, I promised Lucille Sonnier a visit. She's got ten years of cobbler grief, that one. Towns keep their sorrows in the strangest pantries. Somebody ought to write it all down someday."
+
+Somebody has tried, Miss Dot.
+
+This is the page where the book stops to say: it was the women. The record says detectives and lawyers and a host, and the record is not wrong, but underneath the record it was Lucille with her foil-wrapped cobbler, and Odile Guidry counting pebbles, and Celeste Benoit logging shoulders, and a deckhand off the *Miss Yvonne* who listened whole — the same woman, yes; the reader may now be told what Robbie learned only at the first trial, in the corridor, when a seventy-three-year-old stranger with one working eye stopped in front of him, looked up the foot of height he'd grown since a dock in 2010, and said, "You kept growing after all. Good. I'm Dot. I believe you bought a Coca-Cola off me once" — and watched the tallest witness in the state of Louisiana come down to her collarbone like a boy, like a tide, like a debt called in the softest possible currency.
+
+It was the women, walking material through a wall the institutions swore was solid. The file has no field for it. Books were invented because files have no field for it.
+
+---
+
+## 34
 
 ### The Application
 
@@ -98,7 +132,35 @@ We were both right.
 
 ---
 
-## 21
+## 35
+
+### Rehearsals
+
+The van to New Orleans left Delacroix Street at 4:40 in the morning on the nineteenth of December, and the ten days before it left were, Victor Weaver would testify, the strangest of the eleven strange years — because for ten days he watched the machine that had eaten his family tune itself, with total confidence, for its own destruction, and he had to help. Enthusiastically. Undetectably. While living in its stomach.
+
+The reader knows the three-layered irony from above; Victor lived it from beneath, at the supper table, where it had a smell and a schedule. Layer one, the innocents: his mother and Jesse, who believed the family was at last going to *find the girls* — Evie ironing her church dress two days early, asking Emma in a small voice whether the television people would let her hold up Miriam's picture, *the nice one, from the porch*; Jesse silent for whole evenings and then saying, once, to nobody, into his plate, "Maybe somebody seen her out west," in the voice of a man bidding at an auction he cannot afford, on an item he already knows is not what it's listed as. Hope, Victor wrote in ODDMENTS that night, is the last organ to fail. Then, crossed out — the notebook shows the strike — then: *hope, or the rehearsal of hope. can no longer tell in this house. that is the house.*
+
+Layer two, the director. Toby prepared them — of course he prepared them; he had prepared every room this family had entered for a decade — and Victor's account of those sessions, delivered flat across a day of testimony, did the state's expert witnesses' work for them better than their slides ever did. Not lies drilled as lies; the man had long ago stopped needing anything so crude. *Alignment*, he called it, evenings in the den, shades at half: going around the horseshoe, having each member *offer their memory* of the vanished years — and then receiving each offering, pruning it, warming it, handing it back subtly regraded, till the memory sat in its owner like a native thing. The campsite. The storm. Her restlessness, *you all remember her restlessness*. The cousins in Texas, the child's nerves. He did not say: we will tell the country this. He said, each night, closing the Book: "The Lord loves an ordered witness. A family that remembers together, stays together" — and Victor, watching his mother nod, watching the regraded years settle over her like snow, understood at last, in the practical, load-bearing way you understand a thing you must survive rather than analyze, what he had been living inside of since 2007: not a household of liars. Something far more defensible and far worse — a household in which the border crossing between memory and testimony had been staffed, for eleven years, by one customs officer, and nothing traveled without his stamp.
+
+And layer three, himself: the saboteur at the sound check. His assignment from Prejean was brutally simple — *be normal, change nothing, if it cracks don't you dare be the crack; you're our only pane of glass inside* — and it cost him what such assignments cost. He sat in the horseshoe and offered his memories for regrading with the rest. He watched the director block the staging — who would sit beside whom on the couch; the reader will recall Verna Cole noticing the arrangement's center of gravity within one broadcast; it had been drawn on paper first, Victor confirmed, on a legal pad, boxes and initials, *like a coach's bench* — and he memorized the diagram for the affidavit he was already composing nightly in his head, in the third person, in evidence-voice, a genre he had taught himself from library books the way his nephew once taught himself criminal procedure. And on the last night, at the last alignment, Tobias Usher did the thing that Victor could not, for eleven years after, describe without stopping first to steady his voice — the transcript marks the pause; the tape preserves it; forty seconds, the longest silence either trial recorded from any witness:
+
+He prayed for the trip. Around the horseshoe, hand to head, one by one — travel mercies, ordered witness, the finding of the lost — and when he came to Victor, last, the warm heavy hand came down, and the voice, at kitchen pitch, in front of everyone, said: "And bless this one. The quiet one. The Lord sees what's kept in quiet vessels." And the eyes, half-lidded, at a hand's distance, held Victor's exactly as they had held the supper table in February of 2007 — sweeping, interested, counting — and for four seconds that Victor spent eleven years re-entering in dreams, he was certain, cell-certain, marrow-certain, that the count had found him. That the whole application, the website left open, the nine days, the layered machine, had been *his* — the director's — from the start; that the quiet one had been playing, all along, on a stage inside the bigger stage, before an audience of one.
+
+Then the hand lifted. The prayer moved on. And Victor Weaver sat in the horseshoe with his pulse hammering in his ears and arrived — the reader has been present at every station of this thought and may now watch it complete — at the finding that governs this entire Part, that Verna Cole would reach independently within three broadcasts, that the state's experts would suture into the record at both trials, and that stands as this book's only comfort on the question of such men:
+
+He hadn't been caught. He couldn't be. Not because Victor's craft was sound — because the instrument was blind exactly there. A man who cannot conceive of belief he has not installed cannot audit for it; a counter of believers has no column for the polite, punctual, hymn-singing man who quietly believes *nothing*. Eleven years at the same table, and the count had passed over Victor every single night, finding only a vessel, quiet, kept.
+
+The blind spot was the door. It had been the door since 2007, standing open the whole time in the middle of the perimeter, unguarded and unguardable, waiting the eleven years it took the family's one unbeliever to forgive himself enough to walk a stranger through it.
+
+The van left at 4:40. Emma rode shotgun with the directions, though the driver never once consulted them. Evie held the porch photograph on her lap, in a towel, the whole way, *so the frame wouldn't chip*. And in the third row, by the window, the pane of glass watched the refinery flares come up out of the dark one by one along the interstate — six, seven, eight; the family arithmetic, older than the wolf, riding shotgun down all their bloodlines at once — and made the day's entry in the notebook of his mind, filed under a heading eleven years deep, its last entry before the light:
+
+*Somebody working the night shift so their family can sleep. World's mostly them.*
+
+*Hold to that, now. Curtain's up.*
+
+---
+
+## 36
 
 ### Sweeps
 
@@ -138,7 +200,25 @@ At once.
 
 ---
 
-## 22
+## 37
+
+### The Tip Line
+
+The calls are a matter of record now — the network surrendered the logs under subpoena, all 31,406 of them, and a graduate student has since built a dissertation and a rather beautiful map out of the metadata — but logs are skeletons. Here, exhumed and fleshed, are five, chosen from the nights between the fourth broadcast and the eighth, because the reader has watched this case fail every institution built for it and is owed the sight of the institution that finally worked: the American noon audience, distributed, unpaid, underestimated for the whole history of broadcasting, running the largest parallel investigation ever conducted from kitchen tables.
+
+**Call 4,117.** Female, sixties, Ohio. *"I taught fourth grade thirty-one years. The little boy they keep saying is with cousins in Texas — in the Christmas photo they showed, the one the family gave y'all, that child's shoes are two sizes too small. You can see it, the toe's gone gray where it's pressed up. Cousins with money enough for that coat don't leave a child in gray-toed shoes. Somebody staged that photo out of what was in the house. Check when it was really taken. Check the tree in the background — that garland pattern, Woolworth's sold it, and Woolworth's was gone by '97."* (The photograph, tendered by the family as *Melody, Texas, 2011*, was established at trial — by garland, by shoes, by a fluorescent fixture's flicker rate captured in the exposure — to have been taken in the Delacroix Street den no later than 2008. The witness who broke it was not the FBI lab. It was a retired teacher with a Woolworth's memory. The state flew her in. She wore her good brooch.)
+
+**Call 9,882.** Male, forties, refinery worker, local; the call the producers flagged CRANK and Sofia unflagged at two in the morning, on instinct. *"Y'all keep asking where the mother is. I want to say a thing about where the* car *went. That wagon he drives — that's not the wagon from them years. I gassed that family's wagon at Ray's a hundred times, it had the tow package, y'all can see it in the one beach picture. This one's clean-hitched. Man sold the wagon. Now what kind of man sells the car his sister-in-law was — what's the TV word — 'last seen' in? Who's the buyer? Ask him what was ever hauled to the coin counter in Sulphur on Tuesdays. Ask Ray. Everybody always asks everybody in this parish except Ray."* (They asked Ray. Ray, it emerged, had been waiting eleven years, by the phone, at closing time, to be asked — the reader has stood in his doorway once already, in Chapter 13 — and Ray's fuel-account records, kept in pencil with a station-owner's immortal pettiness, reconstructed the family's movements across the missing years to a resolution the cell-tower data could not touch.)
+
+**Call 14,210.** Female, thirties, Slidell; audibly crying; the transcript's most quoted entry, and the tip line's purest distillate. *"I don't have information. I'm sorry. I know y'all need information. I just — the old lady's hands, when Miss Cole read the statement out. I'm calling because I was her. Different house, different man, no TV show ever came. I got out because a neighbor lady said one sentence to me at the mailbox, she said 'you don't look like yourself anymore, and I remember yourself.' That's all she said. I left Tuesday after. Ma'am, sir, whoever listens to these: somebody in that studio has got to say that sentence to that old woman. Not a question. Questions make us lie, we're trained on questions. Say it like my neighbor said it. Like a fact you're returning to its owner."* (Sofia carried the transcript to Verna. Verna carried it, folded, in her jacket pocket, through the seventh and eighth broadcasts — she has shown it to interviewers since, soft at the creases, a relic — waiting for the camera-free second in which such a sentence could be said. The record of whether she found one is in Chapter 43.)
+
+**Call 22,051.** Male, elderly, Port Arthur; nine seconds; no name; the line's great enigma until the trials resolved it. *"Tell the detective lady the bucket at the tent was never light till that boy touched it. She'll know what it means when she gets there. Othel knew. We all knew. We passed him down the coast like weather and called it none of our business."* Click. (Fontenot, played the recording in February, ran the voice to ground by April: the surviving deacon of the Pyle tent circuit, ninety-one, in a Beaumont care home, who gave her four decades of names — the towns, the folded congregations before Bissonnet Street, the two families and the signed-over car, the pattern entire, running back through the Gulf South like a fault line. None of it was chargeable. All of it went into the sentencing memorandum, under a heading the prosecutor fought successfully to keep over defense objection, four words that every appellate court since has let stand, and that Reverend Comeaux, reading the coverage, preached on for a month: PATTERN OF PRIOR KEEPING.)
+
+**Call 30,997.** The night of the eighth broadcast; female; a voice level as a gauge; patched, at her request and against protocol, directly to the senior producer, because she began with a badge number. *"This is Detective Camille Fontenot, Mercer Parish, retired as of Friday — retired, so I'm calling as a citizen, which means your log takes me like anybody. Fine. Log this. I have watched your program every noon for three weeks from a records annex where I have been reorganizing, on my own time, a box I carried in there myself in 2014. I want it in your log — not for your show, for the* record*, because your log's discoverable and my supplementals kept getting lost — that everything your housewives are finding was findable. The shoes. The wagon. The garland. It was all findable, every year of it, by any machine that had been pointed at it with six warm bodies and one week. Your log takes opinions? Here's an opinion. The country's about to watch an arrest and cheer like the system worked. The system didn't work. The* audience *worked. Thirty thousand strangers on hold at midnight worked. And I'll be goddamned — log it, I said log it exact — if I let the report read any different this time."* (It is logged exact. Entry 30,997, timestamped 12:19 a.m., nine days before the doors. The dissertation's map renders each call as one pale dot on a dark national grid, and the grid, at full zoom, is the image this book has been circling since a boy counted flares from a bus window: the night shift. Lights standing on the black land, each one somebody awake so that somebody else's family might sleep. World's mostly them. It is mostly them. And for three weeks at the end of a ten-year silence, they all called the same number.)
+
+---
+
+## 38
 
 ### The Green Room
 
@@ -184,7 +264,67 @@ My hands did not shake. You know who taught them that.
 
 ---
 
-## 23
+## 39
+
+### The Pines on the Map
+
+*Robbie.*
+
+Fontenot drove up from Louisiana on a Saturday, in her own truck, on her own dime, retired eight days — and I want the record to carry how she opened, because I'd spent nine years imagining my first real interview with the law, and I had it braced for like weather, and she got out of the truck in the studio parking garage, looked at me a second, and said:
+
+"You won't remember me. I gave you a card once you couldn't keep. I said when the arithmetic changed—"
+
+"—you're the number that don't," I said. "Ma'am, I've dialed that sentence in my head since I was ten. I just never had the area code."
+
+We worked in a conference room the network lent us, though *lent* isn't the word — Verna Cole stationed Sofia at the door with instructions that nobody with a lanyard breathed our air, and had food sent in, and never once came in herself. I asked Sofia about that later. She said Verna's exact words were: "The moment I'm in that room, it's content. Keep me out of the room." I've thought about that a lot. It's the only wall anybody in television ever built *around* my family instead of through it, and she built it against herself.
+
+What we built in the room was the map.
+
+Fontenot brought butcher paper, a habit from before whiteboards, and we laid the parish out in pencil: the shore road, the gravel lot, the cleaning station, the stump. That part went quick — Salt Point I could draw asleep; Salt Point is the screen saver behind my eyes. The pines were the work. I'd been eleven, in a car I was pretending to sleep in, at night, being driven — you don't get a map from that, you get fragments, and I gave her the fragments the way I'd kept them: item by item. The cattle guard that rattled twice. The gate that dragged. Deer stand on the left with a busted rail, my window. The rows — planted pines run in rows, and the rows strobe when headlights cross them; I'd counted the strobes because counting was what I had. Seven flickers slow, then stop. Then the walking, and the count of that, and the smell — cut dirt and pine sap and the dark — and Fontenot wrote every item down with no reaction at all, level as her voice, and that levelness was the kindest thing anybody'd done for me in years, because horror in a listener is a bill; the teller ends up paying it. She just wrote.
+
+Then she went out to the truck and came back with the gazetteer and the timber-lease plats — retired eight days, and she'd already pulled the plats; I asked how, and she said, "Clerk owed me. Everybody owes everybody down there. Mostly what they owe is this," and tapped the map — and we found it in under an hour. One parcel west of Ferris Creek fit every fragment: cattle guard at the county line, gate on a lease road, deer stand in the corner of the '06 aerial photo with — she got the magnifier — a rail hanging. Planted loblolly, 2003 planting, which made the rows the right age to strobe just that way in '09.
+
+Fontenot set down the magnifier and looked at the parcel a while.
+
+"Fourth pine, seventh row," she said. "You're sure of the counts."
+
+"Ma'am, the counts are the one thing I've been sure of my whole life."
+
+She nodded, and started folding the plats, square, exact, and it was watching her hands do that — folding paper into thirds, and me thinking of a different man folding a different letter — that it came up out of me sideways, the question I hadn't planned to ask anybody, ever:
+
+"What if I counted wrong?"
+
+Her hands stopped.
+
+"I was eleven. It was dark, I was scared, I was pretending to be asleep, and everything — warrants, diggers, dogs, whether Mellie gets found or stays out there — everything's standing on a scared kid's count. Nobody's ever checked my arithmetic. My whole life nobody's checked it, they either believed all of it or none of it, and I—"
+
+I stopped because she'd put one hand flat on the butcher paper, on the parish, like you'd steady a spooked animal, and she waited until I looked at her.
+
+"Son. Twenty-nine years I did this. You know what evidence is? Evidence is anything that don't change its story when the pressure comes. Metal don't. Paper mostly don't. People almost always do." She turned the plat around so it faced me. "You've been pressured by experts since before your voice broke, and your counts came through it holding. Same numbers at ten to a boat lady. Same at ten to a caseworker who needed 'em different. Same at nineteen to a TV lawyer, same at twenty to me, and I *have* checked your arithmetic — checked it against bank paper and fuel logs and a dead woman's calendar for three weeks now, and I'm going to tell you what you are, because it appears nobody ever has and you've been carrying yourself like a liability instead." She tapped the butcher paper twice, over the pines. "You're the best-corroborated witness I ever worked with. You're not standing on your count, cher. Your count is standing on you. Always has. Now show me the bearing off that deer stand one more time, and then we're going to eat those po'boys, because the other thing about evidence is it don't testify hungry."
+
+We ate the po'boys. We shot the bearing again; it held.
+
+And on her way out, at the garage elevator, plats under her arm, she stopped and said the last thing, not turning around, which I understand now was so neither of us had to have faces:
+
+"Fourth pine, seventh row. If it's there — when it's there — that's not going to feel like you think it will. Finding's not fixing. Nobody tells the finders that. So hear it from me before instead of after: whatever comes up out of that ground, you put it down right, son. You've carried it since you were eleven. After this it gets carried by the State of Louisiana, and the state's got shoulders for exactly this one job." The elevator came. She got in, and held the door one extra second. "You go be twenty. That's the assignment now. It's a real one. Hardest on the list."
+
+The doors closed. I stood in that garage a long time.
+
+Then I drove past the house.
+
+I hadn't planned it — I'd sworn it off, actually, Sofia had me booked clean around the parish — but the truck found the shore highway and then Prosperity and then there was nothing between me and Delacroix Street but two turn signals, so I signaled. Sunday, near dusk. And there it was: four stories of my whole life, weeds to the sills, plywood in Mama's window, the yard with the two dead cars sitting in it like the shells of something that had molted and moved on. I didn't stop. I rolled past at exactly the speed you drive past a thing you own with your body, and at the last second, porch height, my headlights crossed the rail —
+
+and the hex holes were still there. Little puttied scars up the porch post, where the first one was nailed in July of '08, where all of it started.
+
+And I laughed. I want that in the book, because everything else in this Part is heavy and this was the truth too: I laughed alone in a rented truck like something coming uncorked. Because he'd puttied his own nail holes, years back, to fool a caseworker — hidden the evidence of the evidence he'd faked — and some part of me at speed, at dusk, at twenty, finally saw the whole machine from outside at once, and from outside, at last, at last, it was *small*. A man with a hammer and a bag of dime-store dread, nailing hair to a porch to scare a family out of a house he wanted. That's all it ever was. It took eleven years, three states, a television network, thirty thousand phone calls, and a woman with butcher paper to get me far enough away to see it at its true size.
+
+It fit in a headlight sweep. Half a second, and gone.
+
+I drove back to the motel and slept nine hours, which the reader should understand was its own verdict, first of the many.
+
+---
+
+## 40
 
 ### Five Days
 
@@ -222,7 +362,49 @@ The doors opened Wednesday.
 
 ---
 
-## 24
+## 41
+
+### The Fast
+
+Of the five days her husband sang in the parish jail, Emma Usher fasted three, and this chapter is the third day, hers alone, because the reader has now seen the fast from the sidewalk (the piling, the tide), from the law (a warrant application ripening on a judge's desk), from Angela Mae (a purse on two knees and a patient religion) — and one seat at that emptied supper table has been owed its own weather since a hospital chair in Sulphur eleven years ago.
+
+She kept the fast. Understand that first: on day three, with the voice ninety miles away in a cell, Emma Weaver Usher kept the fast, cooked the fast's permitted broth for her mother, led the evening psalm in the den, shades at half — kept the whole liturgy running, the way a signalman keeps a dead line's lamps lit, because the alternative to the liturgy was the silence, and she had not heard the silence of that house without his voice in it since 2008, and the silence had things in it. That is the state of her the reader must carry into what follows. Not doubt. Doubt was long ago priced out of her. Something anterior to doubt: three days of quiet, and quiet was where her own voice had always lived, back before, in the salon, on the bus rides, in the room a girl waits for something to happen in.
+
+On the third afternoon she went up to the third floor for winter linens — November was in the Gulf air at last — and took down, from the storage press, the boxed coats.
+
+She had worn the winter coat six Novembers since Ethan left. Six Novembers of touching, through the hem, the small stiffness she had found there the first cold week of 2013 — of reading it once, in the attic, by flashlight, and sewing it back with her own thread and following its instructions to the letter: *Don't look. Look happy.* Six years of state of the art grief-performance, reviewed nightly by the finest audience of human weather alive, and never once flagged — her boy had written her a part, and she had played it to a full house, and the applause was that nobody died of it. This November, third day of the fast, alone on the third floor with the light going, Emma took the coat across her lap, and unpicked the hem, and read it again.
+
+*Mama. I am not taken. I am gone like R. Don't look. Look happy. E.*
+
+Eleven years old when he wrote it. Seventeen now, wherever seventeen was — an age she could only build from other people's sons at the Circle K, taller than her probably, voice changed certainly, and she had missed the change, she would not know her own child's voice on a phone, and it was that specific arithmetic — not the years, the *voice*; the mother's version of the count — that was working in her hands when they went back into the box for the tissue paper and found, folded under the last coat, the thing she had not planned for.
+
+Mellie's coat. The little red one from the church barrel, the one with — her hands knew before her eyes; her hands were out of the box and in her aprons of years, checking pockets on a dead schedule, nightly, *the weight is love* — the one with the pockets sewn shut.
+
+Emma Usher sat on the floor of the third-floor landing, outside the pantry with the four puttied screw holes, holding one coat in each hand, six ounces and eleven pounds, the gone son and the kept niece, the hem that said *don't look* and the pockets that could not be opened, and the two coats finished, in twenty silent minutes, what tip lines and warrants and eleven million witnesses had only begun. There was no scene. The reader who needs one has been reading a different book and this page cannot help them: no cry, no vow, no burning of the den. There was a woman on a floor coming to the end of a long fluency — the mouth that had opened and closed on a false number in 2007 opening now, on nothing, in an empty house, and closing, and opening — and what settled into her, in place of everything evacuating, was not courage and was not clarity. She named it herself, later, in the concrete room, for the chaplain, and the name is the reason this chapter exists:
+
+"Cold. Just — cold, Father, after years of being kept warm, and I sat there getting colder and I couldn't tell if I was dying or waking up, and then I understood that was the whole of what he'd ever sold us. Warm. He sold *warm* to people getting rained on, and the rain was him. And I sat there on that landing holding my sister's baby's coat, and I let the cold all the way in for the first time since a tent off Airline Drive, and the cold said one thing, it said: *the cold is the truth, Emmy, and the truth is you can survive it, look — you're surviving it right now.* That's all. That's what came for me on the third day. Not the Lord, not like I'd been taught to expect Him. The temperature."
+
+She did not go to Prejean. The reader knows Angela Mae was already there — the sisters passed within a day of each other, unknowing, on the same road to the same strip mall, and the trial made much of the coincidence and this book declines to; it was no coincidence; it was the fast, working in every cell of that starved organism at once. What Emma did was smaller, and exactly her size, and the state, when it finally traced it, entered it as the quietest exhibit of the case: she drove to Sulphur, to the hospital, to the records window, and asked — cash, her grandmother's surname ready in her mouth from eleven years' storage — whether a pediatric visit from October 2008 could be *confirmed as existing*. Not copied. Not released. She was not, that day, capable of a document. She needed one fact, checked out of one machine, by her own hand, without permission, for the first time since her wedding: that it had happened. That there had been a fever, a popsicle, a boy, a four a.m. self in a shoe — that her memory held one room, anywhere on earth, that the customs officer had never stamped.
+
+The clerk found the visit in four minutes. "Yes, ma'am. October '08, pediatric, paid cash. You want the—"
+
+"No," Emma said. "No, thank you. I just needed to know it kept."
+
+She was in the van to New Orleans the next morning, the fifth day, hands folded, fluent, unreadable, one member of the bloc — and on the sidewalk outside the studio, when her husband came back from jail singing, the reader has already watched the water waver around the piling and close again, and judged it, perhaps, as the tide judging wrong. Now the reader has the soundings. The water had a floor now. Wavering is what water does over a floor it has finally touched.
+
+Four evenings later, live, in front of eleven million people, her brother said *I only held the rope* — and the master tape, studied frame by frame ever since by lawyers and scholars and the merely haunted, shows the couch's frozen middle, the mother's hands rising for the ghost cup, the sister saying *it's done, Mama* — and at the left edge, half-lit, it shows Emma Usher stand up, and sit down, and stand up again, and this book has called that *a woman in a burning house* once already, from Verna's mark, nine feet out, which was as close as anyone standing in the light could see.
+
+From inside, it was this: a woman counting the exits she had spent eleven years memorizing for other people. Her mother. Her brother. Her sister. Standing, and sitting, and standing, doing the only sum she had ever been unable to finish — *I couldn't take them all* — until the doors of the studio opened from outside, eight troopers in navy, and finished it for her.
+
+At the trial, the prosecutor asked her what she felt when the handcuffs closed.
+
+The transcript gives her answer one line, and gives the courtroom's silence after it none, and so, one last time, the book:
+
+"Weather, sir. Somebody else's, for once. I felt it change owners."
+
+---
+
+## 42
 
 ### The Night It Broke
 
@@ -262,7 +444,7 @@ What I was thinking was simpler and I'll write it down at last, one hollow to an
 
 ---
 
-## 25
+## 43
 
 ### Applause (Reprise)
 
