@@ -48,6 +48,44 @@ And still—
 
 ---
 
+## Afterward
+
+*The people of this account, as the water leaves them:*
+
+**Tobias Usher** is inmate number 771214 at the Louisiana State Penitentiary at Angola, serving two consecutive life sentences without benefit of parole, plus seven years. He has filed, to date, eleven appeals and post-conviction applications, drafted by himself, in longhand, each one longer than the last; all have been denied. He receives sacks of mail and answers none of it. He has applied four times for permission to lead a prison Bible study. The warden's office has denied each application with the same single sentence, now something of a legend in the system, authored by a corrections official who had followed the trial: *"Applicant's ministry requires a door, and this institution's whole purpose is that he not keep one."*
+
+**Evelyn Weaver** serves her sentence at St. Gabriel, where she works the library cart and leads the singing on children's visiting days. She is eligible for parole consideration in her eighty-third year. Her grandson visits the third Saturday of every month. Her husband has never once missed the first Saturday. Neither of them has ever discussed, with any interviewer, what is said at that table.
+
+**Jesse Weaver** serves his sentence at a facility with a woodshop. His work — bowls, cups, small unornamented things — is sold, by an arrangement the chaplain brokered and Jesse insisted upon, at a craft cooperative in Port Mercer, with every dollar going to the trust for his sister's son. The cooperative does not advertise whose work it is. The town knows. It sells out every season, mostly to people who say nothing at the register, which is, the cooperative's manager says, "the only conversation this parish has figured out how to have about him, and maybe the right one: cash, silence, and the thing he made carried home careful."
+
+**Angela Mae Weaver**, released in 2033 under the sentencing arithmetic, lives — by an invitation issued a decade early and never once wavered on — with the family of Daniel Arceneaux, master electrician, in a garage apartment his crew converted for her the year of the verdicts. She keeps the books for his company. She sings, again, at First Pentecostal, where the fourth pew on the left is no longer avoided: she sits in it. The congregation followed her back into it, one household at a time, the way towns repent — without announcements.
+
+**Emma Usher**, released in 2031, was met at the St. Gabriel gate by her son with a truck and an apartment already rented in Chillicothe, Ohio, over a small-engine shop with two names on the sign. She works the counter. Bohannon's diner does her birthday for free every year and won't hear otherwise. She has never remarried, and never will, and has said her one public sentence on the subject to a customer who pried: "I'm learning what the light bill costs when it's only in your own name. It costs less. Everything costs less. That's my interview."
+
+**Victor Weaver** teaches at the community college — full-time now, tenured, sociology — where his Introduction course closes every semester with a two-week unit the students call, with the mordant affection of the young, *the family unit*. He assigns his own notebooks, facsimile edition, and takes the questions, every one, every year. The final exam has contained the same last question for a decade: *Describe a system you are currently inside of.* He says he has read four thousand answers and believes, on the evidence, in the republic's chances.
+
+**Camille Fontenot** retired a second and final time in 2027, with the rank the department had spent a decade owing her. Sofia's foundation named its investigator training for her over her objection, which she lodged, they report, in a one-line email: *"Name it for the boat lady, the fry cook, and the teller. I had a badge. They just had eyes. — CF."* They named the auditorium for her instead and put the boat lady, the fry cook, and the teller on the plaques at the door, and at the dedication she stood at the podium a long moment, level as ever, and said, "Well. Everybody's finally in the same file," and stepped down, and that was the whole speech.
+
+**Verna Cole** keeps bees outside Covington and answers letters from journalism students in longhand. Her book's royalties go, entire, to the trust. Her hundred-and-forty-one photographs hang in her hallway, and she has confirmed, to the one interviewer she still admits, that there are two empty frames at the end of the row, and that she will not be explaining them, and that the interview was over.
+
+**Ray Hale** died in 2027, at eighty-six, in Beaumont, with his family around him. His graveside, by his written instruction, was open to *"anybody off the Weaver side that cares to come."* Three came: Victor, Angela Mae, and Robbie, who helped carry. The niece from Lufkin read the eulogy, which ended, by the old man's dictation: *"He drove two million miles without one accident, he grieved one brother for twenty years without one day of hate, and he asked that it be said plain at the end: the truth don't run out of road. Y'all drive safe going home."*
+
+**Ethan Usher** co-owns the engine shop in Chillicothe. He has declined, at last count, forty-per-year requests for interviews, in the same four words. He and Robbie speak every Sunday, write every October and June, and meet every year at Salt Point, on a Tuesday, with rods, and have never yet been photographed there, the parish having arrived, wordlessly, at its final collective act in this story: nobody tells anybody when the two of them are on the water.
+
+**Robbie Hale** finished the criminal justice degree and then surprised every advisor one last time: he did not join a police force. He runs the intake desk — the *shelf*, the office calls it, on purpose — at the parish's family crisis center, built with the state settlement and a strange steady stream of anonymous donations that the center's accountant long ago stopped pretending weren't traceable to a beekeeper, a foundation, a law office between a tax preparer and a nail salon, and a craft cooperative's remainders. His job, as he describes it to every training class, is the four-sentence feeling: "Somebody's going to come to this desk with nothing but a wrongness they can't warrant. Your whole vocation is that they leave it *here*, on the record, with their name or without, instead of carrying it home to file under none-of-my-business. We are the shelf that answers. Questions?"
+
+There are always questions. He takes them all.
+
+The house on Delacroix Street belongs to the family from Lafayette. The fig trees bore in their fourth year, as promised. Forty-one blue cups stand on the kitchen windowsill, and the children of that family — who know the whole story; their mother saw to it, gently, early, on the principle the old owner's motto is stenciled now above the crisis center's door — the children of that family are under standing instructions, whenever they find a stranger standing too long at the fence, looking up at the tall house the way people still sometimes do:
+
+Invite them to count the cups.
+
+Then send them down the shore road, to the churchyard, where two stones stand over empty and unrobbed graves, and the newer stone, the mother's, carries under her name and her dates the four words her son chose, the ones this book was written to deliver, and delivers now, and rests:
+
+SAY WHAT YOU SEE.
+
+---
+
 ## A Note to the Reader
 
 If you or someone you know is experiencing domestic violence, coercive control, or abuse — or if a child may be in danger — please reach out:

@@ -114,6 +114,38 @@ The house pulled its shutters in around them, one hinge at a time. From the stre
 
 ---
 
+### Interlude — The Second Miracle
+
+The migraine of 2007 had been the first miracle, and it had cost nothing, and bought the room. The second miracle was performed in August of 2008, and it was a production — rehearsed, dressed, staged for a full house — and it is reconstructed here in detail because the state's expert called it, when its mechanics finally came apart on the stand of the second trial, "the single most instructive ninety seconds in the file: everything he was, in one parlor trick, if the court will forgive the term — and the court should not forgive it, because the trick cost this family everything, and the term is exact."
+
+Evie's hands were the target. Forty years of wash water and gutting tables had planted arthritis in both of them, worst in the right thumb's saddle joint, and by that summer the jar lids had begun defeating her — a humiliation she managed the way she managed everything, privately, by adaptation: the rubber gripper pad, the hot-water trick, the quiet handoff of the stubborn jar to whoever stood nearest. Nobody in the family gave it a thought.
+
+One member of the household gave it, the record would eventually establish, several weeks of thought.
+
+The staging: a Sunday service, late August, the den at capacity — this was the peak of the organism, all souls present, the horseshoe full. The reading that evening was the woman with the issue of blood — *who touched me? for I perceive that virtue is gone out of me* — and at its close, in the half-light, Brother Toby fell silent for a long moment, head bowed, and then said, in the low voice of a man receiving instructions he had not sought: "There's pain in this room that's been offered up so long it thinks it's furniture. Mama. Bring me the jar."
+
+He had it ready on the sideboard. Fig preserves, quart size, its lid — the forensic detail that surfaced twelve years later, from the least likely archive imaginable — its lid torqued down that afternoon, in the empty kitchen, by the strongest grip in the household, to a tightness no arthritic hand on earth could have started.
+
+Evie came forward, obedient, embarrassed, her bad hands out in front of her like things she was returning to a store. He did not touch the jar. He took her hands — both of them, in both of his, the warm dry unhurried grip that every member of that family would describe, at one steel table or another, with the same helpless word: *safe* — and he prayed over the knuckles, narrating the pain's tenancy, its long occupation, its eviction, and the room leaned in, and Angela Mae's soprano hummed somewhere under the words like current in a wall, and then he opened her right hand, set the jar in it, closed her fingers on the lid with his own, stepped back, and said: "Now. In the strength that is not yours."
+
+And Evelyn Weaver, sixty years old, in front of her assembled family, twisted open a jar her hands had not managed unassisted in three years.
+
+The lid gave with the pop of a small ordinance. The den came off its folding chairs. Emma was weeping; Jesse had both fists at his mouth; Evie stood in the middle of the horseshoe holding the open jar and laughing and crying at once, flexing the miraculous hand, and the man at the lectern watched the room with his eyes at half, taking the census, banking the yield — and the yield of the second miracle, unlike the first, was not belief. Belief he already held title to. The August yield was *testimony*: within a week, Evie — Evie herself, unprompted, radiant — had told the jar to Lucille at Suds City, to Odile Guidry across the fence, to the pharmacist, to the choir. The town, which had watched the shutters draw in for a year with its vague unfiled unease, now received, from the household's own matriarch, first-person, glowing, the counter-file: *whatever is happening in that house, it healed her hands. I saw the lids defeat her for years. I saw her open the jar.*
+
+He had turned the family's one remaining porous surface — a grandmother's town-facing love — into his own press office. Lemoine heard the jar story at the barbershop. Reverend Comeaux heard it twice. When the pastor made his January visit to the gravel lot, the jar rode with him — *the man heals; who am I to*—; it is in his sermon of 2021, named outright: "I drove away from those cold children partly on the strength of a fig preserve lid, church. That was the size of my proof. That was the caliber of round it took to drop my conscience at two hundred yards."
+
+The mechanics surfaced in 2021 through the humblest door in the case: a lid. Angela Mae, on her fourth day, describing the den's layout, mentioned in passing that Brother Toby had been alone in the kitchen that Sunday afternoon — she'd come down for thread and been turned gently back at the door: *the kitchen's being prayed over, darlin'.* The prosecutor, whose gift the reader has seen — the flat follow-up — asked what happened to the jar itself. And Angela Mae said the preserves went rancid within the month, which never happened with Mama's figs, and Mama had blamed her own canning, and cried over it, *because if the seal was bad the miracle jar was bad*, and he had comforted her — the witness stopped, hearing it, the whole mechanism, in her own sentence, twelve years late — he had comforted her by saying some vessels are asked to hold the sign only for a season.
+
+A jar sealed by force, opened by a torque already broken loose in a strong man's grip on the handoff — the expert demonstrated it for the jury with a duplicate, twice, palming the pre-twist both times; nine jurors later admitted they never caught it even watching for it. A seal ruined in the tampering. A grieving woman blamed for her own canning. And a town disarmed for a decade by the story of her healed hands.
+
+Ninety seconds. Everything he was.
+
+The saddest exhibit in the sequence, though, is none of these. It is a line in a St. Gabriel commissary ledger, 2022, flagged by a journalist combing records for the documentary: Evelyn Weaver, inmate, purchasing, with her forty-cent-an-hour library wages, a rubber jar-gripper pad.
+
+The arthritis had never gone anywhere at all. It had simply, like everything else in that house, been informed of what it was permitted to be evidence of.
+
+---
+
 ### Interlude — Hurricane
 
 In the second week of September, 2008, the Gulf of Mexico sent a hurricane at the Louisiana coast, and Port Mercer boarded up and emptied out the way it had a dozen times in living memory, and this interlude exists because a storm is a town's dress rehearsal for catastrophe — every family's command structure stripped to the studs and run at full load for seventy-two hours — and because what the Weaver family's structure did under that load was witnessed, for once, from *inside* another car, by outsiders, at highway speed, for eleven hours, and the witnesses never forgot it.
@@ -161,6 +193,26 @@ The town was not wicked. That is the deposition this chapter files, and the reas
 Six pebbles.
 
 Count them good, baby.
+
+---
+
+### Interlude — ODDMENTS
+
+The spiral notebook that would eventually anchor two trials was bought for one dollar and nine cents at the Circle K in the fall of 2007, for a community-college course called Introduction to Sociology, and the reader deserves the story of how a class notebook became State's 88, because it is the story of the family's one unbeliever, and unbelief, in that house, was not a position. It was a discipline, practiced alone, without support group or scripture, for eleven years, by a young man everyone at the table had already filed under *quiet*.
+
+The sociology course did it. There is a terrible comedy here that Victor himself was the first to point out from the witness stand: the state of Louisiana, through its community-college system, taught him the vocabulary for what was eating his family while it was mid-meal. Week six was social control. Week nine was Goffman — total institutions, the management of spoiled identity — and Victor Weaver, twenty-three, sat in a fluorescent classroom two towns over reading about resocialization tactics in a $whatever used textbook, and felt the floor of his life tilt, because the previous Sunday he had watched his brother-in-law receive his mother's confessed worry at the offerings and reframe it, gently, as a symptom, and the textbook had a name for that, and a page number, and a *diagram*.
+
+He went to the professor after class. This is the almost that hurts worst in a book full of them, because it is the only one where the system's failure was gentle, well-meaning, and complete. Dr. Ellen Casteix, adjunct, three campuses, ninety-one students: she remembered him — she told the documentary, gray-faced; she kept his blue-book essays twelve years — a polite young man at her desk after the social-control lecture, asking, *hypothetically*, at what point the dynamics in chapter nine would constitute something a person could *report*. And she gave him the honest academic answer: that the sociology of high-control groups was descriptive, not actionable; that belief systems enjoyed broad protection; that unless there were crimes — thefts, assaults, confinements — the state had no door. *Are there crimes?* she asked, meaning it kindly. And Victor Weaver, twenty-three, ran the inventory as it stood in the fall of 2007 — a boat bought on a suspect card, an engagement dismantled by verse, a walk being installed in his brother — and answered the only thing the inventory honestly held: "Not yet. There's just — arrangements." She suggested, kindly, that families were complicated. He thanked her. Twelve years later, sworn, he was asked why he never went back to her, or to anyone, through all the years when there began to be crimes, and his answer put the room's pens down: "Because she was right, and I'd checked. That's the trap nobody outside ever sees, sir. The checking. Everybody thinks silence is fear or shame. Mine was *research*. I checked the law in the library. I checked it every year like a man checking a river gauge, and every year the water was one inch below the road, legally speaking. And by the time it was over the road" — the transcript notes the witness aligned his glasses with the table edge, the family gesture, the squaring — "the road was us. There wasn't anywhere dry left to report *from*."
+
+So he reported to the notebook instead. ODDMENTS, the heading said, and under it, in a hand that never once loosened in eleven years, the ledger this book has been drawing on all along: *shades at half. why half. / J. walks like him now. / two hundred congregants — E. flinched at the number. / kitchen "being prayed over," 3–5 pm, alone. / lid popped too easy. figs never turn. / the letter to Miriam never came back marked undeliverable. so it was delivered. so it was received. so where is it.*
+
+Where is it. Four hundred entries, and the historians who study the notebook — it has been studied; there is a facsimile edition now, used in training detectives and, lately, seminarians — all mark the same evolution: the early entries are observations; the middle years turn to questions; and somewhere around 2012 the questions stop expecting answers and become something else, something the facsimile's editor, in her introduction, calls *the loneliest genre in American letters: minutes, kept faithfully, of a meeting no one else would attend.*
+
+He kept them anyway. Eleven years, one dollar and nine cents at a time — there were nine notebooks in the end, bound with the rubber band from the 2014 case file's cousin, hidden where the household's customs never searched because the customs officer's one blindness held to the last: inside the sociology textbook, on the shelf, in plain sight, filed under the education he'd been permitted to abandon but never to discard, since the abandonment itself was the trophy.
+
+The last entry in the last notebook is dated the morning he walked into a strip-mall office and asked a lawyer what it cost to reopen a grave. It is one line, and the facsimile edition ends on it, and so will this interlude, because after eleven years of minutes, the meeting finally got its second attendee, and the genre changed:
+
+*Adjourned. Moved: everything. Seconded: — (at last) (at last) (at last)*
 
 ---
 
