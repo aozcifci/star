@@ -294,6 +294,32 @@ and the record does not show it, because the record is a machine for losing exac
 
 ---
 
+### Interlude — The Collection
+
+Follow the money one more time — not the big money; the ledger and the deed have had their chapters — the small money. The coins. Because running under this entire story, beneath the quitclaims and the pension instruments, there was a second economy in that family, unbanked, unledgered, conducted in singles and quarters and dollar-nine notebooks, and the mapping of it, when the trials finally forced it all into daylight at once, made the state's forensic accountant — a man who had traced cartel money without blinking — stop his testimony, remove his glasses, and ask the court for a moment.
+
+The official economy first, briefly, for contrast. The collection envelope passed at Sunday service in the den — a household of nine tithing to a church consisting of the household; the mathematics alone should have been the alarm nobody heard — and its contents rode to the coin counter in Sulphur on Tuesdays, ninety minutes, alone, the one errand never delegated in eleven years. The envelope was the economy's sacrament: money surrendered visibly, weekly, before witnesses, each member's folded offering a public renewal of the arrangement. He counted it alone because the counting *was* the theology. One treasurer, one Book, one door.
+
+Now the counter-economy, and watch the genealogy, because no one inside it knew of the others for years, and the discovery of the parallels is the closest thing to grace this book's middle chapters contain:
+
+Robbie skimmed the collection first — coins only, sixty cents a Sunday at peak, palmed during the pass and banked in a Band-Aid tin at the third fence post — and the reader has been taught to see it as escape fund, which it was, and should now see the other thing it was: a nine-year-old, in a house where all value flowed to one man, running a private treasury *outward*, toward the loose world, on behalf of people it might someday have to carry. Fourteen dollars as a counter-theology. One tin, one map, one door — his door.
+
+Emma's grocery-envelope skim began, by her own testimony, without her knowledge — "I mean that exactly, sir; my hands ran it a year before I'd have confessed it to myself; ask the doctors what that is" — a dollar here, two there, flattened into the shoe at four in the morning in a Sulphur ER: a hundred and forty dollars of self, banked against a night she then declined, for reasons this book has itemized, to spend it on. The prosecutors called it evidence of her awareness. Dr. Kessler called it something better: "In every documented coercive household, you will find it if you look — the kept money. Sometimes it's cash. Sometimes it's a phone number memorized, a coat hem, sixty cents a Sunday. Clinically it is the same object: a self, held in reserve, denominated small enough to survive inspection. We should stop being surprised. People inside these systems are not broken compasses. They are compasses wrapped in wire, still pointing, storing the pointing where the wire can't read it."
+
+Ethan's bread bag — forty-one collection-skim singles, two years of Tuesdays, carried over the fence in his waistband — the reader has watched cross Louisiana. Set beside it now the detail held back until the economies could be shown together: he skimmed *only* on the Sundays his father praised him. Never after punishment — after punishment the envelope was watched, he knew, the whole house's compliance audited upward for tremors. After *praise*, the treasurer's eye rested. The son had mapped the father's accounting to the decimal and ran his withdrawals through the blind spot in the benevolence, and if the reader wants a single image for what childhood in that house did to its best minds: an eleven-year-old timing his thefts to the warmth, because the warmth was the only hour the light wasn't looking.
+
+And Miriam. Hers surfaced last, at the second trial, from the unlikeliest custodian. When the state finally executed its full search of the tall house in 2019, the evidence team, working from Robbie's fence-post methodology — *check where things meet the ground; my family banks low* — found, in the third-floor pantry, under the shelf paper of the bottom shelf, flattened to the thickness of the paint: eleven one-dollar bills and a Suds City pay envelope, and on the envelope, in the machined level hand the reader knows from a savings-book and a calendar, a note that was not a note to anyone living, dated the week before the family left the house for the cars — the week she understood, the ledger shows, what was being converted and how it would end — and the envelope was State's 203, and the prosecutor read it once, quietly, at the very end of the money week, and sat down, and asked nothing further of anyone that day:
+
+*If found: this was Miriam's. Earned folding at Lucille's. It's for the kids' Fridays. There used to be a thing called Fridays. Whoever finds this — they'll say she was disturbed. The money's real either way. So was she.*
+
+Eleven dollars. The exact price, the reader of the exhibits will have noticed, of a pantry bolt at the family hardware store, and no one in any courtroom ever said that out loud, and neither will this book, past this sentence.
+
+Four treasuries, one house, none knowing of the rest: coins at a fence post, bills in a shoe, singles in a bread bag, a pay envelope under shelf paper — the kept selves of the kept, denominated small, pointed outward, waiting. The state's accountant, glasses back on, finished the money week with the summation the textbooks now reprint, and it is the interlude's verdict:
+
+"Counsel asked me to establish that the defendant controlled this family's every dollar. I can't. I found four accounts he never reached. Total holdings, two hundred and six dollars and sixty cents — against his six hundred forty thousand. That's the balance sheet, ladies and gentlemen. I've audited both sides of it, and I'm here to tell the court which side was solvent. Money is stored intention. His stored appetite; it's all spent; there's forty-one dollars left of the whole empire and a garnishment order on it. Theirs stored *escape*, and every account eventually paid out — a bus ticket, a fence, a boy's Fridays. In thirty years of forensic work it is the only time I have ever wished to enter, as my professional finding, the word: hold on. The small money was them holding on. I'd ask the record to keep it."
+
+---
+
 ## 16
 
 ### The Cars

@@ -324,6 +324,36 @@ The footage shows Verna Cole look down at her hands, and then up, and the whole 
 
 ---
 
+### Interlude — Angola
+
+Eighteen thousand acres of prison farm in a bend of the Mississippi, and somewhere in its geometry, in a cell it is no part of this book's business to furnish, the man — and this interlude, the last that will concern him, keeps the promise made in the front matter: no seat inside the skull; exterior surfaces only; what the institution logs, what the officers see. It is enough. It was always enough. The whole case, the reader has perhaps concluded by now, was solved by people who stopped trying to see inside him and started reading his surfaces like weather.
+
+What the institution logs:
+
+That inmate 771214 is, by every operational metric, a model prisoner — infractions, zero; work assignments, completed; the record of a man who has never in his life fought any system frontally, systems being, to him, not adversaries but *materials*. That he filed, in his first four years, eleven pro se legal actions, longhand, on yellow pads bought from commissary with money that arrives — the mailroom logs it — from strangers, women mostly, in amounts of five and ten dollars, to which he does not respond. That his eleventh filing was not an appeal at all but a civil complaint, dismissed with a single footnote that entered the state's legal folklore, against the warden's office, alleging religious discrimination in the four denials of his application to lead Bible study — the footnote reading, in its entirety: *"The First Amendment guarantees the plaintiff a faith. It does not guarantee him a flock. Dismissed."*
+
+What the officers see, which is the truer record, officers being the last professional noticers this book has left to call:
+
+That he preaches anyway — of course; to the yard, at first, in the early years, the old voltage hunting the old current — and that Angola, which has seen every species of jailhouse shepherd, watched the yield with professional interest and logged the finding this interlude exists to report: it doesn't take. Not there. A veteran corrections captain, interviewed for a criminology oral history (the family declined participation; the prison did not), explained it in the dialect of his trade, and his explanation is the closest thing to a final diagnosis the case will ever receive:
+
+"Everybody asks about him. Media, students, every year. They want to know is he running a cult in here. Listen: that man's method needs three things, and we stock none of them. It needs people who don't know what he is — every man in this institution read the file before he got off the bus. It needs a door he controls — there is one door in a cell and it is ours. And it needs — this is the one nobody understands till they work here — it needs people with something left to sign over. A house, a pension, a daughter, a believing heart. My population signed everything over before they ever met him; the state's got it all. You cannot run his con on the dispossessed, cher. It's a rich man's con — I don't mean money — I mean it only works on people who still have things they're terrified to lose. That was his whole ministry: fear of loss, administered to the still-possessing. In here he's just an old man with good manners and a Bible, standing in a yard full of men who lost it all already and know his tricks besides, and I have watched him figure that out across ten years, slow, the way weather figures out a coastline — and you want the one thing I'd put in your history? The counting stopped. The officers all know the counting; the file taught us; new officers get told, watch him sweep a room. He swept every room, every yard, every chow line, left to right, for years. Counting who believed. About year eight — COVID year, maybe the year after — the sweeping stopped. He looks at the wall now, mostly. And I'll tell you what I think, for your archive, and then I got a shift: I think a man like that is a ledger with legs. His whole self was the count. And the day the count came up permanent zero — no marks left, no room left, nobody ever coming who don't know — the ledger closed, and what's walking the yard now is the binding. Empty book. Good posture. Waves real courteous. Two fingers. We don't wave back. That's not policy. That's just eighteen hundred officers, one at a time, deciding the same thing."
+
+The mail still comes in sacks. The believers, the reader was promised early, always exist — the aquifer runs under every parish, and some strata of it flow toward the wolf, always, that is the aquifer's oldest sorrow. The prison logs the volume, forwards the money to his account per regulation, archives the letters he does not read.
+
+And once a year, regular as a liturgical season, the mailroom logs one piece of outbound correspondence from inmate 771214 — the only piece; eleven years running — one envelope, addressed in the neat unhurried hand to the Clerk of Court, Mercer Parish, containing the annual renewal, on the correct form, correctly completed, of his standing request for copies of any filings in the matter of the estate of Miriam W. Hale.
+
+There are never any filings. The estate closed in 2023. The clerk's office, the first year, wrote back saying so.
+
+He renews anyway. Every year. On the anniversary of the twentieth of December, the postmark says, and the clerk's office no longer answers, and this book, which promised to read only his surfaces, reads its last one and closes the file:
+
+an empty ledger, in a river bend, at the end of all its numbers, still trying to bill the one account that got away whole.
+
+Her page never opened for him. Not the first night at the supper table, not at the tree, not now.
+
+*Balance: herself. Carried forward. In perpetuity.*
+
+---
+
 ### Interlude — The Documentary
 
 It aired in the autumn of 2024, four ninety-minute parts, and this book has been quoting it for four hundred pages — the pastor's sermon, the deputy's eleven seconds, the handler and her dogs — and owes the reader, before the epilogue, an account of the strangest fact about it, which is that it exists at all, because every principal in this story had by 2024 refused, collectively, several hundred requests, and the woman who finally got the yes got it with a method the industry has been failing to copy since.
