@@ -106,6 +106,32 @@ It took ten years to arrive. Mail like that always comes, Fontenot believed to t
 
 ---
 
+### Interlude — The Flyer
+
+It was made in March of 2009, at the copy counter of the Port Mercer branch library, and the librarian who helped make it kept one, and the reader should watch it be made, because the flyer is the case's most reproduced object — it has since appeared in three languages, two documentaries, one dissertation, and forty million social-media feeds — and no one who shared it ever knew what they were holding.
+
+The family came in — all together, of course — on a Tuesday. The librarian, a precise young woman named Marisol Vega, six months into the job, remembered them without effort a decade later: you did not forget that family at a copy counter, seven people conducting one errand with the gravity of a delegation. The son-in-law directed. The photograph they brought was the porch picture — the church dress, the rail, the eyes — and Ms. Vega, cropping it on the ancient library scanner, made the adjustment that has since been studied in journalism schools: the original showed two figures. Miriam, and, holding her hand at the very edge of frame, a small girl in a red coat, cut to a sliver by the borders of the print. The son-in-law, leaning over the counter, tapped the sliver and said, "Crop in past that, if you would. Just her. We don't want confusion."
+
+*We don't want confusion.* The child being, at that hour, five months buried in a pine plantation west of Ferris Creek, and her own flyer being a thing that must never exist — because the family's official cosmology held her *with cousins in Texas*, and a town asked to look for one missing female must not be invited to wonder why the little girl in the red coat wasn't in Texas too. Ms. Vega cropped in past the red sliver. It took one keystroke. She testified to the keystroke eleven years later, voice breaking exactly once: "You do a thousand kindnesses at a copy counter. Enlarge this, sharpen that. I disappeared that baby with an arrow key, and he watched me do it, and he said 'God bless your eye for detail.'"
+
+The text beneath the photograph was dictated, spelled out, letter by letter: MISSING — MIRIAM W. HALE — LAST SEEN 12/20/08 — MAY BE TRAVELING WEST — DISTURBED STATE — IF SEEN DO NOT APPROACH, CONTACT FAMILY. And the phone number given was the house line on Delacroix Street.
+
+Every clause has been parsed since, but the pair that the profilers circle is the fourth and fifth: *disturbed state; do not approach.* A flyer is a net; this one was cut to catch nothing. It taught every reader who might one day glimpse Miriam Hale alive to keep their distance and call not the sheriff but the household — the customs office — and it wrapped her, in eleven words, in exactly the madness that would discredit her if she were ever found standing at a Trailways counter telling a stranger what her family was. It was, the state's expert said, holding it up to the jury in a gloved hand, "the perfect artifact. A missing-person flyer engineered by the person she was missing *because of*, to function as a wanted poster in reverse: it did not seek her. It sought to intercept anyone she might reach. He printed sixty of them at eleven cents a copy, ladies and gentlemen, and the library gave the family a discount, because everyone always gave this family everything, because look at them — seven grieving people at a copy counter. All together. Always all together."
+
+Sixty were printed. Fifty-nine were distributed to windows and poles and bait-shop corkboards, where the salt fog took them by June.
+
+The sixtieth is the one Ms. Vega kept — she could never say why; the arrow key, perhaps, already working in her — flat in a manila folder in her desk for ten years, which is how it survived to become State's 12: the cleanest surviving print, the exhibit blown up behind the prosecutor in every photograph of both trials, the image the world knows. The eyes a beat too long on the camera. The message that took a decade to arrive.
+
+And at the bottom edge of State's 12, faint but recoverable, runs the one detail the poster-size enlargements finally surfaced, the detail no one had seen in ten years because no one had ever looked at the flyer as an *original*: a sliver of red at the left margin, one inch tall. A fold of a child's coat, missed by an arrow key.
+
+She is in the exhibit. She was in it all along.
+
+Both of them were. All it ever took was someone looking close, and the whole time, at every window and pole and corkboard in Mercer Parish, at eye level, in daylight, for anyone —
+
+that was always the whole of what it took.
+
+---
+
 ## 24
 
 ### Visiting Days
@@ -244,6 +270,24 @@ In room fourteen of a motel by the highway, three weeks before Christmas of 2018
 
 ---
 
+### Interlude — Angela Mae's Decade
+
+Somewhere in this book's middle years there is a woman it keeps passing in doorways — holding an arm, bringing a blanket, praying at the assigned distance — and before the story runs on to its sirens and studios, it owes her a page of her own, because of the six who stood trial, Angela Mae Weaver is the one the public never solved. The mother was legible: the world knows what a mother's captivity looks like. The brothers were legible. But the younger sister — soprano, migraines, the broken engagement; the one who held Miriam's arm at the sessions *and* was herself held at others; the one who at forty walked into a strip-mall law office on the third day of a jailhouse fast and calmly handed the state its case — she fit no shelf, and the commentary called her everything from victim to fanatic to sphinx, and this page calls her what the decade's evidence calls her: the household's designated organ of feeling, kept alive in that capacity because the organism needed one, and billed for every beat.
+
+Understand what she was *for*, in the machine's economy. Every session needed its weeper; every discovery of a hex, its gasp; every Sunday, its soprano line rising over the horseshoe — and it was always her. The reader has watched Toby conduct fear, money, testimony; watch him now conduct *feeling*, and see that Angela Mae was his instrument the way the tree was Jesse's and the ledger was Evie's. Her migraines — the original point of entry, the first miracle of February 2007 — were managed like an account: relieved when her belief flagged (the hands at her temples, the family watching, the warmth), and permitted to return when she needed humbling, and once, in 2012, when she had gone four Sundays without weeping at anything, publicly *diagnosed* — the rider, back, drawn by her *hardening heart* — and treated, at a session the others still could not describe a decade later without their own voices failing.
+
+She was also, and this is the part of her decade that the trial's clean categories mangled, the children's warmth. When Miriam was forbidden the wagon, it was Angela Mae who put her hand flat on the glass over Robbie's head — she had seen her sister do it; she kept the liturgy alive when its author was tied to a tree. It was Angela Mae who sewed — the pockets of the little red coat were sewn shut by her hands, to her lasting damnation, at his instruction, *for ballast, for the child's keeping*; and it was the same hands, the same thread, the same winter, that sewed — nobody instructed it — a small cloth doll for the same child, with yarn hair and a stitched smile, that went into the pantry with Mellie on the bad nights and was found, ten years later, west of Ferris Creek, by the screens, at the fourth pine of the seventh row, and became the exhibit the state showed last, and the one photograph from the entire case that no newspaper on earth ran uncropped.
+
+Both things. At once. The pockets and the doll, the same thread. The reader who can hold that pair in one hand has finished the only course this book teaches.
+
+Her decade after the tree was the longest of anyone's, because she alone had no exit even in theory. Jesse had his drills, Evie her scrubbing, Emma her hem, Victor his notebook — structures, however terrible; things to *do*. Angela Mae was required simply to remain, and to feel on command, in a house where the objects of feeling kept being subtracted: sister, niece, nephew, nephew, father, the fiancé with the buttoned pocket — Danny married in 2011; she learned it from the church bulletin, which still came, and Toby read the announcement aloud at supper, mild as milk, as a mercy, he said, *so she'd hear it here first, among love* — and she sat through that supper, and sang that Sunday, soprano line over the horseshoe, and her voice did not break, and she went up afterward and lay on the floor of her room, flat, arms at her sides, taking up no space that was not assigned, in the posture the reader has seen once before in a feverish six-year-old, because the house taught everyone the same shapes eventually, at every age, in every room.
+
+What broke her free, in the end, was the thing the machine had made her: its organ of feeling. The reader will remember what the fast's third day did to Emma — the cold coming in, the temperature telling the truth. For Angela Mae the third day brought not cold but *quiet*, three consecutive days without a single feeling being conducted out of her by anyone — and into that unprecedented stillness came, she told the jury, in the testimony this book has quoted piecemeal and gives whole here at last, the very faculty he had spent a decade playing:
+
+"Everybody asks was it the broadcasts done it, the statement on the wall, my brother on the couch. It wasn't. It was Tuesday of that fast, about four in the afternoon, in the den, alone. Quietest that house had been in eleven years. And I felt something, on my own, unconducted — first one in I couldn't tell you how long. And what I felt was" — the transcript notes the witness here looked at the defendant, the only time in four days — "*grief*, sirs. Just grief. Plain grief, the kind he never once let us have, because grief is for the dead, and the dead — you have to *say* they're dead to grieve them, and we were never allowed. Miriam was 'called away.' Mellie was 'in Texas.' Eleven years he kept our grief in escrow along with everything else. And it came for me in that den like water through a wall, eleven years of it at four in the afternoon, and I sat there and let it, and when it was done running I stood up, and I knew they were dead, and I knew I'd helped, and I knew what a list was for. And I put on my church coat and I drove to the man with the list. That's all it was, sirs. It wasn't courage. Courage is Robbie. It wasn't evidence. Evidence is Victor. It was just that the grief finally came due, and I was the one it was payable to, because feeling was always my job in that house. He trained me for it, y'all understand. He trained the very dog that bit him. I have wept on command for eleven years." The witness folded her hands, the record shows, and delivered the last sentence of her direct examination level as any Fontenot: "That day in the den was the first time it was ever *my* weeping. I'd testify to the difference in any court in the world. It's the difference between a well and rain."
+
+---
+
 ## 29
 
 ### The Recantation
@@ -277,6 +321,32 @@ She had no fact. The judge golfed; the sergeant counted days; the annex swallowe
 But mail like that always comes.
 
 On the shelf in the records annex, in the dark, in the box, clipped inside the lid where she had left it — the church-dress photograph, the eyes a beat too long on the camera — Miriam Weaver Hale waited eight more years for somebody to outlive their fear.
+
+---
+
+### Miriam — An Interlude
+
+*You want to know what the tied one thinks about. Everyone wants to know and no one will ask, so here, since these are my pages between the parts, since the light in this book is mine to hold between their chapters:*
+
+*The crab song. That is the true answer. Not escape — escape thinks itself out in the first hour, every route, every mile, and then it is thought, and the night is still eleven hours long. Not fear; fear won't hold a shape that many hours either. What stays is the crab song. Mama on the flats with me on her hip, before Jesse even, when I was the only one — the tide out, the moon on the mud, and her voice going through the verses, and every verse is a creature that the water left behind, and every creature in the song survives till morning. That's the whole engineering of it. I never noticed till the tree: it's a song about being left by the water, and everything in it lives. The crab digs down. The mullet finds the pool. The heron — the heron is the danger in the song, the heron stalks the whole middle verse — and even so, even in a song honest enough to have a heron in it, the little ones last till the tide turns. She sang me a survival manual and called it a lullaby, my mother, and I sang it to my own two on the same flats, and at the tree, in the wind, I sang it to myself, and you may write down that on some nights it worked.*
+
+*You may also write down — because your book is honest enough to have a heron in it — that on some nights it didn't.*
+
+*What else. The cold, yes. The stars — you get the stars out at the point, the refinery glow quits at the tree line, and I learned the winter sky that year the way the kept learn what's given: entirely. And him — no. He gets none of these pages. He got everything else.*
+
+*But here is the thing I want your bright kitchens to carry out of my interlude, the one finding from inside that your experts with their slides never quite land on: the rope was never the punishment. The rope was scenery. The punishment — the design of it, the craft — was that the ones I loved brought the water and set it down where I could reach it and walked back up the shingle to the light, and I watched them go, every night, sixteen nights, nineteen — and I want it told exactly, because it is the exact thing: I never once hated them, and that was the punishment. He had arranged it so the hate had nowhere to land. Mama with the cup — I could see the machine working her, I'd watched it work her for two years; hate the puppet? Jesse's hands on the knots, shaking, then not shaking, which was worse — hate the cured? The hate went up the shingle past all of them looking for its owner, and its owner had arranged to be, always, just inside the light, just out of range, at the exact distance where hate arrives as exhaustion. That is his whole genius, the entire patent: he stands where what you send at him lands on someone you love.*
+
+*So I sent nothing. I saved it. I put it where I put the counts and the calendar lines, in the place the water keeps.*
+
+*And ten years on, a woman with a level voice carried a box out of an annex with my picture clipped in the lid, and a boy laid a map on butcher paper, and a jury of the bright kitchens sat for nineteen days at the exact distance where hate arrives as arithmetic —*
+
+*and it landed, cher.*
+
+*Every sent thing arrives. Tides, mail, verdicts. The song had it right the whole time: the water goes out. It is not gone.*
+
+*Sing the middle verse anyway. Mind the heron.*
+
+*Dig down, and last till it turns.*
 
 ---
 

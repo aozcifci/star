@@ -182,6 +182,26 @@ He had promised somebody a trip, eleven years before. The tide chart, his grands
 
 ---
 
+### Interlude — The Jury
+
+Juror Number Eight of the second trial was a pipefitter's widow named Constance Broussard, fifty-nine, of the town of Sulphur, and she is this book's last new witness, seated here between the verdicts and the visiting room, because twelve citizens carried this case the final mile after everyone named so far had carried it as far as they could, and the country that watched the couch and shared the flyer and knelt on the logging road has never once been shown what the carrying cost the twelve.
+
+She almost got out of it. Voir dire in a case this famous ran nine days; the pool was eight hundred; and Constance Broussard, who had watched exactly none of the broadcasts — her husband had died the autumn of the couch, and she had spent that winter in the fog where television is just weather in another room — answered the lawyers' hundred questions so plainly that both sides kept her, each certain the plainness ran their way. Asked afterward, in the one interview she gave (to the LSU oral-history project, sealed five years, quoted here by permission), why she hadn't mentioned the fog to get excused, she said: "They kept asking could I be fair. Nobody asked could I be *spared*. I judged the second one wasn't the county's problem. That's what a jury is, cher. Twelve people who answered the first question and kept quiet about the second."
+
+Nineteen days of testimony. She kept the notebook the court allowed, and surrendered it at the end as the law requires, but a juror keeps another notebook the law can't collect, and hers, she told the historians, had three pages that would not close.
+
+The wind rose. That was the first: NOAA's witness with the December 2008 charts, southeast at 28 gusting 40, and the realization moving down the jury box in visible order, chin by chin, that the science witness was establishing what a sound could and could not have been, and why a brother had needed a stranger with a book to tell him, eleven years on, what had been in the wind. "I fit pipe alongside my Dale twenty years," she said. "I know what a gauge is for. It's for when a man can't trust his own senses in the noise. That poor soul stood in front of us asking the state's weatherman to be his gauge for the worst night of his life. I wrote one word in the notebook they took. I wrote: *carried.*"
+
+The doll was the second. It was shown once, for ninety seconds, on the nineteenth day, and the courtroom's cameras were dark for it by standing order. "I won't describe it," she told the historians, and did not, and this book follows her.
+
+And the third page was the defendant. Nineteen days at forty feet, the ideal range, she said, for a species the parish never gets to see close: "Everybody asks about *him*, was he scary, was he magnetic. Neither. That's the report from forty feet, and I'll stand on it: neither. He was *attentive*. Nineteen days, and he never once got tired the way the rest of us got tired — lawyers, judge, us, the marshals, everybody's shoulders came down as it went, everybody but his. He watched every witness like a man at a job interview where he was doing the hiring. And on the last day, when the foreman stood up to read, I watched him do the thing I have never told anybody but Dale's headstone: he looked down the box at the twelve of us, one at a time, left to right, quick — like he was counting." She stopped there, the tape shows, for some time. "I know what he was counting. I've read everything since; I know all about the counting now. And I want it in your archive, because it's the only thing I know that the books don't say yet: we counted him back. Twelve of us, straight down the row, nobody flinched, and I felt it go down the box like current, cher, like a weld taking — twelve strangers all sending the same figure back at him at the same time.
+
+*Zero. Zero. Zero. Zero. Zero. Zero. Zero. Zero. Zero. Zero. Zero. Zero.*
+
+That's the verdict, if you want the real one. The one the foreman read out was just the paperwork."
+
+---
+
 ## 49
 
 ### St. Gabriel
@@ -233,3 +253,37 @@ I found my crew — old habits; a freelance unit, shooting steps-color for the n
 "We got the whole story, son. The last shot belongs to them."
 
 Down at the foot of the steps a detective with gray all through her hair now was holding a car door, and an old man and a young man got in with their fishing rods already racked in the bed, and the last I ever saw of the Weavers who remained was three heads in a truck cab going west against the afternoon traffic, toward the shore road, toward the water, which keeps what it keeps, and gives back, on its own tide, in its own time, one coin.
+
+---
+
+### Interlude — The Hearing
+
+*Washington, D.C. — March 2022*
+
+The subcommittee was called Communications, Media, and Broadband, and the hearing was titled "True Crime Programming and the Public Interest," and Verna Cole, retired, appeared voluntarily, without counsel, without notes, and without — the C-SPAN footage confirms what the gallery felt — without any of the armor the room was built to be survived in.
+
+She was the third witness of the afternoon, after a network standards executive who read a statement about *robust internal safeguards* and a professor who had numbers. The chairman thanked her for coming. He said the committee understood she had been invited to many such panels and declined them all.
+
+"I declined them because they asked me to talk about the industry," Verna said. "Your staffer asked me to talk about what happened. That I can do. I've had three years to get it in order, and I'll be brief, because the truth about my part is brief."
+
+Then she gave, into the record of the Congress of the United States, unteleprompted, the seven minutes that this book — which has quoted her at every turn and owes her its whole fourth part — sets down as her last appearance:
+
+"In December 2018, a man applied to be on my program, using his family as the application. My researchers saw it within a day — that the form itself was strange; that the applicant was the story. I want the committee to understand that I am not confessing to blindness. I'm confessing to sight. We *saw*. And I booked them, because my numbers were soft, and because a hundred and forty-one people were on my wall, found, and I had a religion built out of that wall, and my religion said the couch does more good than harm.
+
+"For three weeks, the machine I had built did what no institution in this country had managed in ten years. Your record should show that plainly, because it's true and because it's the dangerous part: it *worked*. Thirty-one thousand callers worked. A detective the system had shelved got her case back because ten million people looked at a DA at the same time. Two children in unmarked graves are marked now, partly because of my noon show and the detergent it sold. If I sit here and tell you television can't do justice, I'm lying, and everyone who watched that January knows I'm lying.
+
+"So here is what I came to say instead, and then I'll take the questions. On January ninth, twenty nineteen, at 12:41 in the afternoon, state police walked into my studio, and three hundred people stood up and applauded an arrest in the matter of a tortured woman and a murdered child, and I stood in my mark and let it run, and somewhere in me — I have looked for three years and I cannot find any hour of that month where this isn't true — somewhere in me I had always known it would end in that shot, and had wanted the shot. That's the finding, Senators. Not that we aired a monster. Monsters get aired; sunlight is real; I'll defend the sunlight to my grave. The finding is that the applause was in the building before the police were. We built the room the applause happens in. We build it every noon. And the families on the couch can hear the difference between a room built to find their dead and a room built to watch them be found — they can hear it, even when we can't, even when we're the ones who built the room.
+
+"You asked me here to recommend safeguards. I have exactly one, and it isn't legislative, so I apologize in advance for wasting the committee's time with it. It's a test I failed for three weeks and passed, in the end, one time, on some courthouse steps, too late to matter. Before the light goes on, every person in my old chair should have to answer one question, out loud, to somebody who's allowed to cancel the segment: *Who does the last shot belong to?* That's all. That's the whole regulation. If the honest answer is 'them' — air it. If the honest answer is 'us' — and Senators, it is almost always us — kill the camera.
+
+"A woman named Miriam Hale looked into a stranger's camera in two thousand and eight, on a porch, for one beat too long. It took eleven years, and my program, and thirty-one thousand phone calls, and a boy with a tin box, for this country to develop that photograph. I'm not here to help you regulate the eleven years down to ten. I'm here to say the photograph was always developable, any afternoon of any one of those years, by any neighbor with a phone — and the committee, with respect, is holding hearings about the camera because the camera is the only part of this that ever bought an ad. Thank you. I'll take the questions."
+
+The questions ran two hours. The clip that circulated — eleven million views by that weekend; the arithmetic of such things being, as she would say, both things at once — was none of the seven minutes. It was four seconds from the middle of an exchange with a junior senator who asked, meaning no harm, whether she missed it.
+
+The footage shows Verna Cole look down at her hands, and then up, and the whole retired instrument comes level one last time:
+
+"Every noon, Senator. Same as him. That's the testimony. Same as him."
+
+---
+
+*End of Part Five.*

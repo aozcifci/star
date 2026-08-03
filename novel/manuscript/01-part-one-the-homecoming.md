@@ -416,6 +416,30 @@ The house was seeing its owner off.
 
 ---
 
+### Interlude — The Funeral
+
+Aaron Hale was buried out of a Beaumont funeral home on a Thursday, eleven days after he died inside a garden gate, and the reader is owed the hour, because this book has so far given the dead man two weeks in him and the bad week winning, and a man is not a verdict, and also because everything the Weaver family would be told to fear for the next eleven years was seeded in that hour, in that chapel, among those sixty folding chairs — and none of it, not one grain of it, was true.
+
+The Hales came in from four states. They were a scattered clan, oilfield and highway people, and grief assembled them the way it assembles such families: awkwardly, in borrowed suits, around a mother in a wheelchair — Miss Ruth, Aaron's mother, eighty then, silk flowers on her lap because real ones made her sneeze — and around the one brother, Ray Hale, who had stood at the back of everything his whole life and stood at the back of this too. Long-haul Ray. Fourteen years older than Aaron, a refrigerated-freight man with two million safe miles and a franchise coffee thermos, who had half-raised his baby brother in the years their father was on the rigs and who had watched, across two decades and a windshield, that brother curdle in ways Ray had no vocabulary for and no exit from, only the phone calls — collect, then drunk, then neither, then none.
+
+There was no talk of vengeance in that chapel. The record on this point is total, and the record was eventually taken, because when the "blood feud" finally stood up in a courtroom to answer for its eleven years of employment as the Weaver family's official terror, the state called the feud itself to the stand — called Ray Hale, sixty-nine by then — and asked him, plainly, what the Hales had planned that Thursday, and Ray Hale looked at the assistant attorney general of Louisiana for a long moment and then said the thing that made the wire services:
+
+"Ma'am, we planned the reception. Miss Odile from the church done the ham. I don't know how to answer you. You're asking me did sixty tired people in a rented chapel plot a war. We couldn't have plotted a *carpool*. Half of us wasn't speaking to the other half over a boat."
+
+What the Hales did do — the whole of what they did — was file. Ray drove to Port Mercer twice that spring: once to ask the sheriff's office, politely, hat in hand, whether his brother's children might be visited by their grandmother, and once, having received no answer, to ask again. He parked his rig at the truck stop out on the interstate — a Kenworth the size of a house; the reader may here solve a small mystery eleven years old — and drove into town in the rental he pulled behind it, a *blue sedan*, and he passed the tall house on Delacroix Street three times on a Tuesday because the streets in that quarter don't run through and a stranger circles.
+
+Three passes of a blue sedan. The reader has already seen what was built from it.
+
+He wrote four letters over the years — to Miriam, courteous, stamped, asking after Robbie and Mellie, enclosing, the last time, a twenty for each child. The letters were received, read, and filed by the household's customs officer, who found in them better material than he could have invented: proof, physical proof, on paper, held up at supper in the lamplight — *they know the children's names; they are watching; they have money for watchers* — and the twenties themselves, entered into the mallard book as *offering, defensive*, meaning he kept them.
+
+And Miss Ruth, in the nursing home outside Beaumont, kept on her nightstand until she died in 2016 two photographs: her son at nine, gap-toothed, holding a stringer of croaker; and a school picture of Robbie at six that Miriam had mailed her secretly from the laundromat in the last free autumn of her life, with a note on the back that the Hales produced at trial, and that did in that courtroom what the ledger and the rope had not quite done, because it was eleven words in the victim's own hand, and it was addressed to the enemy:
+
+*"He has your Aaron's laugh. The good year's laugh. — M."*
+
+They had been told the Hales were coming for them for eleven years. The Hales were a ham, four letters, two twenties, and an old woman asleep under a photograph of the boy's laugh. The feud was the first hex: hair and thorn and red thread, nailed up by the same hand that would later be paid to discover it — and this interlude stands here, between the shotgun and the plea, so that every time the reader hears *the Hales have not forgotten* in the chapters ahead, the reader will see what this family could not: a chapel of folding chairs, a wheelchair, silk flowers, and a big quiet man at the back with a thermos, grieving a brother he couldn't fix, planning nothing in this world but the drive home.
+
+---
+
 ## 9
 
 ### The Plea

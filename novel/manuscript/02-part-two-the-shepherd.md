@@ -114,6 +114,32 @@ The house pulled its shutters in around them, one hinge at a time. From the stre
 
 ---
 
+### Interlude — Hurricane
+
+In the second week of September, 2008, the Gulf of Mexico sent a hurricane at the Louisiana coast, and Port Mercer boarded up and emptied out the way it had a dozen times in living memory, and this interlude exists because a storm is a town's dress rehearsal for catastrophe — every family's command structure stripped to the studs and run at full load for seventy-two hours — and because what the Weaver family's structure did under that load was witnessed, for once, from *inside* another car, by outsiders, at highway speed, for eleven hours, and the witnesses never forgot it.
+
+The evacuation order came Thursday noon. By Thursday dusk the interstate northbound was a single sixty-mile organism of brake lights, and somewhere in it crawled the Weaver convoy: the wagon and the Buick, and, between them — this is how there came to be outside witnesses — the Guidry sisters' Oldsmobile. Mrs. Odile Guidry, the retired schoolteacher four houses down, had a dead battery and a diabetic sister and no family in reach, and Evie Weaver had knocked on her door Thursday afternoon — Evie's own idea, her own old unkilled reflex; the record should carry that the last fully free act anyone in that family performed in 2008 was an act of neighborliness — and the convoy had been formed before the son-in-law could price it.
+
+Eleven hours to Alexandria. And Odile Guidry, riding those hours with her window down at crawl speed alongside first one Weaver car and then the other, conducted without meaning to the only field observation of the organism at full function that exists outside the family's own testimony. She gave it to the documentary in 2024, at ninety, sharp as a tack, and it runs four minutes uncut, and the essential minute is this:
+
+"Every stop — and there were many, you'd go forty minutes and gain a mile — that man was *out*. Around the cars. Checking door handles. I thought at first, how attentive. Then I saw what he was checking. He wasn't checking the doors were closed, sugar. He was checking who sat where. He moved them. Twice at the Basile exit I watched him move them — the big son up front with him, the tall daughter back with the mother, the little boy from one car to the other, like a man moving chess pieces, and everybody just — went. Nobody asked why. Eleven hours, two vehicles, seven grown people and children, and I never heard one of them ask him one why. My sister said, 'That family runs smooth as a watch.' And I said — I remember the chill of saying it, with my window down in all that exhaust — I said, 'Renée, a watch has got exactly one spring.'"
+
+In Alexandria the shelters were church gyms, cots in rows, the coast's whole population sorted under basketball hoops — and here the organism did the thing that the state's expert, years later, shown Odile's account, called *textbook, if there were a textbook, which there is now, and this family is in it*: it did not disperse into the common pool. It established, in the far corner, behind a barricade of cots turned sideways, a perimeter. Meals were drawn from the Red Cross line by two designated members — Jesse and Emma, always the same two — and eaten inside the corner. The children did not join the shrieking herd of shelter children playing dodgeball; a request from Robbie, aged nine, to do so was received by the head of the family, considered kindly, and answered with a hand on the head and a sentence that a Red Cross volunteer named DeShawn Pitre, nineteen years old that September, overheard, misfiled for eleven years, and then sat bolt upright in front of a television one January noon in 2019 remembering whole:
+
+"Storms are the Enemy's harvest, son. Everything out there is loose. We stay gathered."
+
+*Everything out there is loose. We stay gathered.* Pitre repeated it to the documentary camera, and then said what makes the interlude worth its pages: "I heard that at nineteen and thought, strict church folk. That's all I filed it as. Man, I *envied* them a little — our corner of that gym, my own family was hollering, my uncles were fighting about a generator. And their corner was calm. That's the thing nobody wants to hear about these situations. From twenty feet away, the sickness looks like peace. It looks like the thing your own loud, broke, healthy family don't have. The dodgeball corner was the healthy corner. Loose is healthy. Took me half my life and their trial on the news to learn that. *Loose is healthy.*"
+
+The storm, in the end, spared Port Mercer the worst — took the fishing pier and the school gym roof, spent its eye elsewhere — and the convoy came home Sunday to a town of blue tarps and chainsaws, a town suddenly, briefly, woven back into one working body: neighbors on roofs, church crews clearing yards, the Circle K giving away thawing ice. For nine days Port Mercer was the thing towns are in the week after weather — porous, loud, everybody in everybody's yard, the whole parish *loose*, in Pitre's honest word, and healthy with it.
+
+Delacroix Street's tall house alone took no crew and lent none. Its yard was cleared by its own members in one silent morning. And the reader, knowing now what watched from that porch — a man who had just spent seventy-two hours observing what a community looks like when it flows, how help arrives uninvited, how a Guidry gets a convoy, how a gym full of strangers shares ham sandwiches, how *loose* the world becomes when the pressure drops — the reader will not need to be told why the hexes, which had arrived at the stately pace of one a month all summer, came now in a rush; why the worst of them all, the jar in the attic, the one that would empty the house entirely, was discovered within weeks of the convoy's return; why by Advent the family was sleeping in two cars in a gravel lot with the doors locked against the exact town that had just spent September proving what it would do for anyone who asked.
+
+He had seen the antidote circulating.
+
+He moved the family out of its reach.
+
+---
+
 ## 13
 
 ### What the Town Saw
