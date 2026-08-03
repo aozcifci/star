@@ -26,7 +26,7 @@ She was washing the supper dishes when the knock came; her hands were deep in su
 
 "Miriam," she said.
 
-Her daughter stood on the threshold. A sleeping boy hung from one shoulder — Robbie, seven years old, his arms slack around his mother's neck — and in the crook of her arm, wrapped like a bundle, a small girl, Mellie, not yet two. Beside Miriam stood a single suitcase. Does a person walk out of ten years of marriage with one suitcase, Evie wondered, and the answer was there in her daughter's face: she does. If she gets out with her life, she does.
+Her daughter stood on the threshold. A sleeping boy hung from one shoulder — Robbie, seven years old, his arms slack around his mother's neck — and in the crook of her arm, wrapped like a bundle, a small girl, Mellie, not yet three. Beside Miriam stood a single suitcase. Does a person walk out of ten years of marriage with one suitcase, Evie wondered, and the answer was there in her daughter's face: she does. If she gets out with her life, she does.
 
 "Mama," Miriam said. She said nothing else. Nothing else was needed.
 
@@ -94,6 +94,42 @@ That someone came at the end of that winter.
 
 ## 3
 
+### What Houston Kept
+
+*1999 – 2006*
+
+Long after — in the church basements, in the group on Thursdays, in the one interview he ever gave, to a girl from a college paper because she asked without a camera — Robbie Hale would be invited, again and again, to say what Houston had been. People wanted it simple. People wanted the before to be bright so the after could be dark, or the before to be dark so the after could be inevitable. What he had instead was what a child keeps, which is neither: an apartment on Telephone Road with brown carpet that showed the vacuum lines; a father who could juggle oranges; a mother who sang in the car and stopped singing at the parking lot of their own building, every time, like a radio losing a station at the same bend of the same road.
+
+Aaron Hale juggled oranges. Put that in the record too, Robbie told the college girl, because nobody else will. He could juggle, he could do a card trick that ended with the card in your own shoe, he knew the man at the taqueria window by name and the man knew his order, and when he came home in a good week he came home loud and generous, swinging Mellie up onto his shoulders so her hands could flat against the ceiling, which she called *touching the sky*, and for the length of a good week the apartment on Telephone Road was the best place Robbie would ever live.
+
+The other weeks had a sound. That was how the boy filed them, because the eye could be fooled — his father's face in a bad week looked exactly like his face in a good one; that was the thing no caseworker's pamphlet ever had a box for — but the sound came first and the sound never lied. The key in the door too slow. The refrigerator opening and closing without anything being taken out. His mother's voice getting smaller in the kitchen, not quieter — smaller, the words themselves shrinking, *yes* and *no* and *I did already*, until she had a voice the size of a sewing kit, and Robbie would take Mellie into the bedroom and read to her with his finger under the words, too loud, both of them too loud on purpose.
+
+He was four, five, six. He counted things. It began as a game his mother made — *count the blue cars, baby* — on the long waits in the truck outside places she went into pale and came out of paler, and it stayed because it worked: a counted world held still. Steps between the door and the stairwell: eleven. Nights his father was gone that his mother checked the window before bed: all of them. Men who came with his father after the shipyard let out, who sat in the kitchen with beer while his mother took the kids to the bedroom: he counted those too, and their boots by the door, and he heard his own name once through the wall in a voice he didn't know, and his mother's voice answering, small as the sewing kit, and the next morning she taught both children a new game called *staying at Mrs. Reyes's*, which they played, after that, on the nights the boots came.
+
+What was true and what was fear, the boy could not have said, and the man he grew into declined, on principle, ever to rule on it. This has to be set down plainly, because the trial tried to rule on it, and the internet ruled on it hourly for a year: whether Aaron Hale drugged his wife, whether the lost days she spoke of at her mother's kitchen table were chemical or were the mind's own mercy blackout, whether the men in the house were buyers of anything more than his boat-motor side business — none of it was ever proven, none of it was ever disproven, and the only two people who knew are dead in the same story. The reader wants a ruling for the same reason the town did: a monster before makes the monster after feel like weather, one storm following another, nobody's fault for staying out in it.
+
+Robbie refused the comfort of it his whole life. His father was a man with two weeks in him and the bad week winning; he needed him to be exactly that size, no larger, because he had watched what happened to his family when a man was allowed to become weather.
+
+What he would swear to — did swear to, right hand up, twice — was smaller and harder: that in the spring of 2006 his mother changed the way a person changes when they stop asking *whether* and start asking *how*. The counting games got purposeful. A duffel bag lived under the bed with clothes rolled tight the way nobody rolls clothes for a drawer. She got a library card in a town they didn't live in. And on a Tuesday in October — he did not know yet that Tuesdays would become the family's secret hinge, that everything in his life would swing on Tuesdays — she met them at the school door instead of the bus stop, and Mellie was already on her hip, and she said, in a voice that had come back up to its full size, "We're going to see your grandma. Don't look back at the building. It's bad luck."
+
+He looked. Sons look.
+
+His father was not at the window. Nobody was at the window. The building stood there with its hundred windows and nobody in any of them, and Robbie would think about that, years later, in a wagon, in a motel, on a courthouse stand: how you can live somewhere seven years and leave, and the place doesn't even watch you go.
+
+The bus ran east into the dark. His mother's head against the window, her eyes open. Mellie asleep. Somewhere past Beaumont, Robbie counted the oil flares off the refineries — six, seven, eight — small crowns of fire standing on the black land, and his mother, without turning from the glass, said the only thing she ever said to him about that night, and he grew up inside the sentence, and in the end he furnished it and lived there:
+
+"Count them good, baby. Every one of those is somebody working the night shift so their family can sleep. World's mostly them. It's mostly them, and don't let anybody ever teach you different."
+
+Eleven hours later he stood in a warm kitchen that smelled of dish soap while an old woman he mostly knew from Christmas held his face in two hands and cried, and a huge silent man looked at him from the head of a table, and nodded once, the way you'd nod at a man arriving for work, and Robbie — six years old, sixty in the ledger — nodded back the same way.
+
+He slept that night on the third floor, in his mother's childhood bed, between his mother and the wall. Eleven steps from the door to the stairwell here too; he counted before he slept. He was checking, though he couldn't have said it then, whether the world kept its measurements when you fled across it. It did. Doors, stairs, mothers, night shifts. The world kept its measurements.
+
+It was the people who wouldn't.
+
+---
+
+## 4
+
 ### The Son-in-Law
 
 *February 2007*
@@ -138,7 +174,53 @@ Taking inventory.
 
 ---
 
-## 4
+## 5
+
+### The Fisher of Men
+
+*Houston, 2000 – 2006*
+
+Emma Weaver went to Houston in the spring of 2000 with a cosmetology certificate, a suitcase her mother had cried into, and the private conviction — the middle child's conviction, nursed in a four-story house where Miriam was the pretty one and Angela Mae was the baby and Jesse was the boy and Victor was the smart one — that somewhere there existed a room in which, when she entered it, something would happen.
+
+For eighteen months, no room obliged. She rented a converted garage from a Vietnamese family in South Houston, took a chair at a strip-mall salon called Belle's, and learned the city's first lesson, which is that it does not count its arrivals. She was twenty-three, then twenty-four. She was good with color and better with the old ladies, who tipped in ones and called her *cher* when they learned where she was from. On Sundays she tried churches the way other girls her age tried bars, and for the same reason, and found them enormous and chilled and full of families that arrived in one van and left in one van, and she sat in the back rows of nine different denominations and was, in all nine, invisible.
+
+The tent was on a gravel lot off Airline Drive, between a tire yard and a flea market, and she went because the flea market was where she bought her produce and the singing was audible from the pepper stall. REVIVAL, the banner said, ALL WELCOME, THE SPIRIT IS MOVING NIGHTLY, and under the canvas maybe sixty folding chairs and a plywood stage and a sound system with a hum in it, and on the stage an old lion named Reverend Othel Pyle, who had been working the Gulf Coast tent circuit since Eisenhower, sweating through a pearl-gray suit.
+
+And working the aisle with the offering bucket, in a short-sleeved white shirt, was the assistant.
+
+She would be asked — by her sisters, giddy, in the beginning; by lawyers, flat, at the end — what Tobias Usher had been like *then*, before, as if she had been given a before to compare against and had chosen wrong. Here is what there was: he was the first person in eighteen months who found her the second time. Anyone can find you once; the city is full of once. Toby took the bucket down her row on a Thursday, and on the following Tuesday, at the pepper stall in the flea market, a voice behind her said, "Belle's, on Fuqua. You do the color there. My aunt swears her soul is saved but her hair is sanctified," and she turned and he was holding a bag of peaches and smiling with those even teeth, and something happened in the room. It was a flea market between a tire yard and a tent. It didn't matter. It was the room.
+
+He was thirty then, or said thirty. He had three childhoods, and she heard all three in the first year and made of them, because love is a quilter, one story instead of what they were, which was three fittings of a garment on a customer he was still learning. In the first childhood he was an orphan out of Arkansas, raised in a series of foster homes, saved at fifteen at a roadside revival exactly like this one — *the tent found me, Emmy, I was a boy nobody would keep and the tent kept me*. In the second there was a mother, alive somewhere, a drunkard he forgave extravagantly and would not name. In the third, told only once, late, in the dark, in the voice of a man letting you see the wound at last, there was a grandfather with a belt and a Bible, who had taught him both at once — *so I know, you see. I know what the Book does in the wrong hands. That's why it has to be in mine.*
+
+At trial, a records examiner from the state of Arkansas testified for forty minutes. There was no orphanage. There was no grandfather of record. There was a Toby Dean Usher, born Texarkana, a mother deceased 1981, a string of addresses, two arrests for check fraud in the nineties under a variant name, no convictions, and a four-year gap that the examiner, pressed, could only call *undocumented*. Three childhoods, and underneath them: paper, and a gap. Emma, in the gallery, heard the examiner out with her chin up. She had by then done her own arithmetic, in a cell, with fourteen months to work it: you cannot marry a gap. Somebody had stood at that flea market holding peaches. All the years she was called a fool for believing his stories, and the truth was worse, and she was the only one who ever saw it whole — there were no stories. There was a man-shaped patience, fitting garments.
+
+They married in March 2001 at the Harris County courthouse — the tent circuit didn't pause for weddings, and Pyle needed him; Pyle by then needed him for everything, the books, the bucket counts, the advance man's work in the next town — and Emma wore a suit from Foley's and called her mother from a payphone, crying, and Evie cried too, and mailed a hundred dollars and a quilt, and asked when they'd come home so it could be done right, in front of the family, and Emma said soon, and it was six years before Port Mercer saw the groom.
+
+Ethan was born in 2002. And it was in 2002, also — the year the son came — that the Reverend Othel Pyle put his assistant out.
+
+Emma got the story in the two versions she would spend her life between. Toby's, delivered calm as lake water while he packed: that the old man had grown jealous, *jealous in the spirit*, because the healing lines had started forming on the assistant's side of the tent; that a prophet is without honor in his own tent; that they were being freed, Emmy, not fired — *pruned for fruit*. And the version she overheard eleven years later, at the first trial, in the corridor, from Pyle's widow, a tiny woman in enormous glasses who had come up from Port Arthur on two buses to watch one day of testimony and left at the lunch recess satisfied: *Othel counted that bucket for fifty years and never once found it light till that boy touched it. Wasn't the money made him put Toby out, though. He told me — I remember it exact, I'll die remembering it — "Sister, every man I ever worked beside was selling something and knew it, and God forgive us, it kept us humble. That one's the only man I ever met who bought his own goods. Get him out of my tent before he starts to heal."*
+
+What followed Pyle, Emma lived inside of, and lived inside of alone, which was the design. The Free Gospel Assembly of the Spirit, storefront, Bissonnet Street: folding chairs again, but his now. It peaked — she counted, she was the wife, she made the coffee — at thirty-one souls, one Easter. Never two hundred. The two hundred was minted later, at a supper table in Port Mercer, for an audience that would never drive four hundred miles to count chairs, and when Emma heard him say it the first time she opened her mouth, and closed it, and that small hinge-sound, mouth opening and closing on a number, was, she told the prison chaplain years later, the exact noise of her portion of the guilt: *I knew the count, Father. I knew the count from the very first lie, and it was such a little lie, and I had such cold winters behind me in those big churches where nobody found me twice.*
+
+The Assembly folded in '05 — the strip mall wanted its rent in money, not in fruit — and the pattern that the family two hundred miles east would take three years to enter had already run once, complete, in miniature, in Houston, with a cast of thirty-one: the found ones folded in, the tithes rising as the flock shrank, the two families who signed over a car and a disputed inheritance respectively, the man who asked where the building fund had gone and was discovered, within the month, to have a rider of unclean spirit and a wife who wouldn't look at him, the dwindling, the dark storefront, the eviction taped to glass. Nobody went to the law. Nobody ever went to the law; that was the genius of the goods he bought and sold — shame is a contract both parties sign.
+
+Two thousand six was the year of nothing: Toby *studying* in the second bedroom, driving off to *fellowships* he came back from smelling of other people's kitchens, the light bill in Emma's name, the color chair at a new Belle's carrying them all. She was twenty-nine, with a four-year-old, married to a man between congregations the way other women's husbands were between jobs, and she had stopped writing home the truth in even the small denominations she'd once permitted herself.
+
+And in October of that year, the phone: her mother's voice, low, the kitchen door audibly closed against the house. Miriam had come home. Come home *bad*, Evie said. Two babies. That man. Threats. Your daddy cleaning the gun. Emmy, pray for us.
+
+Emma hung up and stood in the kitchenette a while. And then — this is the moment she confessed to the chaplain, the one she circled all her sentence like water going down; not the deed, not the notary, not the rope; this — she walked into the second bedroom where her husband sat with his Bible and his legal pads, in the parked engine-idle of him, that patience with no object; and she watched the object arrive. She said: *Toby. It's my sister. Something's finally happened,* and she watched her own household weather change, watched the interest come up in him like the flare coming up on the night clouds back home, and she was — God forgive her, she said it out loud in the little concrete room and the chaplain did not flinch, chaplains at St. Gabriel have heard the whole coastline of the human heart — she was *glad*. Glad the way the cold are glad at any fire.
+
+"We should go for Christmas," her husband said, already turning to a fresh page. "No. February. Let the first wave of help wear itself out. Family gets tired in ninety days, and tired ground takes the seed." He looked up at her and smiled, even teeth in the lamplight, and reached out and took her hand with real warmth — that was the unbearable part, the warmth was real, warmth was simply another true thing that belonged to him and went where he sent it — and he said:
+
+"Emmy. Didn't I always tell you? God never closes a door but He opens a family."
+
+She testified she remembered thinking, all the long drive east that February, one thought, on a loop, mile after refinery mile, and the prosecutor asked her to share it with the jury and she did, to the room, to her mother in the third row, to the ghost of a tent off Airline Drive:
+
+*He said it wrong. He says things wrong on purpose sometimes, to see if you'll laugh. Nobody laughed. I should have laughed.*
+
+---
+
+## 6
 
 ### The Man at the Door
 
@@ -208,7 +290,69 @@ But that night, on his way to bed, he stopped outside his father's bedroom door,
 
 ---
 
-## 5
+## 7
+
+### The Long Game
+
+*Autumn 2007*
+
+The fishing began in September.
+
+It was Evie's idea, which is to say it was Toby's idea by the time it had finished being Evie's; she would understand the mechanics of that years too late, the way she came to understand everything, on a steel bunk with time to run the tapes. Jesse had been low all summer — the shipyard had cut the day crews, and a man who is turned away at a gate in front of other men at six in the morning comes home with something taken out of him that supper doesn't put back — and Evie had fretted it aloud at the sink, and Toby had listened, and two days later he owned a secondhand skiff with a forty-horse motor, bought — the mallard ledger would eventually show — with the first money ever drawn against a credit card in Harlan Weaver's name that Harlan Weaver knew nothing about.
+
+"Bought it for the family," Toby said, hosing it down in the yard like a man baptizing something. "But I'll need a man who knows the water. Jess? You know the water?"
+
+Jesse knew the water. It was possibly the one whole thing he knew, learned in boyhood in the only hours his father had ever had spare, and no one had asked him for it in fifteen years. He stood there with the hose spray drifting on him and his face did what winter ground does when you finally get sun on it, and Evie, watching from the porch, thanked God, and went in and started supper, and that was the last unmortgaged happiness anyone in that family got free of charge.
+
+Tuesdays and Fridays, then, through that long warm fall: two men in a skiff at first light, out past the point, lines down over the reef the locals called the Kitchen. And what got fished. Sunday's sermons at the supper table were for the household, broadcast; the skiff was narrowcast, and Toby fitted the bait to the fish with the patience that was the whole of his genius. For Jesse: manhood, gravely conferred. Out on the water the brother-in-law asked and asked and asked — *your daddy ever take you out here? No? Working, I know. Providing, that's its own love. But a boy needs — well. You'd know better than me what a boy needs; you went without it* — and Jesse, thirty-one years old, wept the first time in the fine salt drizzle where a man can deny his face is wet, and the man across the skiff looked away with perfect courtesy and reeled in slow, and let the silence do the setting of the hook.
+
+By November Jesse was repeating whole paragraphs at the supper table with the pronouns changed. Victor noticed — Victor was keeping his own ledger by then, a spiral notebook of his own, headed with a date and the word ODDMENTS, the entries dry as their author: *J. now says "a man's first church is his household," verbatim T., 3rd time. / T. paid cash for boat but "forgot wallet" at Ray's twice this wk. / Angela Mae's Danny not at table again.*
+
+Angela Mae's Danny. That was October's quiet work. Danny Arceneaux, apprentice electrician, engaged to Angela Mae since the spring: a large, cheerful, uncomplicated boy who said grace fast and ate much and had asked Harlan for her the old way, standing in the den with his cap literally in his hands. What Danny lacked, fatally, was need. He had a mother who loved him, a union card coming, a face with no crack in it anywhere for a claw to purchase — and so, in the manner of a man clearing brush, Toby was gracious to him, and began, in his absences, the work. Never a word against Danny. Against *yoking*. He would get out the big Bible after supper and happen upon Second Corinthians: *be ye not unequally yoked* — and close the book gently and say nothing further, and let Angela Mae, nineteen, migrained, adoring, carry the verse up to bed and apply it in the dark with her own trembling hands. Was Danny *saved*, really, the way this family was coming to understand saved? Would Danny fast with her? Watch with her? When the darkness gathered at the tree line — and Brother Toby said it was gathering; he could see it the way sailors see weather — would Danny stand, or would Danny be a door the darkness walked in through?
+
+She gave the ring back the Sunday after Thanksgiving, on the porch, in the cold, in tears she couldn't explain to him. Danny Arceneaux stood a long moment turning it in his fingers. He was not a subtle boy, but love deputizes the senses; he looked past her, through the window, at the supper table framed in lamplight, at the soft-spoken visitor at its head with a Bible open under his hand, and something animal in Danny understood the whole thing at once, understood it years before the town, the parish, the state, the nation.
+
+"You all right in that house?" he said. "Don't answer fast. I'm asking it real."
+
+"You should go, Danny."
+
+"I'm going." He put the ring in his shirt pocket and buttoned it, and looked at her once more. "My mama says a fox don't raid the coop the first night. He counts the dogs first." He went down the steps, and stopped, and said the rest to the yard, to the dark, because he could not say it to her face: "Ain't no dogs left over there, Angie. That's all I see when I look at your porch. He done counted, and there ain't no dogs."
+
+At the second trial, Daniel Arceneaux, forty by then, a master electrician with a crew of nine and a wife who came with him every day of his testimony, told the courtroom that he had driven to the sheriff's substation that same December night, and had sat in the parking lot in his truck for forty minutes, engine running. State's counsel asked what he would have said if he'd gone in. He looked at his hands. "That there was a fox in a house full of people I loved. Yes ma'am. And they'd have asked me what he'd *done*, and I'd have said 'nothing yet,' and they'd have sent me home. You can't law a feeling. I know that. I knew it then." He looked up, and found the front row left, the old man, the stump that had leaned east for a century, and finished his answer to him, not to the lawyers, the way the whole parish by then finished everything to him: "I've buried it forty ways, Mr. Weaver. It don't stay down. I'm sorry. I was twenty-four and you can't law a feeling. But I had the feeling, and I want it wrote down that I had it, because everybody in this whole case keeps saying *nobody could have known*. I known. I known in my stomach, standing on your porch, and all I did about it was button my pocket."
+
+The judge let it stand. By the second trial, that judge was letting a great deal stand; the record of that autumn had become, among lawyers, a famous thing — the transcript in which an entire town files to the stand, one by one, to log the feeling it buttoned into its pocket.
+
+And the skeptics? The two the inventory had flagged in February — the two Toby was clearing his ground of all that patient autumn?
+
+They had one conversation. One. It has no witnesses and both parties are dead, but it happened; Miriam told Robbie a piece of it, once, wagon-whispered, and Harlan told Fontenot a piece of it, once, on a ninety-mile drive, and the pieces meet clean, and this book is the only place they will ever be joined.
+
+Early December, 2007. The porch, late, the house asleep. Harlan with his last coffee; Miriam, sleepless, coming out with a blanket around her shoulders, finding her father there, sitting down on the step below him the way she had at nine, at fifteen, at twenty, before Houston, before everything. A long comfortable silence of the kind that only two silent people can build.
+
+Then Miriam: "Daddy. That boat."
+
+And Harlan: "I know it."
+
+Miriam: "Emma's worn out, Angela Mae broke it off with Danny for nothing, Mama quotes him like Scripture, and Jesse — Daddy, Jesse *walks* like him now. Watch him tomorrow. He's got Jesse walking like him."
+
+And Harlan, slow, working it like a weld he didn't trust: "Man's never asked me for a dime. Never raised his voice, never touched a drop, quotes the Book better than Pastor. Every single thing he does, took one at a time, is a kindness." A mouthful of coffee. "That's what's wrong with him. Nobody's that clean who ain't wiping something."
+
+"Then say it," Miriam said. "You're the only one they'd all hear. Say it at the table."
+
+And here the two tellings meet, word for word, because both of the living carried this part exact, the way you carry shrapnel:
+
+"After the holidays," Harlan said. "Emma's home for Christmas with the baby, first time in six years. Your mama's happier than I seen her since you come back. I break this at that table now, I break Christmas, I break your mama, I break Emma's marriage in my own den with no more in my hand than a boat and a bad feeling." He poured the dregs over the rail. "January. Him and me will take a ride in January, just us two, and I'll have it out. A thing like him backs down when a man faces him square. They always do."
+
+*A thing like him.* He had it. He had the whole of it, in December, before a single irreversible thing had happened — and he filed it under January.
+
+Miriam pulled the blanket tighter and looked out at the yard, at the bare plum tree, black against the refinery glow. What she said next her father repeated to Fontenot on the highway with his hands flat on his knees and his face turned to the window, an old man performing an autopsy on the exact moment his life turned, and every parent who has ever postponed a hard thing for one holiday will know the size of it:
+
+"Okay, Daddy. January."
+
+Aaron Hale came on the ninth of February.
+
+---
+
+## 8
 
 ### The Shotgun
 
@@ -269,3 +413,63 @@ And on the threshold — on his own threshold — arms folded, already saying so
 It was Toby standing at the door of the house now.
 
 The house was seeing its owner off.
+
+---
+
+## 9
+
+### The Plea
+
+*February – May 2008*
+
+The law that came for Harlan Weaver was the courteous, unhurried law that comes for a respected man, and it was in no way prepared for what it found, which was a defendant who would not defend himself.
+
+The parish assigned the case the weight it seemed to carry: a sixty-three-year-old foreman of forty years' good standing; a dead man with two logged threat complaints, a lost custody suit, and a restraining order in his paper trail; a shooting inside the complainant's own gate at dawn. The district attorney — the golfer; he enters this story early and leaves it late, and improves at no point in between — saw the shape of it in the first week: no jury in Mercer Parish would convict this grandfather of murder, and no DA who valued his November could afford to try. What remained was arithmetic between lawyers.
+
+Harlan's lawyer was a squat, tireless man named Boudreaux, hired by the family — hired, that is, by Toby, who located him, vetted him, drove Evie to the office, and sat in on every conference with his hand on his mother-in-law's chair; and if it has occurred to the reader that a defense attorney selected by the actual author of the crime might be selected for qualities other than ferocity, it occurred to no one in the family, because the family had stopped doing its own procurement in every aisle of its life, and had barely noticed.
+
+To be fair to Boudreaux — the record eventually was; he testified at both trials, gray and shaking, a man who had spent a decade replaying a case he'd thought was the easy win of his career — he did his job as the job stood. He was handed a client who said *I shot him* with the calm of a man reading a gauge, a family whose seven accounts agreed with a smoothness he'd never once encountered in thirty years of families, and an eyewitness widow whose statement was — his word, on the stand, chosen carefully — *machined*. Nothing stuck out. Nothing ever varied. In thirty years, he said, every honest household's story of its worst morning has burrs in it, edges, one cousin who saw it different by the porch light. This one came out of the box tooled smooth, and God help him, he billed the smoothness as luck.
+
+The statement was machined in the third-floor bedroom, in four sessions, in the week after the shooting, while the house below filled and emptied with casseroles.
+
+This is the scene the reader has been owed since the garden gate, and it is short, because the man who ran it believed in short sessions — the mind, he taught, takes the seed best in shallow rows. Miriam sat on the edge of her childhood bed. Toby sat on the desk chair turned backward, forearms on the chairback, the Bible closed under one palm like a hand resting on a railing. Emma at the door. Mama downstairs, receiving the parish.
+
+"Again. Where were you standing?"
+
+"The window. Toby, I've said it—"
+
+"Where at the window."
+
+"…The left side. Where the curtain—"
+
+"Whose curtain? Say the whole of it. You'll say the whole of it in a room full of strangers with your daddy's life on the table, so say the whole of it now."
+
+"My window. My bedroom. I was at the left side of my own window and I saw—" and here, the first three sessions, she stopped, because what she had seen was Jesse under the plum tree, stone-still, and her father coming out the kitchen door old and empty-handed and screaming his son's name; and what was required was the reverse, the exact reverse, the gun moving from the son's hands to the father's across the eight feet of that dawn like a debt being transferred; and between what she had seen and what was required stood everything she had left: a mother she could not orphan twice, a brother whose sentence would be measured in decades, two children asleep down the hall with no other roof on earth, and a father — this was the tooth of it, this was where the machining bit — a father who had already, freely, in the yard, chosen it. To tell it true was not to save Harlan. Harlan could not now be saved from his own sentence; he had said *I shot him* to a uniformed officer in front of neighbors. To tell it true was only to add Jesse to the fire.
+
+He had built it so that her honesty had no purchase anywhere. That was his architecture, always: not to force the lie, but to demolish every load-bearing use of the truth, and then stand back, sorrowing, and let you choose freely among the ruins.
+
+"—I saw my father take the gun from where he kept it," Miriam said, fourth session, level, machined, "and go down to the yard, because a man was breaking through our gate who had sworn to kill him and take my children. And I have never in my life been gladder of my father."
+
+Toby looked at her a long moment. Then he stood, and did the thing she told her son about years later in the wagon, whispered, the single confidence that let the boy assemble the whole machine after everyone else's accounts had failed: he reached out and squared her hairbrush with the edge of the dresser — a thing set at an honest angle, corrected — and said, mild as milk, going out:
+
+"You see how well you do when you understand what a thing is *for*? Truth's a tool, sister. Man doesn't serve the hammer. Hammer serves the house."
+
+Boudreaux traded the plea in April: manslaughter, fifteen years, parole eligibility at five with good time, in a parish where the alternative — however unlikely — had *life* printed on it. He sold it to the family in the den on a Sunday afternoon, honestly, competently, item by item; and around that den sat seven adults of whom four believed they were hearing rescue, one was doing sums in a spiral notebook headed ODDMENTS, one stood at the window with her arms folded hard against something rising in her—
+
+—and one sat in the wing chair with his ankle crossed over his knee, listening with his whole listening, and inside himself — the record eventually reached even here; he could not resist explaining himself to a cellmate in 2020, and cellmates trade upward — inside himself he was doing the other arithmetic: five years minimum before the man came home. Sixty months. He had folded a congregation of thirty-one in eighteen. He had never yet had sixty months of cleared ground and a household running scared and a stream of settled money.
+
+He thought — the cellmate swore to the exact words, and of everything in four thousand pages the jury was seen to believe, they believed this, because it wore his voice like the coat wore hers — he thought: *Lord, it's more than a man asks. I'll have the walls painted and the papers signed before that old stump sees a parole board.*
+
+Sentencing was the second of May. Harlan stood when asked, said "No, your honor" to the invitation to speak, and was taken through the side door with no more ceremony than a shift change; he looked back once, found Evie, and gave her the nod he'd given foremen for forty years — *going on shift; mind the house* — and was gone.
+
+On the courthouse steps, in the drizzle, to the *Gazette*'s lone stringer, the son-in-law of the family said the words that ran under the photograph, over the fold, and into the town's permanent memory, six years before anyone thought to hear them twice:
+
+"God counts the days, even when men count the years. This family will be kept. I give the parish my word: as long as I have breath, this family will be kept."
+
+*Kept.*
+
+Nobody heard it. Nobody ever hears it the first time.
+
+It is the loudest word in this entire book, and he said it on the record, in daylight, smiling, with his hand on the shoulder of the widow's son, and the *Gazette* printed it under a headline the copy desk thought was kind:
+
+FAMILY VOWS TO CARRY ON.

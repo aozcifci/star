@@ -14,7 +14,7 @@
 
 ---
 
-## 6
+## 10
 
 ### The Moving Van
 
@@ -40,7 +40,45 @@ It is the questions. He eats the questions.
 
 ---
 
-## 7
+## 11
+
+### The First Sunday
+
+The Free Gospel Assembly of the Spirit, Reconstituted — no sign ever said so; no sign ever said anything; the congregation was the sign — held its first full service in the Weaver den on the second Sunday of June, 2008, and to understand everything that follows, the reader must sit through it once, entire, the way the family did. Cruelty is easy to imagine and gets imagined constantly; what cannot be imagined, only attended, is the *service* — the warm, dim, unhurried engine that ran every Sunday for ten years and inside which all the cruelty was manufactured as a byproduct, the way a refinery's real product is invisible and what you see is the flare.
+
+It began at four in the afternoon, because morning belonged to First Pentecostal, and for that first year Toby sent them all to First Pentecostal still — *we don't leave the old well till the new one's proven; also,* (a smile around the table) *the town watches who watches.* Attendance at both was thus total: the town saw a family in its regular pew, scrubbed and present, and the family saw itself twice-churched, double-blessed, fortified. He never removed a single thing at the start. He only ever added, and let crowding do the removing.
+
+The den was prepared by the women in a liturgy of its own: chairs in a horseshoe, the big Bible on the walnut lectern with the cracked foot — the one object of his trade he'd kept from Bissonnet Street — one lamp lit, shades down halfway. Halfway, always halfway: Victor's notebook logged it (*shades at half. why half*) years before a state expert, shown photographs, would explain to a jury what every theater tech knows: half-light shrinks a room, softens faces, makes a single standing figure the only legible object in it.
+
+They sang first. This must be granted, because it is where the outsider's imagination fails worst: it was beautiful. Angela Mae's soprano, Emma alto, Jesse's unexpected clean tenor that no one had heard since his boyhood because no one had asked; three-part harmony on the old Gulf hymns, *I'll Fly Away* and *Farther Along* and *Just a Closer Walk*, with the windows open onto the summer yard, and the neighbors — this came out at trial, one after another, wet-eyed, furious at their own memories — the neighbors used to *slow their evening walks* to hear it. The singing was real. The joy in the singing was real. Nothing in this book is harder to write than that sentence and none is more necessary: the joy was real, and it was load-bearing, and he had engineered it the way you engineer anything load-bearing, because a family that sings together at dusk with the windows open will forgive by Thursday whatever was done to it on Monday, will half-believe the Monday thing was the price of the Sunday thing, which — in the whole art and commerce of Tobias Usher — it was.
+
+Then the Word. Forty minutes, seated, conversational, the Bible mostly closed under his hand; he preached the way he listened, leaning in, voice at kitchen pitch, and his texts that first summer were all of them — Victor's notebook again, dry as ever: *note: every text about the household. none about the world* — Joshua's *as for me and my house*; the strong man armed keeping his palace; Noah, always and again Noah, the one righteous family and the sealed door and the water rising on everyone else's neighbors. Week upon week, a single lesson in a dozen coats: the perimeter is sacred, the perimeter is the whole of the Lord's concern, and the perimeter has a keeper.
+
+Then the offerings. Not money — the money moved on weekdays, through instruments; Sunday was for the other currency. One by one, around the horseshoe, each member *brought* something aloud: a doubt confessed, a weakness named, a grievance against another member laid down — *laid down* was the phrase, and the genius of it, because what is laid down in public is inventoried in public, and he stood at the lectern receiving each item with such tenderness, such grief-warmed thanks, that none of them, for years, felt the filing system snap shut around every offered thing. Evie brought her worry for Harlan and had it blessed. Jesse brought his shame about the shipyard and had it reframed as election: *the world turned you away at its gate because you were kept for this one.* Miriam — Miriam, that first summer, still inside the fence of what she could risk — brought small true things, a temper with the children, impatience at the laundromat, and watched each one weighed on his face for what it was: underweight. Insufficiently naked. An account paying its minimum.
+
+And then, the first Sunday of each month, communion — saltines and grape juice on Evie's wedding tray — and here the record demands its exactness, because at the second trial the prosecutor built half a day on it. He served them. Each one, by hand, kneeling in turn: the body, sister; the blood, brother. But he himself did not take it. Ever. Not once in ten years, a fact so woven into the household's fabric that no member thought to find it strange until a lawyer's question hung it alone in courtroom air. Angela Mae, on the stand, was the one who repeated his standing explanation, given once, early, to a nine-year-old Robbie who'd asked out loud what no adult would:
+
+*"The waiter doesn't sit at the wedding table, son. Somebody has to keep the door."*
+
+The prosecutor let the sentence stand a moment, then asked her, quietly, whether in ten years of Sundays she had ever once seen Tobias Usher, in any posture, before any altar, in any light — *pray alone*. Not perform grace, not lead the horseshoe. Alone. Unwatched. For himself, to his God.
+
+The courtroom is very quiet on the tape at this point.
+
+"No, sir," says Angela Mae's voice, after eleven seconds the transcript renders as *(pause)*. "I never did think of that till right now. You could have kindlier asked it. No, sir. I never once."
+
+Service ended at dusk with the doxology and a cold supper, and the first Sunday broke up in such warmth, such rinsed and shining faces, that Evie — standing in her den among the folding chairs, watching her children linger in the horseshoe glow, Jesse's tenor still hanging in the room like woodsmoke — said to Emma the sentence that Emma carried to St. Gabriel and will carry out of it:
+
+"Your daddy always kept us fed and kept us safe, and I bless him for it. But Emmy — this is the first time this house has ever felt *led*."
+
+The shades at half. The flock at song. The waiter at the door, keeping it.
+
+Ten years, that service ran.
+
+There was never a single Sunday off, and the town walked slower past the windows, and not one soul in Port Mercer ever heard, under the harmony, under the doxology, in the half-light, the sound a door makes when it is being kept from both sides.
+
+---
+
+## 12
 
 ### The Architecture of Fear
 
@@ -76,7 +114,31 @@ The house pulled its shutters in around them, one hinge at a time. From the stre
 
 ---
 
-## 8
+## 13
+
+### What the Town Saw
+
+Set down here, in their own kinds of voices, four depositions the law never took — the testimony of Port Mercer itself, assembled from what its people said afterward to reporters, to documentary crews, to each other at Ray's over coffee for years, whenever the question came around again like weather off the Gulf: *how did a town watch a family disappear in place, in daylight, on a numbered street, and carry on slowing its walks to enjoy the singing?*
+
+**The employer.** Lucille Sonnier, proprietor, Suds City Coin Laundry, Prosperity Street. *"Best worker I ever had, and I've had sixty. Folded like a machine and never once short in the drawer. When her phone went missing out of the break room I offered to call the parish, file a report — it was a good phone — and she got a look on her like I'd offered to burn the building. 'No, Miss Lucille. Please. It'll turn up.' Three weeks later she quits — no, that's not right, she got quit. He came for it. Sat right out front in that wagon at closing, engine running, and she seen it through the glass and her hands kept folding. Never dropped a towel, never sped up, and the water come down her face the whole last basket. I said 'Miriam, you don't got to go out to that truck.' And she said — I've told this to every camera that ever asked and I'll tell it to God — she said 'Miss Lucille, there's no place I go that I'm not in that truck.' And I DIDN'T KNOW WHAT IT MEANT. You understand me? The words went in my ears and I filed 'em under sad-marriage-not-my-business, because that drawer's where a town like this files everything, and I gave her her last envelope and a peach cobbler in foil, and she hugged my neck too long, and that man watched the whole hug through the glass, and I never saw her again. I think about the cobbler. Ain't that stupid? Ten years, and what I think about is, did he let her eat it."*
+
+**The neighbor.** Mrs. Odile Guidry, retired schoolteacher, Delacroix Street, four houses down, whose porch had commanded an unobstructed view of the Weaver yard for thirty years. *"I taught three of those children. Jesse cried the day I retired — big soft boy, wrote in my card 'thank you for seeing me.' You want to know what I saw, after? I saw the lights go out earlier, floor by floor, like the house was drowning from the top. I saw a washing line go up in December — who dries outside in December on a street of dryers? — and the wash on it get thinner and grayer while that man's shirts hung white as sails. I saw the little Hale boy stop wheeling his bike past my gate, and when I called to him one time — I had cookies, I always had cookies for that child — he stopped, and he looked at my cookies, Lord, like a boy looks at a train leaving, and he says 'I'm not to, ma'am. But would you count these for me?' And he holds up a hand of pebbles, and I say, confused as you like, 'six, honey.' And he nods like I'd notarized something and says 'that's what I got too,' and walks on. Six pebbles. I have turned that over four thousand nights. He was checking whether the world outside still added up the same as his. And I counted his pebbles for him and went in to my program. You may print that. Print the program part. It was 'Wheel of Fortune.' Somebody in this town besides that family ought to have to read their own alibi."*
+
+**The deputy.** Formerly Deputy, later Lieutenant, Curtis Lemoine, Mercer Parish SO, in the 2024 documentary, the one interview he gave before his retirement, sitting very straight, hat on his knee. *"Twice I ran those plates at the shore lot. Both times: current, insured, no wants, registered owner T. Usher. I want to walk the viewers through what a deputy has, legally, at a public gravel lot, on two vehicles committing no violation, occupied by adults who tell him — pleasant as pie, all of 'em at once, like a choir — that they're night-fishing as a family. What I have is a feeling. I wrote the feeling in my field notes, October '08, you've seen the page, they made it State's 96: 'Something off. Kids too quiet. Woman in wagon didn't look up.' That's a matter of record now and folks act like it's a smoking gun. It's four sentences of nothing, is what a judge would've told me, and did tell better men than me on thicker files than that. The woman in the wagon that didn't look up — yes. I've been told which woman that was. I've been told." (Here the tape runs eleven seconds; the interviewer starts to speak and the subject lifts one hand off the hat brim, and she waits.) "You train an officer what to do with evidence. Nobody trains you what to do with four sentences of nothing and thirty more years to live with 'em. That's all I have for you, ma'am. Turn it off now, please."*
+
+**The pastor.** Rev. Gerald Comeaux, First Pentecostal, from the pulpit, the Sunday after the verdicts, September 2021 — the sermon the whole parish attended, that ran, transcribed and unauthorized, in the *Gazette*, under the headline the copy desk had waited thirteen years to set. *"They sat in the fourth pew on the left for a year while he measured us, and then one Sunday they were gone to a church of one man's den, and I told myself — write this down, whoever's writing — I told myself it was a family grieving strangely, and grief gets a wide road in my Book. Then I stood in a gravel lot in the January wind, in my good coat, with my Bible in the truck because I'd judged it — hear me — I'd judged the Bible would look confrontational, and I had my conversation, man to man, at the edge of that lot. And that soft-spoken man answered every concern I raised before I finished raising it, and quoted my own seminary back at me, and thanked me for my shepherd's heart with tears standing in his eyes. And I got in my truck, and the heater came up, and by the time I passed the Circle K I had preached myself a whole sermon on the humility of not interfering in another man's flock. Brothers and sisters, I've searched thirteen years for the name of what I committed in that truck, because 'mistake' don't cover a warm man driving away from cold children." (Pause; the recording carries someone's single sob and the creak of the fourth pew, left, empty that day by the congregation's unspoken agreement, forever after known and avoided.) "The name is comfort. I chose my comfort, and I dressed it as respect, and I drove it home and reheated my supper. And the Lord in His mercy has appointed me to say one thing from this pulpit every Sunday until they take me from it, and you've heard me say it every week for a month now and you'll hear it till I fall: the old man said it better on the courthouse steps than forty years of my seminary. SAY WHAT YOU SEE. That's the whole of my remaining theology, church. Say it to the law, say it clumsy, say it wrong, get sued, get shamed, get told it's not your business. A town is just a family with more doors. Say what you see."*
+
+Four voices. There were dozens more — the Circle K girl who sold Evie ice and practiced, in her car, for two months, a sentence she never said; the school-board clerk who processed the homeschool filings and noticed the same pen, the same hand, on every parent signature, and stamped them; Ray of Ray's, who fed the skiff's gas tank on the family card and watched the big one's hands shake worse each season and stood one whole evening, closing time, in reach of the phone.
+
+The town was not wicked. That is the deposition this chapter files, and the reason it interrupts a family's story to file it: the town was ordinary, and ordinary is a room everyone is standing in, always. The town slowed its walks for the harmony. The town counted a boy's pebbles and went in to its program. And on the far side of the world, in every language this book is ever printed in, in bright kitchens with the radio on, the town is reading this page and thinking of a porch it can see from its own window.
+
+Six pebbles.
+
+Count them good, baby.
+
+---
+
+## 14
 
 ### The Deed
 
@@ -110,7 +172,51 @@ Half of everything he ever promised came true, and always the dark half, and alw
 
 ---
 
-## 9
+## 15
+
+### Emma's Portion
+
+Somewhere in the middle of everything — after the deed, before the cars; the season the reader is standing in now — Emma Usher spent one night believing she would leave her husband, and this chapter is that night, told at last at its own pace, because at both trials it was reduced to a lawyer's timestamp (*the witness acknowledges she remained*) and because no accounting of how a family is eaten can be honest without one chapter from inside the marriage that brought the eater in.
+
+It was late October, 2008. Toby was three days gone to one of the *fellowships* he still attended — the family understood these as summits of serious men; Emma, who had once ironed the shirts for them, understood them as she understood the two hundred congregants, and had stopped letting herself understand more — and the household on Delacroix Street was breathing the particular air it breathed in his absences, which no member ever remarked to another member in ten years: lighter. Audibly lighter. Suppers ran short and loud, Mellie was allowed the radio, and Evie laughed twice in one evening at nothing at all, then caught herself both times like a woman patting for a dropped purse.
+
+Ethan had a fever. Six years old that fall, and this matters: Ethan was the one child in the house who belonged to the man himself, and had begun already to show the marks of that estate — not bruises, not yet, nothing a clinic would flag for eight more years; the other marks, the anterior ones, the ones only a mother logs. He flinched at praise, having learned that praise in his father's economy was a lien being recorded. He had stopped, entirely, asking *why* — the word had been priced out of him before his fifth birthday. And he ran fevers, this strange child, silently, without complaint, concealing them, because illness drew attention and attention drew — his mother did not finish the sentence even privately. She found him that night rigid and glassy at a hundred and three, hiding it under two blankets in the airless third-floor room he shared with the pantry wall, and something in the arrangement of him — flat, straight, arms at his sides, a boy trying to take up no space in his own bed — broke through eight years of her lamination in one stroke.
+
+She carried him down through the sleeping house and drove him to the emergency room in Sulphur, one parish over, cash, a false surname pieced from her grandmother's — and she did these things, the distance, the cash, the name, with a fluency that stood at the foot of the gurney all night staring back at her. You know, the fluency said. A woman who does not know does not have a system ready.
+
+The fever was nothing; strep, a shot, a popsicle the boy ate with the wolfish disbelieving speed of a child eating outside the perimeter, asking twice whether it would be told. It was four in the morning in a plastic chair under fluorescent light, her son finally loose-limbed and asleep against her arm, that the room Emma had been declining to enter for eight years opened its door and stood her in the middle of itself.
+
+She had a hundred and forty dollars in her shoe. (The fluency again: she had been skimming her own grocery envelope for a year without once admitting the project to herself, a dollar and two dollars at a time, the way her nephew skimmed the collection — the same blood, the same underground railroad of the mind, running on parallel tracks that never learned of each other.) She had a sister in — she made herself say the true thing — in *trouble*; whatever name the family's new language gave it, her oldest sister was being starved and shamed on a schedule in front of her, and Emma had held the arm. She had a mother whose house was gone into her husband's name; she had been in the room; she had watched her own pen hand witness it. And she had this boy, this flat straight silent boy, who at six had already learned his father's first commandment — *take up no space that is not assigned to you* — and who would, if she stayed, spend boyhood as the household's next Miriam-in-waiting, the born leak, the appointed door for darkness, because she had heard her husband, twice now, musing at the supper table in the boy's hearing about how *strange* the child was, how *closed*, and she knew the sound of ground being surveyed.
+
+Leave, said the room. It is one hundred and forty dollars and a tank of gas and that pay phone by the vending machines, and your aunt Doris in Lafayette, and the boy is already in your arms. It is four in the morning. You have five hours' start if you go now.
+
+And here the reader, who has been generous for two hundred pages, will want her to go, and must now be given the true itemization of why she did not — not the lawyer's timestamp, the items:
+
+Because leaving took Ethan out, and left Mellie in. Left Robbie in. Left her sister tied to a tree and her mother folding toward the grave and Angela Mae mid-dismantling and Jesse holding ropes and weeping; the arithmetic of the almost-escaped is always done in the currency of the still-inside, and it always comes out the same, and every officer and advocate who has ever worked the family beat knows the sum by heart: *I couldn't take them all.*
+
+Because she had been the one who brought him. Guilt is a leash that improves with age. To leave was to stand in a lit doorway in Lafayette and say out loud: what my family has been eaten by, I introduced at Christmas.
+
+Because — and this is the item she gave the prison chaplain in the concrete room, and the chaplain, hearing it, closed his eyes; the item under the items; the finding of every study never funded and the confession of every woman never asked — because in eight years the perimeter had gotten *inside*. Aunt Doris in Lafayette was no longer, to Emma's nervous system, an aunt with a guest room. She was the world: unvetted, unclean, unkept, the flood plain outside Noah's caulked and singing hull. A hundred and forty dollars was not an escape fund; it was the exact weight of her remaining self, and it fit in a shoe, and at four in the morning under fluorescent light the self in the shoe lost, on points, to the system in the bones. She had sung the harmony too many Sundays. The door was kept from both sides now, and her hand was one of the hands keeping it.
+
+She drove home. She was back before the house woke; she laundered the Sulphur wristband down the kitchen drain scrap by scrap like a woman disposing of an affair. Ethan never spoke of the popsicle. Six years old, and he already knew a smuggled kindness from an assigned one, and knew which of the two you bury.
+
+Toby returned Friday, smelling of other kitchens, and at Sunday's offerings Emma brought — she had to bring something; the horseshoe was watching; underweight accounts drew audits — she brought a *dream of running away*, confessed as a dream, trembling, and had it received, and blessed, and filed. Her husband thanked her before the family for her *broken and contrite heart*, quoting the psalm, holding her face in both warm hands, even teeth shining in the half-light.
+
+And eleven years later, on the eighth day of the first trial, the prosecutor asked the question they always ask: *Mrs. Usher, in all those years, was there ever a night you tried to leave?*
+
+The transcript's answer is one word and made no papers: "No."
+
+But the woman on the stand looked, as she said it, at one point in the gallery and no other — at a young man of twenty, restored out of Ohio, sitting with his half-uncle Robbie; a young man with his mother's alto jaw, who had eaten a popsicle once outside the perimeter at four in the morning and buried it, and who, when her eyes found him, put his hand flat against his own chest, palm in, fingers spread —
+
+the old sign, from the third floor, from the fevers, their sign, *I'm here, take up space* —
+
+and the record does not show it, because the record is a machine for losing exactly this, but every juror in the second row saw the witness's face, and the foreman, interviewed years later, put it in the plainest American available and thereby better than this book has managed in eight chapters of trying:
+
+"Ma'am said no, and her boy put his hand on his heart, and we all of us understood we were looking at the two survivors of a house fire nobody ever called in. You don't ask the burned why they didn't leave the building. You ask the town where the hell the trucks were."
+
+---
+
+## 16
 
 ### The Cars
 
@@ -134,7 +240,7 @@ And in the fogged dark of the wagon's middle seat, nine years old, wedged betwee
 
 ---
 
-## 10
+## 17
 
 ### What Robbie Saw
 
@@ -170,7 +276,53 @@ Item, new, last, filed where the deepest things went:
 
 ---
 
-## 11
+## 18
+
+### The Sentry
+
+Between the session the boy watched and the season of his mother's accusal, one more thing was built, and it was built — like the skiff, like the plea, like everything of consequence in that family's ruin — in Jesse.
+
+The reader has been shown Jesse from the outside: the soft son, the wet sand, the tenor, the hands that shook and tied. It is time to go in. Not far — the man himself never went far in; that was his tragedy, a room with the lights off and the furniture of other people's opinions — but far enough to answer the question that hung over both trials, that the tabloids battened on, that his own lawyer could not frame without weeping in summation: *how does the brother who wept at a Trailways counter, who loved his sister with the whole unhandy love of his life, become the brother who pulls the knots tight at the tree?*
+
+The answer has a date. The second Sunday of June — the week after Miriam's run to the bus counter, the week of the nothing-that-happened, the held breath.
+
+At the offerings that Sunday, in the horseshoe, in the half-light, Toby did not accuse Jesse of anything. The reader knows the method by now and will brace for subtlety, and the method, as always, went under the brace: he *thanked* him. He rose, came around the lectern, stood before the seated Jesse, and thanked him, at length, in the wondering voice of a man beholding grace — for his tenderness. For going alone to the Trailways counter and bringing the lost ones home *with love, without one hard word* — for being the family's proof, he said, his hand warm and heavy on the bowed head, that the Lord could use a soft instrument as surely as a hard one.
+
+And then, at the door of the lesson, having filled the room with the smell of the meal, he turned it:
+
+"But I want the family to hear what it cost him." A pause; the shades at half; the lamp. "Look at his hands."
+
+They looked. Jesse looked. The hands were shaking — they always shook now; the season had entered them — and under the family's gathered eyes the shaking, observed, became something between evidence and performance, the way a pulse becomes when a doctor holds the wrist too long.
+
+"That," Toby said softly, "is what mercy costs a man when it's *his own strength* paying. He gave what he had, and look — the vessel's cracked with the giving. Jesse. Brother. I'm going to teach you what nobody in your life ever stayed long enough to teach you." He crouched — the only man in ten years to make that family taller than himself at will, whenever the lesson called for looking up — and took the shaking hands in his steady ones, and the sentence he said next was recovered whole, twelve years later, from three separate memories at trial, identical to the syllable in all three, because all three witnesses had heard it re-run at every hard turn of the decade like a track worn into vinyl:
+
+"A man's hands only shake when they belong to him. Give them to God, and watch."
+
+Give them to God. And God — the reader has attended the services; the reader knows the address at which God received mail in that household — God took delivery.
+
+The program that followed was called the Sentry's Portion, and it ran all that summer, and it was, in structure — the state's expert laid it out with slides, in the flattened dialect experts bring to the unspeakable, *graduated commitment protocol, escalating compliance rehearsal* — it was basic training, one recruit, one drill sergeant, conducted in prayer language at kitchen pitch. Small assignments first, each framed as guard duty, each *for* someone: stand the first hour of the night watch (for the family). Carry the discipline of skipping the noon meal (for your sister, who fasts; share her burden). Hold the rooster — Jesse loved the yard birds, had names for them — hold the rooster for the killing, then do the killing, *because provision is protection, brother*, and be praised, and be sick after, quietly, behind the cleaning station, and be seen being sick — nothing went unseen — and be thanked *again* at Sunday offerings for a tenderness that survives hard duty.
+
+Item by item, the drills bought two things with one currency. They bought Jesse a self — the first he'd ever been issued: Sentry, the family's soft strong right arm, cracked vessel annealed in service, a man whose shaking hands had been *explained* at last and given a use — and they bought, for the program's director, a calibrated instrument, its resistances mapped, its price list filed. By August the assignments had crossed, one grain at a time, the line the summer had been surveying all along. Hold the rope while your sister stands the Watch. Not tie — hold. Just hold; holding is keeping; you are her sentry against the wind off the water. Then: check the knots — for her safety; a slipped knot in a gust could throw her against the trunk. Then, October, the wind rising, the season turning, the voice at his shoulder gentle as ever:
+
+"Tie it yourself tonight, brother. Your hands are steadier than mine now. Look at them."
+
+And Jesse looked at his hands, there in the dusk at the crooked oak, his sister's eyes on him from the trunk — Miriam, who did not plead, who had stopped pleading with any of them by then, who watched her little brother's face the whole time with an attention he could not afterward describe and never afterward escaped — Jesse looked at his hands.
+
+They were not shaking.
+
+That was the horror he carried into every room for the rest of his life, the one he finally handed to eleven million strangers from a couch because it had gotten too heavy to hold with the rope: not that his hands had been forced. That they had been *cured*. He had given them to God, and God had steadied them, and the proof of the whole theology stood knotted before him breathing quietly in the cold — and a man of thirty-two, in the dark, at the far end of the longest con this book knows how to draw, wept without shaking and pulled the hitch tight and said, "It's just the wind, Mimi. It's just for the wind," and his sister, tied, in the last mercy anyone in that family had left to spend, agreed with him.
+
+"I know, Jess," she said. "The wind."
+
+At the second trial, the prosecutor — who had learned by then, as the reader has, that the flat questions cut deepest — asked Jesse Weaver only one thing about that night. Not the knots. The walk back up the shingle to the light: what he had thought about, those forty yards.
+
+The big gray head came up slow. The hands, on the rail, were shaking again — they never stopped after the arrest; whatever had been borrowed was repossessed with the rest — and Jesse Weaver said the thing that the closing arguments of both sides quoted, that the appellate opinion quoted, that stands now in three textbooks of forensic psychology as an epigraph, the completest audit of the mechanism ever given in the mechanism's own words:
+
+"I thought — God's honest — I thought: *she's safest of all of us tonight. She's got a sentry.* That's what I thought, walking away from my sister roped to a tree in December." The hands, gripping. "He never made me think wrong things. That's what nobody — the doctors, nobody — that's what I can't get them to write down right. He made the wrong things *arrive already thought*. Like they'd always been mine. Like they were the one thing I'd finally learned to do without shaking."
+
+---
+
+## 19
 
 ### The Accused
 
@@ -204,7 +356,7 @@ He was nine. He filed it wrong, on purpose. The inventory has mercy in it too.
 
 ---
 
-## 12
+## 20
 
 ### The Tree
 
