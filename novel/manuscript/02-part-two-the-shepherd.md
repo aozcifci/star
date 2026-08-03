@@ -1,0 +1,241 @@
+# PART TWO — THE SHEPHERD
+
+*2008*
+
+---
+
+*The wolf came wearing the shepherd's voice.*
+
+*That is the part no one will believe, afterward. They will ask: how does a whole family walk into a fire, single file, holding hands? They will ask it from their sofas, from their bright kitchens, from the outside of it. You know the answer now. You learned it the way everything true is learned: too late.*
+
+*Nobody walks into a fire. The fire is brought to you, one small room at a time, and each room is called shelter. You are cold, and it is called warmth. You are afraid, and it is called safety. By the time you understand what it is called, the doors are all behind you, and the man holding the lamp is telling you the burning is love.*
+
+*He never shouted, Miriam. Remember that. Tell them that, when they finally listen. The whole time, he never once raised his voice.*
+
+---
+
+## 6
+
+### The Moving Van
+
+The moving van came from Houston in March, three weeks after Harlan's sentencing.
+
+Five years, the judge had given him — manslaughter, provocation, an intruder inside the gate at dawn; the lawyer had called it a mercy, and Toby, standing on the courthouse steps with the family arranged around him like a photograph, had lifted his face to the drizzle and said, *"God counts the days, even when men count the years."* Evie had wept into her sleeve. It had not occurred to her until much later — years later, in a room with a detective — that of everyone on those steps, only one man had gotten, that day, exactly what he wanted.
+
+The van was small. That was the first thing. Two hundred congregants in Houston, and the whole of Brother Toby's life fit into a van the size of a bread truck: some clothes, a recliner, boxes of books, a pulpit lectern with a cracked foot. No pews, no sound equipment, no crates of hymnals. Victor, who helped unload, noticed and said nothing. Victor had begun his long apprenticeship in saying nothing.
+
+"The congregation is in the Spirit, not in the furniture," Toby said that evening, at the head of the table.
+
+He was at the head of the table now. It had happened without a single word being spoken about it. Harlan's chair had stood empty for exactly nine days; on the tenth, Toby had set his Bible down in front of it before supper, gone to wash his hands, and come back to find nobody had moved it. That is how thrones change hands in a family: not with a crown, with a small black book placed quietly on a table, and the silence of everyone watching.
+
+Suppers changed first. It began with grace — grace had always been said in that house, ten seconds of it, Lord-we-thank-you, amen. Toby's grace was seven minutes the first week, twelve by summer. Then the reading came, after the plates were cleared: a chapter, his voice low and even, the kerosene warmth of it filling the kitchen. Then the reading grew commentary, and the commentary grew names in it — not spoken, never spoken, only shapes: *there are those in this town who smile at us and sharpen a knife behind their backs; there is a family two hours east that has not forgotten; there are spirits that ride on grief the way ticks ride on a dog.*
+
+By June the supper table was a church. Attendance was taken with the eyes.
+
+And here is what Evie would have said, if anyone had asked her at the time — but no one asked her, because from the outside there was nothing to ask about: it was *good*. That was the poison of it. The house had been gutted — the father in prison, a man dead at the gate, a daughter jumping at telephones — and into that wound had come order. Prayers at fixed hours. A man's voice, calm, at the head of the table. The children in bed by nine. Evie slept through the night for the first time since October of '06, and if some nights she woke to a floorboard and heard, through the wall, the murmur of Toby's voice going on and on in Jesse's room, low and steady, like water working at a bank — she turned over. She turned over and thanked God for her son-in-law, who was taking such trouble over her poor Jesse.
+
+The wolf's first meal is always the same, and it is never a sheep.
+
+It is the questions. He eats the questions.
+
+---
+
+## 7
+
+### The Architecture of Fear
+
+The first hex was found on the Fourth of July.
+
+The town was down at the water for the fireworks; the family was not — *crowds are where they'll take a child, do you want to lose a child?* — and so it was Emma, sweeping the porch in the blue dusk, who found it: a knot of hair and thorn twigs, bound with red thread, nailed under the porch rail. Her scream brought the house down into the yard.
+
+Toby came out last. He came out slowly. He crossed the porch, crouched, looked at the thing a long time without touching it. Then he took a handkerchief from his pocket, folded the object into it as gently as a dead bird, and stood, and his face when he turned was a face none of them had seen on him before. Afterward each of them would try to describe it and fail. Not fear. Grief, nearly. The face of a doctor reading an X-ray while the patient is still telling a joke.
+
+"I'd hoped I was wrong," he said, half to himself. "I'd prayed I was wrong."
+
+They burned it in a coffee can in the yard while he prayed over it in a language none of them knew — a rolling, gravelly tongue; Robbie, watching from the porch steps, thought it sounded like a record played backward — and the flames went up green for a moment, bright chemical green, and Angela Mae grabbed her mother's arm hard enough to bruise it.
+
+Copper, Victor thought, standing at the back. A pinch of copper salt does that. He'd seen it at a school science fair. He looked at the green fire and thought, *copper*, and looked at his mother's lit, terrified, believing face, and said nothing. Nine years old is a boy's age; twenty-three is a man's; Victor would spend the rest of his life learning that silence has no age at all, that it will fit anyone.
+
+After that they came steadily. A dead kingfisher under the water heater. Salt poured in a line across the third-floor doorway — *whose door is that? Miriam's door* — a shoe of Mellie's gone missing and found buried heel-up by the fence, which Toby said was the worst of all, which Toby said was aimed at the child's walking, at her growing, at her leaving the ground. Every find had its ceremony: the discovery, the gathering, the long diagnosis, the green fire. Every ceremony had its sermon, and every sermon the same spine: *they are close, they are patient, they have paid someone who knows the old ways. The Hales have not forgotten. The Hales will never forget.*
+
+The Hales. Aaron's people — his mother in a nursing home outside Beaumont, a brother who drove long-haul and had come to the funeral, stood at the back, and left before the end. From these, Toby built an army in the dark. It never had faces. It didn't need them. Fear does its best work unillustrated.
+
+The telephones went in August. There had been calls, Toby said — he had answered twice, heard breathing, a man's breathing; and had anyone else noticed the blue sedan that had passed the house three times on Tuesday? The landline was unplugged "for a season" and the season did not end. Emma's cell phone was next — *they can find where you stand from it, it's a beacon, I've read about this* — and she handed it over herself; that was the art of it, they always handed it over themselves. Miriam's phone lasted longest. It disappeared in September from her apron pocket at the laundromat, or so it was said. She told her boss someone had gone through the break room. Two weeks later she told her boss she was sorry, but her family needed her at home, and gave up the job — because Toby had explained, patiently, with the road atlas open on the table, how far Beaumont was, how easy a laundromat parking lot at closing time.
+
+School was October. It was the school itself that handed him the door: a permission slip for a field trip, sixth graders, two nights away at a state park. Toby read it aloud at supper twice, the second time slowly, and then laid it on the table and put his hand over it like a man covering a wound, and looked down the table at Miriam.
+
+"Two nights," he said. "In tents. In a state park with three roads in. I want you to hear me say it plain: I cannot protect him there. If they take that boy, it will be because we mailed them the map."
+
+"Then he won't go on the trip," Miriam said. Her voice was level. She had learned to keep it level; the effort of it was another thing her mother chose nightly not to see. "The trip. Not the school."
+
+"The school is the trip," Toby said, gentle as ever. "The school is two hundred doors and a parking lot. Mama—" he turned to Evie, and Evie felt the turn like a hand on the back of her neck— "you taught three children their letters at that table before the state ever saw them. Am I wrong?"
+
+He was not wrong. He was never wrong about a fact you could check; that was what made the others invisible. By November the children were "homeschooled." The word did a great deal of work in the years after, in front of caseworkers and neighbors and, eventually, cameras. What it meant was: Robbie did sums out of Victor's old workbooks at the kitchen table, and Mellie, who was four now and quick as a wasp, learned her letters from cereal boxes, and neither child left the property without an adult, and the adults left less and less.
+
+The house pulled its shutters in around them, one hinge at a time. From the street it looked the same as ever. From the street, everything always does.
+
+---
+
+## 8
+
+### The Deed
+
+The notary's office was in a strip mall between a tax preparer and a nail salon, and it smelled of toner and burnt coffee, and the whole of it took nineteen minutes.
+
+This is the scene the reporters would want, later. This is the one they would ask Evie about on the courthouse steps, shouting over each other — *did he force you, Mrs. Weaver? were you threatened?* — because it was the scene that made no sense from the outside: a woman of sixty signing away her husband's house, four stories her husband raised with his hands, to a son-in-law of eighteen months' acquaintance, while her husband sat in a cell ninety miles away and was told nothing.
+
+No one forced her. That is the answer she could never make anyone understand, and the answer that matters more than any other fact in this story. By the time a person is signing, force is a year in the past. Force had already been applied — patiently, in doses, at supper: the hexes and the green fire; the medical journal Toby produced from his box of books, with the article he read aloud twice, about the Louisiana widow whose home was seized in a wrongful-death suit; the phrase *civil liability*, which he handled like a snake he had captured, holding it up for all of them to fear. The Hales, he explained, had lost their son at that house. When they came — not if, *when* — they would come with lawyers, and the law, which had shown this family exactly what it was worth, would give them the house that Harlan bled for. Unless. Unless the house was no longer the family's to lose. There was a way — clean, temporary, written right there in the same law — to set the property outside the reach of malice. A trustee. A caretaker. Someone bound to them by God and marriage but not by blood, not named in any suit—
+
+"Why you?" Victor asked. One flat question, from the end of the table.
+
+The room went still. Toby did not look at Victor. He looked, instead, at each of the others, one at a time, slow, and last of all at the framed photograph on the sideboard: Harlan in his refinery coveralls, squinting into the sun, twenty years younger.
+
+"Because I am asking God every night to make it anyone else," Toby said, quiet. "And every night God asks me back: *who else is left?*"
+
+Angela Mae began to cry. That decided it, the way weather decides things.
+
+So: nineteen minutes. The notary — a heavyset young man with a cold, who would testify eleven years later in a courtroom in Port Mercer, and who would say *they seemed like a nice family, quiet; the older lady was calm; I remember the son-in-law made a joke about the rain* — stamped the quitclaim deed conveying the house on Delacroix Street, and a second instrument concerning a two-bedroom condominium unit in Houston that had been Emma's dowry portion, Harlan's pride, bought with his lump sum. Evie signed her name four times. Her hand did not shake. She had prayed on it; peace, Toby taught, was how you recognized an answered prayer, and the absence of shaking was called peace.
+
+In the car, in the rain, in the strip-mall parking lot, Toby sat for a moment before starting the engine, and then he did something he had never done: he took Evie's hand. Held it in both of his, on top of the gearshift, and bowed his head.
+
+"You saved this family today, Mama," he said. "When Dad comes home, I'll put the papers in his hands myself. Every page. And do you know what he'll do?"
+
+"What?" Evie whispered. She was crying — from relief; she was sure it was relief.
+
+"He'll weep," Toby said. "He'll see what you carried while he was gone, and he'll weep."
+
+Half of it came true, in the end. That much can be said for him.
+
+Half of everything he ever promised came true, and always the dark half, and always at the appointed time.
+
+---
+
+## 9
+
+### The Cars
+
+They abandoned the house in the third week of Advent.
+
+Later — this is the fact that broke the town's understanding, the fact strangers could never get past — the house stood empty. Four floors. Eleven rooms. Beds made, china in the cabinet, Harlan's coveralls on the hook by the kitchen door. Empty. And its family, seven souls, slept a quarter mile away in two cars in the gravel lot above Salt Point, windows fogged gray with their breathing, while the refinery flare kept its low orange watch and the Gulf sucked and worried at the riprap in the dark.
+
+It had its logic. Everything did; that was his gift. The hexes had "gotten inside" — the last one was found *in* the house, in the attic crawlspace, a jar with things in it none of them would afterward describe — and a hex inside the wall meant the wall itself was turned, the house was a glove with a hand of malice in it now, and until Toby could complete the cleansing, a work of weeks, of fasting, of nightly labor that only he could perform and only alone, the family's safety lay in movement, in thin steel and glass, in being nowhere. *A car is a tent,* he preached in the front seat, engine ticking, his breath white. *Abraham was safest in the tent. Walls are where they find you.*
+
+So the family that owned eleven rooms learned the arithmetic of two cars. The Buick took Evie, Angela Mae, Emma, and Mellie, and Mellie's smallness was a blessing counted nightly. The wagon took Toby, Jesse, Victor, Miriam, and Robbie. Bathing was a kettle heated on a camp stove behind the fish cleaning station. Supper was crackers and Vienna sausages and, on Sundays, a bucket of chicken that Toby brought back like a sacrament, and for which grace ran twenty minutes while it went cold — and no one, not once, not even Victor, said the sentence that ached in every one of their mouths: *we have a house.*
+
+Because here is the thing about the outside of a cult, which is a word none of them would hear applied to themselves for another ten years: from outside, the question is always *why did no one say the obvious?* And from inside, the answer is always the same: because the obvious had been re-homed. Piece by piece, sentence by sentence, over two years, each of them had traded the obvious in for something warmer — belonging, order, the low voice at the head of the table saying *I will carry the fear for all of us.* To say *we have a house* was not to state a fact. It was to leave the family. There is no colder night than that one.
+
+The town saw. Let it be written down plainly, because the town spent years afterward insisting otherwise: the town saw. Dale Prejean, attorney-at-law, saw them at the Circle K buying ice at seven in the morning, the old woman's hair flat on one side from a car window. Deputy Lemoine ran the plates on the wagon twice, found them current, found the insurance paid — Toby was scrupulous about paper; paper was where the law lived, and he kept the law fed and sleeping — and drove on. The pastor of First Pentecostal, who had baptized all five Weaver children, came to the lot once, in January, stood in the wind with his hands in his coat, and had a conversation with Toby, man to man, at the edge of the gravel, while the family watched through fogged glass like fish in a tank. Whatever was said, the pastor did not come again.
+
+Charity has a short arm, and shame is a long lever, and Toby knew the length of both to the inch. *They see us,* he told the cars at night, and there was honey in it, there was triumph: *they see us and they do nothing, because they were never our people. You feel that cold? Feel it all the way. That cold is the truth about the world, children. There is no one coming. There is only us.*
+
+And in the fogged dark of the wagon's middle seat, nine years old, wedged between his mother's shoulder and the cold glass, Robbie Hale felt the truth of it settle over him like a coat put on backward — and felt, too, underneath it, small as a splinter and just as patient, the beginning of the only thought that would ever set him free:
+
+*Then I will be the one who comes.*
+
+---
+
+## 10
+
+### What Robbie Saw
+
+The boy kept an inventory. It was how he managed.
+
+Item: his grandfather's flashlight, kept working with batteries thumbed out of the fish-camp vending machine coin return. Item: fourteen dollars in a Band-Aid tin buried at the base of the third fence post behind the cleaning station. Item: the way Uncle Toby's voice changed when a car slowed on the shore road — not afraid; *interested* — and the way it changed back. Item: his mother's face. His mother's face above all. He read it the way the men at the marina read the sky, and he could tell the day's weather from it by first light: which days she would laugh with Mellie and braid Angela Mae's hair, and which days she would go quiet and stand looking east down the water, where the birds went.
+
+In February, the weather in his mother's face went bad and stayed bad, and it was in February that Robbie saw the session.
+
+It was Angela Mae's turn; that was the word used, *turn*, as if it were dishes. Her migraines had come back — they had never left; what had left was permission to have them — and Toby had determined, over three suppers of gathering quiet, that the pain was no longer being *left on her* from outside. It had taken residence. It answered to a name now, and the name would have to be made to speak itself, and then made to go.
+
+They used the fish cleaning station after dark. Kerosene lantern on the gutting table. The family in a half circle with the wind off the Gulf pushing at their backs, and Angela Mae on a folding chair in the middle, coat off — *it hides in the coat* — her arms bare and pimpled with cold, her breath coming quick and white.
+
+Robbie was supposed to be in the wagon with Mellie. Mellie slept; Robbie watched from the dark beside the ice machine, and what he saw he filed, item by item, in the inventory, where it stayed for eleven years until a prosecutor with gray hands asked him to open the tin.
+
+He saw his uncle walk the half circle first, slowly, touching a shoulder here, a head there, saying names — thank you, Jesse; be strong, Mama — knitting them in. Making every watcher a hand on the rope. He understood it years later on a folding chair of his own, in a church basement, listening to a woman describe her husband: *he never did anything to me that he didn't first make me help with.*
+
+He saw the questions begin, low and kind, and then not kind: *Who do you belong to? Who rides you? Say your own name. Say it. That is not your voice.* He saw his aunt say her own name four times, five, and be told four times, five, that it was not her voice saying it — until she believed it, until Robbie, nine years old in the dark, twenty feet away, half-believed it, because a voice asked the same question enough times stops sounding like any voice at all.
+
+He saw the palm strike her, open, across the back, once and then in rhythm — *not to hurt her,* the voice explained to the half circle, in the tone of a man showing how to split kindling, *the spirit rides the spine; we are shaking the rider* — and he saw who held her steady while it was done.
+
+That was the item that would not file. Not the striking. The holding.
+
+His grandmother held one arm. His aunt Emma held the other. And they were crying, both of them, crying with love — that was the thing, that was the unfileable thing — their faces were ruined with love and terror for the girl they were holding still to be struck, and when it was over, when Angela Mae hung sobbing and emptied and Toby pronounced the rider *loosened, not gone, we've hurt it now and it knows it,* the whole half circle folded in on her and rocked her and kissed her hair, and she thanked them.
+
+She thanked them one by one, by name.
+
+Robbie went back to the wagon and lay down beside Mellie and put his arm over her, and did the thing he did instead of crying, which was to recite the inventory with his eyes shut until it was a rosary: *flashlight, fourteen dollars, third fence post, the way the voice changes.* Beside him his sister slept with both fists closed tight, like something that had fallen asleep holding on.
+
+Item, new, last, filed where the deepest things went:
+
+*Love is not proof. They love her. It is not proof of anything at all.*
+
+---
+
+## 11
+
+### The Accused
+
+Miriam fought. Let it be written down, because everything else that happens in this story happens on top of it: she fought longest, and she fought alone, and she fought in the only currency left inside that closed economy — small refusals, spent one at a time.
+
+She would not call him Brother. It sounds like nothing. It was Thermopylae. *Toby,* she said, level, pleasant, every single time, and every single time the word landed in the group's flinch like a coin in a well: someone not yet folded in.
+
+She kept a calendar. In the wagon's door pocket, a free one from the feed store, and she struck the days off with a pen, one line each, which he could not forbid without saying *time itself is against us* — though in the end he managed nearly that, calling it *her little book of doubts,* asking at supper, mildly, what she was counting toward. She did not answer. She had nothing to count toward. She struck the days so the days would exist. In a world with one voice in it, a pen line is a second witness.
+
+And she asked her questions in front of the children. That was her real crime, the one underneath the charges. *Where does the disability check go, Toby? Whose name is the house in now, exactly? You found the jar in the attic — who showed you where to look?* Never shrill; she had learned at Aaron's table what shrill cost. Just questions, set down quietly in the middle of the floor where the children could see them lying there. Where Victor could. Where Jesse could.
+
+So she was made the leak in the ship.
+
+It came on gradually, the way his weather always did. The hexes, it emerged, clustered around her belongings. The blue sedan had been seen the very week she had gone — twice, alone, unaccounted for — to the Circle K. When the check went missing from the glovebox in March, the half circle's eyes did the arithmetic they had been quietly taught. And the story of Houston, her own history, the drugging, the men in the house, was gently unstitched and resewn with a new lining: perhaps — Toby grieved to say it, he said, and his grief looked exactly like his face at the porch rail, the doctor with the X-ray — perhaps something had been *put in her* in that house, in one of those lost stretches of days she herself admitted she could not remember. Perhaps the Hales had not needed to send anyone at all. Perhaps they had sent her.
+
+"You see how it fits," he said to the cars, sorrowfully, and the terrible thing, the thing that made Evie nod before she knew she had nodded, was that it did. It fit perfectly. Paranoia is a tailor; the fit is the product.
+
+The punishments were called other things. Fasting, when her plate was passed over — *she is being lightened; food anchors the rider.* Watching, when she was made to sit awake at the wagon's wheel till dawn — *she is our sentry; who better?* Silence, a whole week of it in April, when no one in the family was to answer her voice — *we are starving what speaks through her, not her, never her* — and Mellie, four, wept at the game she couldn't understand the rules of, and was held, and was told Mama was doing something brave.
+
+Through all of it Miriam struck her days off with one line each, and did the sums no one else would do, and understood — being the only one standing outside the warmth, which is the one place the shape of a fire can be seen from — precisely what was being prepared, and that it was being prepared for her.
+
+She made one run. It has to be told plainly, because at trial it became a thing of fog and contradiction: the first Friday in May, with Robbie and Mellie and the Band-Aid tin and forty stolen minutes, she got as far as the Trailways counter in the Winn-Dixie plaza, eleven miles up the shore road. It was Jesse who came for them. Jesse, sent alone — that exactness again, the surgeon's eye for the cruelest instrument — Jesse who stood in the fluorescent light with his hands open and said, "Mimi. Please. Don't make me go back without you," and cried, and it was his crying that did it; she could stand against the wolf but not against the sheep, not against her brother's ruined face and the knowledge of what her leaving would be turned into, back at the cars, and ground into the ones she left. She looked at the ticket window for a long moment. Then she took her children's hands and walked back out into the heat.
+
+That night nothing happened. Nothing whatsoever. Suppers, prayers, a psalm; Toby did not so much as look at her, and the not-looking lay over the camp like a held breath.
+
+On Sunday, in the gray before first light, Robbie woke in the wagon to find his mother's seat empty, and out on the point, small against the pewter water, two figures standing beneath the crooked live oak: one seated at its base — no. Not seated.
+
+He was nine. He filed it wrong, on purpose. The inventory has mercy in it too.
+
+*Item: Mama, resting under the tree. Item: Uncle Toby, standing over her, keeping watch.*
+
+---
+
+## 12
+
+### The Tree
+
+The live oak at Salt Point was old before the refinery came. It leaned east, hard, the way everything on that shore leaned, grown crooked around sixty years of Gulf wind; the fishermen used it to mark the channel, and the town's teenagers had carved it over with initials the salt kept eating smooth again, as if the tree declined, politely, generation after generation, to remember anybody.
+
+It remembered that summer. Whatever else is in dispute — and nearly everything else is in dispute; the trial transcripts run four thousand pages and the tree stands in the middle of them like something that walked out of a bad dream — the tree itself, the fact of it, was never denied by anyone. Even Toby, who denied rain while a jury watched it fall, said only: *she liked to sit there. She was tied to nothing. She liked the shade.*
+
+It was called the Watch. That was the liturgy of it: Miriam was not being punished — the word *punish* was never used inside that family about anything, not once in three years, the record is unanimous — she was standing watch. She had been *chosen*, because the rider in her was strongest and a strong rider makes a strong sentry once mastered; she was the family's picket against the Hales, against the sedan, against the darkness coming up out of the east where the birds went. That she should be secured to the trunk was — reasonable. Presented reasonably, in the reasonable voice, to people two years deep in the alternate arithmetic: the wind off the water could take a person, weakened by fasting, right off her feet. The rope was *for* her. Everything, always, had been for her.
+
+Jesse tied the knots. His hands shook so badly the first night that Toby covered them with his own — tenderly, the way a father steadies a boy baiting a hook — and finished the hitch himself, and said, "We do the hard things *because* we love. Any man can do easy love." Emma brought out a blanket, and was praised, and the praise was the point: now the blanket was hers, the kindness was hers, she had a stake in the rightness of the night. Angela Mae was set to pray at a distance. Evie —
+
+Evie carried water to her daughter at the tree, in the blue enamel cup with the chipped lip that Miriam had drunk from as a child, and stood there holding it, and this is the moment; of all the moments in thirteen years this is the one the town, the reporters, the jurors, the readers of every account of it afterward, stub their understanding against, like a stair tread missing in the dark:
+
+Miriam looked up at her mother and said, "Mama. Untie me."
+
+Not the rope. Both of them understood that. Untie *me*: walk eleven miles with me, testify with me, be poor with me, be hunted with me if it comes to that, choose me over the warmth, and we will take the children and go tonight.
+
+And Evie looked back down the beach at the cars — at the small light where Mellie slept, at Jesse's silhouette, at the whole fragile organism of what remained of her family, husbandless, sonless if this went to law, houseless already though she didn't know it — and then at this daughter, her firstborn, the one the whole disaster had come in with, the one the hexes gathered around, the one whose questions never let anything heal—
+
+She set the cup down where Miriam could reach it.
+
+"Drink your water," Evie said. "It's getting cold out."
+
+She walked back up the shingle to the light. Behind her the tree leaned east and the water worked at the stones, and if her daughter made any sound she did not hear it, because she had already begun, with an efficiency that would have frightened her had she caught herself at it, not to.
+
+That night Evie Weaver learned how not to look at her daughter's eyes.
+
+It was the last skill she ever learned in freedom, and she had eleven years to practice it, and at the end of the eleven years, in a beige room with a tape recorder running, a detective with gray in her hair would ask her the question the whole world outside the family had been saving up:
+
+*You were her mother. You were standing right there. What did you tell yourself?*
+
+And Evie, who had answered nothing else in four hours, would answer that.
+
+"That she was resting," she'd say. "Under the tree. That we were all of us just — standing watch."
