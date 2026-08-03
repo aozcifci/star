@@ -400,6 +400,34 @@ The big gray head came up slow. The hands, on the rail, were shaking again — t
 
 ---
 
+### Interlude — A Household Glossary
+
+*Compiled from testimony, notebooks, and the survivors' own usage; because every closed country issues its own currency, and the reader, before the coldest chapters, should be able to change money.*
+
+**KEPT.** The master term; all others are denominations of it. To be kept was to be protected, loved, enclosed, owned — the word performed all four meanings at once and forbade the asking of which. *This family will be kept.* A door could be kept; a fast could be kept; a child could be kept close; a woman could be kept from harm, from town, from telephones, from food. The genius of the coin was that it could not be counterfeited by outsiders and could not be refused by insiders: to ask *kept from what?* was to be, already, a door the darkness came through.
+
+**CALLED AWAY.** Dead — but the glossary must be exact: not *believed dead*, not *euphemized dead*. Grammatically removed from the reach of questions. The called-away had not stopped; they had been promoted, transferred by an Authority whose personnel decisions the family did not review. Grief for the called-away was thus insubordination, and was filed (see OFFERINGS) when it surfaced. The town's language kept its own ledger at the fence line: the town said *missing*, the flyers said *missing*, and inside the house the word was never once used in eleven years, because *missing* implies a search, and a search implies a somewhere, and a somewhere was the one asset the household could not afford anyone to hold.
+
+**THE WATCH.** Punishment; sentry duty; honor. See Chapter 20, and see the whole art of the coinage: the family did not tie Miriam to a tree — no member, under oath, in any proceeding, ever described it so, not from evasion but because the sentence had been made ungrammatical. She *stood the Watch*. The preposition did the work of a rope's whole length: one stands *for* others. The Watch made her the family's guardian in the exact hours she was its victim, and made the family her garrison in the exact hours they were her guards.
+
+**OFFERINGS.** The Sunday confessions; more broadly, any surrendered interior. A doubt spoken was an offering; so was a dream, a grief, a wish. The term's commercial honesty was its one transparency — offerings were, precisely, *paid* — and Victor's notebook is the only place in eleven years where anyone conjugated it correctly: *we don't confess here. we remit.*
+
+**LIGHTENED.** Starved. Food *anchored*; hunger *lightened*; a fasting body was a body being made too buoyant for its rider to grip. The children learned the participle before they learned the theology: Robbie, at the marina at ten, to the deckhand, in the sentence that made her set down her coffee — *"Mama's being lightened again."*
+
+**LOOSE.** The exterior condition; the town, the school, the dodgeball corner, the whole unkept world. Loose things were not evil — the coinage was subtler; evil would have invited argument. Loose things were *unaccounted*: warm, attractive, and structurally unsound, like rotten wharfing — the family was taught to feel, crossing any threshold outward, the give of planks over water. DeShawn Pitre's instinct in the shelter gym was thus exactly right and exactly backward, and his sentence deserves its second printing here, as the glossary's only entry written by an outsider: *loose is healthy.*
+
+**THE ENEMY.** Never Satan, note — too public a figure, too catechized, too available for cross-examination by any child with a Sunday-school pamphlet. The Enemy was proprietary: unspecified, adjacent, patient, and — this was the load-bearing feature — *broad*. The Hales were of the Enemy; so was the school board, a ringing phone, a Trailways counter, an aunt in Lafayette, a memory that would not align. The definite article did the imprisoning: there being one Enemy, all fears were one fear, and the management of all fears was therefore, efficiently, one man's office.
+
+**PRAYED OVER.** Reserved; sealed; do not enter, ask, touch, or count. A kitchen could be prayed over (see: fig jar, the); a decision, a ledger, a locked pantry, a Tuesday errand to Sulphur. The past participle was the household's cordon tape, and its daily convenience was this: what is being prayed over is being *worked on for your benefit*, so that curiosity became ingratitude at the exact moment it became dangerous.
+
+**HOME.** The last entry, and the counterfeit the whole treasury existed to protect. In the mouth of the household's founder-generation — Harlan, Evie, the kitchen year — *home* had meant the thing this book met in its first chapters: the pot cupboard door a baby was allowed to open. Under the new administration the word was never banned; it was *renovated*, weight-bearing walls moved one at a time, until home meant the perimeter, the horseshoe, the gathered — until a woman could stand in a Trailways line eleven miles from four stories of it, holding her children's hands, and turn back, because the word had been rebuilt around her in a shape that no longer had an outside.
+
+The survivors have spent the years since in the slow work of the counter-glossary — the reader has watched them at it, entry by entry: *loose is healthy. Thursdays come anyway. take up space. say what you see.* Language broke this family before any rope did, and language is what they are rebuilding the house with, and the glossary closes on the entry that governs the reconstruction, stenciled now above a crisis-center door, the coinage that drove out the coinage:
+
+**THE SHELF THAT ANSWERS.** Intake desk, Mercer Parish Family Crisis Center. See: everything. See: everyone. Hours: always. Bring: the four-sentence feeling. Definition, per the desk's founder, posted where the waiting chairs can read it: *"A place where what you noticed outweighs what you can prove. We'll hold it from there."*
+
+---
+
 ## 19
 
 ### The Accused

@@ -288,6 +288,32 @@ In room fourteen of a motel by the highway, three weeks before Christmas of 2018
 
 ---
 
+### Interlude — Ms. Fontenette
+
+The teacher kept the Friday chair.
+
+This has to be established first, because it is the spine of her interlude: in the classroom of Renée Fontenette, Port Mercer Elementary, there was a reader's chair for the Friday story, and from November 2006 to October 2008 it was, by unbroken appointment, Robbie Hale's, and after the withdrawal papers came through — same pen, same hand, stamped by a clerk who noticed and stamped — Ms. Fontenette did not reassign it. She rotated the Friday readers through a folding chair instead, week after week, year after year, while the good chair stood at the front of the room, unexplained, and when children asked — children always ask — she gave the same answer, which entered the school's folklore and then the town's and then, in 2021, the trial record, because the state called her, and the defense, catastrophically, pressed her on relevance:
+
+"I told them it was Robbie's chair, and he was homeschooling for a while, and it would be there when he came back. Counselor, you're asking me what that has to do with this case. I'll tell you what it has to do with it. Every system in this parish closed that boy's file. I teach fourth grade; I don't have files; I have chairs. A chair is a file that stays open. Eleven years that chair said one thing to every child who came through my room: *somebody is expected back.* You'd be surprised what children do with that. Two of my kids from those years work intake at shelters now. One's a deputy. She told me at her swearing-in, 'I used to look at that chair, Ms. F.' You want relevance. The county spent eleven years teaching children that people who disappear are none of our business, and one classroom taught the opposite with four legs and a cushion, and I'm sixty-six and I will *take the fine*, your honor, whatever this gentleman moves to strike."
+
+Nothing was struck. The judge — the record shows — asked her instead, from the bench, unprompted, what became of the chair, and this is why the interlude sits here, between the runaways and the recantation, in the years when every official door had shut:
+
+She had tried the doors herself. That surfaced in her testimony almost incidentally, the way this book's whole hidden archive has surfaced — the file of attempts nobody logged: a teacher's three phone calls to the homeschool oversight office (*filings in order, ma'am*); her written request, via the district, for a welfare check (*conducted; unfounded*; the sofa interview, the family arranged like a photograph); her personal visit, October 2009, to the tall house itself, with a canvas bag of grade-level books as her warrant — received on the porch, of course, by the courteous man, of course; the books accepted, blessed, and — she saw them, she testified, through the doorway, weeks later, at the curb entire — never given; and one more visit, June 2010, after the marina, when the boy was briefly, officially, *visible* again, at which she got four minutes with Robbie at the kitchen table, family arranged, and used them, being a fourth-grade teacher and therefore a tactician of the four available minutes, not to ask a single question — questions make us lie; the Slidell caller knew; teachers know it first — but to say, in front of the arranged family, in her carrying classroom voice, three sentences of pure smuggled cargo:
+
+"You are two grades ahead, cher, whatever anyone measures. Your chair is where it was. And Friday comes every week — that's the thing about Fridays; nobody has to arrange them."
+
+Then she thanked the family for the coffee she had not been given, and left, and cried in her car past the Circle K exactly as the pastor had — the town's whole honor roll of almosts ran through that Circle K lot; Lucille could have sold tissues — and unlike the pastor she came back. That is her whole distinction, and the reason the state called her, and the reason this book does: she came back every single school year, one visit each September, books in the canvas bag, received every time on the porch, given nothing every time, learning nothing every time — except that the household was being shown, annually, on its own threshold, that the file stayed open somewhere; that a chair was being held; that Friday, out in the loose world, kept coming, unarranged, forever.
+
+The defense, at trial, finally asked her the question this interlude has been building toward — meaning to wound, and handing her instead the exchange the documentary ends its third episode on:
+
+*Ms. Fontenette, in eleven years of these efforts, can you point to one concrete thing you accomplished?*
+
+And the teacher looked at the defense table, and then at the gallery, second row, where a twenty-one-year-old with his mother's jaw sat between a detective and a lawyer's aunt, and said:
+
+"He's sitting in it."
+
+---
+
 ### Interlude — Angela Mae's Decade
 
 Somewhere in this book's middle years there is a woman it keeps passing in doorways — holding an arm, bringing a blanket, praying at the assigned distance — and before the story runs on to its sirens and studios, it owes her a page of her own, because of the six who stood trial, Angela Mae Weaver is the one the public never solved. The mother was legible: the world knows what a mother's captivity looks like. The brothers were legible. But the younger sister — soprano, migraines, the broken engagement; the one who held Miriam's arm at the sessions *and* was herself held at others; the one who at forty walked into a strip-mall law office on the third day of a jailhouse fast and calmly handed the state its case — she fit no shelf, and the commentary called her everything from victim to fanatic to sphinx, and this page calls her what the decade's evidence calls her: the household's designated organ of feeling, kept alive in that capacity because the organism needed one, and billed for every beat.

@@ -72,6 +72,26 @@ Mail answered. Postage paid in full, and the change kept.
 
 ---
 
+### Interlude — The Handlers
+
+The dogs' names were Biscuit and Sûreté, and their handler was a retired K-9 sergeant out of St. Martin Parish named Odile Broussard-Picard — the coast is small; she was second cousin to a juror she never met — and the reader gets the dig's second pass through her eyes because the first pass, above, belonged to the humans, and the humans, by their own testimony, spent those nine days learning what the dogs already knew about the work: that it is done best by those who do not narrate it.
+
+She had worked eleven hundred scenes in thirty years. She talked about none of them and talked about this one once, to the documentary, mostly about the dogs, which was, the director understood by the second hour, the only dialect she had for any of it — thirty years of the worst ground in Louisiana, translated entirely into the vocabulary of Biscuit's alerts and Sûreté's hips and the wind's behavior over disturbed soil, a woman who had solved the problem of the unspeakable by finding a species to speak through.
+
+What she gave the record, in that dialect:
+
+That the flats at Salt Point were "honest ground, finally — ten years of lying and the water pulled back and gave us honest ground for nine days; I've thanked the Gulf out loud before, cher, I did it again." That Biscuit's first alert, day two, was "soft" — the dialect's word for old, deep, water-worked scent — and that a soft alert on a ten-year site is "the dog telling you: *I believe you brought me here for a reason, and the reason is real, and it is barely here anymore*. People think the alert is the dog finding. On ground like that, the alert is the dog *agreeing*. There's a difference, and it'll change your religion."
+
+That on day six, before the hyoid came out of the flagged square, both dogs did the thing she'd seen only four times in thirty years: worked the same two-meter box in silence, no alert posture, and then lay down at its edge, unbidden, facing it. "The manuals don't have it. Handlers do. We call it settling. They're done searching and they won't leave. You want to know what the dig was, ma'am, the whole nine days, all them machines and vans and two hundred people at the cordon — it was everybody in Mercer Parish finally doing what the dogs did day six. Quit searching. Wouldn't leave. Lay down facing the spot. That's not police work at that point. Police work was over. That's *vigil*, and the dogs called it first."
+
+And that at Ferris Creek, in the pines — she asked the director to keep this part, and the director did, over the network's notes — Sûreté, nine years old, arthritic, six weeks from the retirement pasture, alerted at the fourth pine of the seventh row "hard and young — like it was fresh ground, like it was yesterday — and that's not scent, ma'am, I'll say it on your camera and lose whatever standing I got left at the conferences: pine and sand at ten years does not present young. I've got no dialect for what my dog told me at that tree. Closest I can put it: the ground there hadn't been allowed to get old. Something about that spot was still *waiting*, and Sûreté knew it before the screens did, and when the small stretcher came out, that dog — fourteen handlers watching, ask any of them — that dog walked at its wheel to the van. Off lead. Nobody commanded it. Escort, cher. My old girl gave that baby the escort, and then she got in her crate and she was done — retired herself that day, wouldn't work again, and I didn't ask her to. Some finds finish a working dog. Handlers know it. We just don't say it, because then somebody asks what the finds do to us."
+
+The documentary holds on her for a moment there, and she looks off camera, at the grass, where — the shot widens, the film's most argued-over cut — a stiff old shepherd-mix lies in the sun of a St. Martin Parish yard, flank rising and falling, and Odile Broussard-Picard says the last thing, the interlude's reason, the coast's whole liturgy in the dogs' dialect:
+
+"People ask was anything found at Salt Point, since the water kept most of her. I tell them: everything was found at Salt Point. Finding's not a coroner's word, ma'am. It never was. The town found out what it knew. The family found out what it could say. The country found out what it watches. And a ten-year-old grave got two dogs to lie down facing it and two hundred strangers on their knees in the mud. That woman went missing in front of everybody, for years, in the open. Well. She was *found* the same way, exactly the same way, in front of everybody, in the open — and this time everybody stayed till the van left. That's the difference between missing and found, cher, the entire difference: whether the crowd stays till the van leaves. Write that in your program. Both my dogs knew it by the time they was two."
+
+---
+
 ## 46
 
 ### The House on Delacroix Street
@@ -128,7 +148,7 @@ The power of attorney, the pension redirections, the loan: same result, slower, 
 
 And the mallard notebook — State's 41, the ledger itself — became, in the civil case, the instrument of its own author's undoing, because the meticulousness that had kept the law fed and sleeping for a decade now proved, line by blue-ballpoint line, exactly what had been taken, from whom, on what date, at what withdrawal window. The plaintiffs' lawyer — Prejean; of course Prejean; he had promised to die on this and was instead, visibly, coming alive on it — read it into the record across two days, every entry, aloud, deadpan, the eight thousand five hundred, the eleven dollars of pantry bolt hardware, the $6.40 (*gas, Sulphur, Tues*), and the courtroom learned what Okafor's cartel files had taught him long before: that there is a species of evil whose confession is its bookkeeping, and that reading a ledger slowly enough, in public, is a form of exorcism no tent ever offered — the demon named not in Latin but in decimals, and cast out not into swine but into the record, where it could finally be *audited*, which was, for this one, worse.
 
-Restitution was ordered in 2023: the house restored to Harlan and Evelyn Weaver jointly, the traceable funds — what remained; there remained almost nothing — to a trust for the surviving grandchildren. The defendant's assets at judgment totaled the contents of a prison account: forty-one dollars. Prejean moved to garnish it. The court, in the final line of the final order of the civil docket, granted the motion — *symbolically, and with prejudice, and, the court will confess, with satisfaction* — and forty-one dollars, the exact sum a boy once carried over a fence in a bread bag, was transferred by the State of Louisiana from Tobias Usher to the trust of Ethan Usher and Robert Hale, and if the reader believes the two men did not drive to a diner in Ohio and spend it, twenty dollars and fifty cents apiece, on chicken-fried steak and pie, with Bohannon refusing the tip and then framing it —
+Restitution was ordered in 2022: the house restored to Harlan and Evelyn Weaver jointly, the traceable funds — what remained; there remained almost nothing — to a trust for the surviving grandchildren. The defendant's assets at judgment totaled the contents of a prison account: forty-one dollars. Prejean moved to garnish it. The court, in the final line of the final order of the civil docket, granted the motion — *symbolically, and with prejudice, and, the court will confess, with satisfaction* — and forty-one dollars, the exact sum a boy once carried over a fence in a bread bag, was transferred by the State of Louisiana from Tobias Usher to the trust of Ethan Usher and Robert Hale, and if the reader believes the two men did not drive to a diner in Ohio and spend it, twenty dollars and fifty cents apiece, on chicken-fried steak and pie, with Bohannon refusing the tip and then framing it —
 
 the reader has not been paying attention to what this family salvaged, and may start the book again.
 
@@ -301,6 +321,24 @@ The questions ran two hours. The clip that circulated — eleven million views b
 The footage shows Verna Cole look down at her hands, and then up, and the whole retired instrument comes level one last time:
 
 "Every noon, Senator. Same as him. That's the testimony. Same as him."
+
+---
+
+### Interlude — The Documentary
+
+It aired in the autumn of 2024, four ninety-minute parts, and this book has been quoting it for four hundred pages — the pastor's sermon, the deputy's eleven seconds, the handler and her dogs — and owes the reader, before the epilogue, an account of the strangest fact about it, which is that it exists at all, because every principal in this story had by 2024 refused, collectively, several hundred requests, and the woman who finally got the yes got it with a method the industry has been failing to copy since.
+
+Her name was Adaeze Ferry, and she was thirty-one, and her entire prior filmography was a short about a Baton Rouge repair shop. What she sent the family was not a pitch. It was a letter, one page, and Victor — designated by the family as the wall all such requests broke against — read it at his own kitchen table and passed it to his father without a word, and the letter is reproduced in the film's press kit, so the reader may have it as the family had it:
+
+*"I don't want to interview any of you about him. Four hundred producers have asked you to explain the wolf. I've read everything, and I believe the wolf is the least interesting thing in your story — wolves are common; any parish has several; mine did. What I can't stop thinking about is the chair, and the cups on the windowsill, and a woman who taught a survival song to a cell block, and a motel owner who mailed a door number to a district attorney's office. Nobody has made the film about what held. If the family would sit with me — together or separately, on camera or off, veto over every frame — I would like to make ninety minutes times four about what held. He will appear only as what he was: the weather. Nobody interviews weather. — A.F."*
+
+*Nobody interviews weather.* Harlan Weaver read the letter twice, the family reports, set it down, and rendered the verdict that greenlit the decade's most awarded documentary in three words: "She can come."
+
+What she made of the yes, the world knows — the awards, the intake-desk funding surge in eleven states, the training-curriculum adoptions, the fourth pew filmed full on a Sunday morning with Angela Mae's soprano over the credits of the final part. What belongs to this book is the one scene she cut.
+
+She filmed, with permission, at Salt Point, on a Tuesday, from a respectful distance: two men fishing off the stump-marked point, an old man in the truck with the door open and the radio on. Nothing happened. That was the footage: forty minutes of nothing happening — lines cast, a thermos passed, one inaudible joke that bent the younger man double — and it was, her editor argued, the film's obvious ending, the whole story resolved into two silhouettes and a tide. And Adaeze Ferry watched the cut eleven times and took it out, and the editor demanded a reason, and her reason is the last word this book will borrow from anyone, because a book about the watching of a family had better know when the watching should stop, and she said it best:
+
+"Because the film is about what the town owed them, and the town paid in the end, and this footage is us taking out a new loan. Look at it. It's beautiful. It's *ours* — that's what's wrong with it. Ten years, everything that family did was watched by somebody who wanted something — him, then the law, then the couch, then us. That right there on the water is the first unwatched thing they've owned since 2007." She pulled the scene to the trash folder herself, the editor reports, and clicked, and the trash folder of a Baton Rouge edit suite thereby became the resting place of the most expensive forty minutes never aired in American documentary, and Ferry stood up and stretched and said the epitaph: "Roll credits on the pew. The pew's public. Tuesdays are theirs."
 
 ---
 

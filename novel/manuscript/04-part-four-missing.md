@@ -420,6 +420,26 @@ I drove back to the motel and slept nine hours, which the reader should understa
 
 ---
 
+### Interlude — The Golfer
+
+The district attorney of Mercer Parish gets his chapter now, at the hour of his irrelevance, because this book has used him as furniture for three hundred pages — *the golfer*; the courtesy; the November arithmetic — and a book that spends its whole length pleading for the seeing of persons cannot, at the end, decline to see the one it found most convenient to flatten.
+
+His name was J. Herbert Delahoussaye, and he was, by every metric his profession keeps, a good district attorney. That is the uncomfortable place this interlude has to start: a conviction rate in the parish's top tier; a victims' services office he built when the state gave him no funding for it; a reputation, among the defense bar, for charging honestly — no stacking, no bluffing — that is rarer in that trade than the public knows. He golfed with the assessor and the judge because in a parish of eleven thousand souls the men who run the machinery eat at the same three restaurants, and the golf was where half the county's small mercies got quietly arranged: a first-offender's diversion, a widow's tax abatement. The reader who has been picturing corruption must picture, instead, something this book has been drawing in every institution it has entered: a man optimized, sincerely, for the cases that fit the machine.
+
+The Weaver case did not fit the machine. It arrived, across ten years, as everything his training taught him to decline: a pattern with no crime attached; a retracted statement; a family of complainants who pressed for nothing; one detective's four-sentence feeling against a docket of two hundred live files that fit the machine perfectly — batteries with witnesses, thefts with cameras, the parish's actual, provable, this-fiscal-year suffering. *Camille, you're asking me to prosecute a family for grieving weird.* The sentence deserves its infamy. It also deserves its context, which the obituaries will not print: he said it in a year he tried, personally, four felony dockets, with two assistants, one of whom was studying for the bar on her lunches. Triage is not a scandal. Triage is the job. The scandal — and Delahoussaye himself, to his sole and considerable credit, is the one who eventually put it this way, in the only long interview he gave, three years into the retirement the cameras drove him to — the scandal was subtler:
+
+"The system I ran was honest, and it ran on proof. What I've had time to understand is that proof is a *product* — somebody upstream has to manufacture it. Witnesses make it, and witnesses are made or unmade by fear. So a man who can manage fear — really manage it, industrially, the way that man managed it — doesn't beat the system. He beats the *supply chain*. Nothing reaches me. And my office, which was built to weigh what arrives, had no department — no desk, no line item, not one afternoon of one training — for asking what *wasn't arriving*, and why. Ten years, the biggest predator in this parish's history operated eleven miles from my office, and my honest machine never once flagged him, because his whole method was the manufacture of silence, and silence" — the interview pauses here; the reader may set this beside a chaplain's log, a juror's second notebook, a teacher's chair — "silence was the one commodity I had no scale for. I weighed what came in. Nobody weighs what doesn't come."
+
+His ten days of January 2019 — the tip-line siege, the ten million watching him not act, the annex box coming off the shelf — were, the reader now knows the shape of it, the machine being force-fed its missing input by a television audience: proof, manufactured at last, upstream, in public, faster than anyone could manage the fear of making it. He did, in those ten days, everything right, and fast — the warrant support, the state hand-off, the publication ban after the arrests to protect the trials. It bought him nothing. The clip of Fontenot's call 30,997 ran against his name forever; he did not stand for re-election; the passion for retirement, this book has twice mocked, and here retracts the mockery halfway: he retired because he had become, in his own word, *unusable* — a prosecutor whose appearance in any courtroom now summoned the whole failure into the jury's view, and he judged, in one last honest triage, that the cases fit the machine better without him.
+
+He attends, most years, on the anniversary of the verdicts, the crisis center's small fundraiser. He writes a check and does not stay for the program. The desk's founder walks him to his car — every year, the staff report, the same ritual, neither man ever having explained it — and the one fragment of their annual minute that has reached the record reached it through a volunteer who was moving folding chairs in the lot and put it, later, on the shelf that answers, where this book found it:
+
+Robbie Hale, holding the car door, to the old prosecutor: "You weighing what doesn't come in these days, Mr. Delahoussaye?"
+
+And the golfer, getting in: "Every morning, son. It's the heaviest thing I own."
+
+---
+
 ## 40
 
 ### Five Days
@@ -500,6 +520,24 @@ The transcript gives her answer one line, and gives the courtroom's silence afte
 
 ---
 
+### Interlude — Prejean's File
+
+While the broadcasts burned at noon, the lawful fire was being laid at night, in the office between the tax preparer and the nail salon, and the laying of it deserves its pages, because the country that watched this case has spent the years since believing television did the work, and television believes it too, and the conviction — the thing that actually holds a man in Angola while eleven longhand appeals break against it — was built here, after hours, out of paper, by a fender-and-lien lawyer, his one paralegal, a retired detective working off the clock, and a strategy Dale Prejean called, in the war-room shorthand his paralegal kept, *the ark*: two of everything.
+
+Two of everything. Every fact the broadcasts surfaced got its independent legal twin, sourced clean, no chain running through the network — because Prejean had seen, clearer than the prosecutors initially did, the defense that was coming (and it came, word for word): *trial by television; memories contaminated by three weeks of national suggestion; witnesses performing what the couch taught them.* So: the retired teller's on-air memory of the December loan — twinned with the bank's own microfiche, subpoenaed cold. The garland, the shoes, the fluorescent flicker — twinned with the drugstore's photo-lab envelope date, still in the sideboard drawer. Evie's poster-size substation statement — twinned with the desk log, the young deputy, the blanket he could produce because he had, in fact, kept it, eight years, in his patrol bag, unable to say why, and Prejean's paralegal cried at the intake interview and the deputy apologized *to her*, and that pairing — log plus blanket plus man — survived a suppression motion that the network's tape alone would have lost.
+
+The depositions were the file's keel, and the reader has seen two of them land — Angela Mae on the third day of the fast; Victor's affidavit, eleven years in the composing — but the file's real architecture was the *sequencing*, and the sequencing was Fontenot's: who could be approached, in what order, at what hour of whose courage, such that no approach tipped the next. It ran like a tide chart, she said later, because it was one: "You don't take the boat out when the water's wrong. Emma wasn't approachable until the fast. Jesse wasn't approachable until Emma. The old man in the wood shop had to be *last* — he'd have gone through the visiting-room glass, and the glass, cher, was load-bearing." The war-room's whiteboard — photographed, now in the LSU archive beside the notebooks, the tins, the plats — shows the whole family mapped as a weather system, arrows and dates and one four-word standing order boxed in red in the corner, Prejean's hand, the file's constitution:
+
+*NOBODY GETS AMBUSHED TWICE.*
+
+Meaning: every member of that family had been ambushed for eleven years — by hexes, by sessions, by regraded memory — and the law would not be the twelfth ambush, or it would produce twelfth-ambush evidence: recantations, the family's native crop. Every approach was made in daylight, with warning, with a person in the room whose whole job was to stand next to somebody — Dot's doctrine, adopted as procedure, the first time in this book any institution wrote *stand next to them* into its actual method. The costs of the doctrine were real: it was slow; it let the five days of the fast nearly close before Angela Mae walked in on her own feet; it surrendered every tactical surprise the manuals prize. And it worked for exactly the reason nothing else in eleven years had: it was the first machine this family ever met that ran on the opposite fuel from the machine that kept them.
+
+One page of the file, last, because the paralegal — her name is Bernice Arceneaux; the parish is small; she is Danny's cousin, and took the job the week the Weaver intake opened, for reasons she never stated and never needed to — because Bernice kept, along with the shorthand, a running page headed CLIENT, which was legally imprecise, the client being Victor, and humanly exact, the client being all of them, and on the night before the arrests, with the warrant application gone up to the no-golf judge and the office finally, terribly quiet, Prejean found her adding a line to it and read over her shoulder, and had to go stand in the parking lot a while — the same lot where a twenty-four-year-old electrician had once idled forty minutes with a feeling — because the page read, in part:
+
+*M. Hale — never met. Started this file. Runs this file. The lawyer thinks it's the brother's file. The detective thinks it's her box. It's the sister's. Somebody in this office should say it out loud one time before tomorrow, so: it's her file. She kept the calendar. We're just the ones who finally learned to read one line a day, struck through, meaning: I was here. I was here. I was here.*
+
+---
+
 ## 42
 
 ### The Night It Broke
@@ -571,3 +609,23 @@ He is counting still, in a cell upstate. I am counting still, in this book. One 
 The tip line stayed up all that night. At 3:12 a.m. it took a call from a pay phone — a pay phone, in 2019; the caller had learned young to keep his coins where the eyes couldn't count them — outside a diner in Ohio. The transcript runs eight words. Sofia, who had quit, drove in anyway at four in the morning to hand-carry it to the parish, because some machines get one last shift out of everybody:
 
 *"This is Ethan. Tell Robbie the fence held."*
+
+---
+
+### Miriam — On Applause
+
+*I heard it, if you're wondering. Wherever you decide I am — under the flats, in the wind off the point, in these italics — the applause reached it. Three hundred pairs of hands, for the man who buried me in his own coat.*
+
+*And you want to know if it made me bitter, the cheering — whether the dead keep score of the noise. Listen: I ran a register of noise my whole married life. I could read a room's weather through a floor. So believe me when I file it exact: that wasn't applause for him, and it wasn't applause for justice either, whatever the papers decided by Sunday. I know that sound. I'd been waiting ten years for it, and I nearly missed it too, it wore such a strange costume.*
+
+*It was three hundred people saying what they saw. Out loud. At last. All at once.*
+
+*Clumsy — Lord, yes. Ten years late and dressed as a game show. The woman with the level voice is right to carry it hard; let her carry it, it'll keep her honest, it's kept her honest since. But from where I keep the Watch now, cher, you take the testimony in whatever dialect it finally comes. A tip line is a town confessing. A rating is a country unable to look away from what it let happen. And a studio audience on its feet, howling at a pair of handcuffs —*
+
+*that's just the fourth pew, finding its voice, eleven years past the Sunday it was needed.*
+
+*I don't forgive it. I don't refuse it. I enter it in the book.*
+
+*One line, struck through, like a day survived:*
+
+*They saw. It carried. Turn the page.*
