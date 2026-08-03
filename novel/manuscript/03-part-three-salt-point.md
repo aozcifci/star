@@ -14,7 +14,7 @@
 
 ---
 
-## 13
+## 21
 
 ### The Ledger
 
@@ -40,7 +40,7 @@ He had been rehearsing longer than anyone knew.
 
 ---
 
-## 14
+## 22
 
 ### December 20
 
@@ -76,7 +76,7 @@ She had been taught to. They had all been taught to.
 
 ---
 
-## 15
+## 23
 
 ### The Report
 
@@ -106,7 +106,33 @@ It took ten years to arrive. Mail like that always comes, Fontenot believed to t
 
 ---
 
-## 16
+## 24
+
+### Visiting Days
+
+Ninety miles northwest of everything so far told, in a medium-security state correctional facility on reclaimed cane land, Harlan Weaver was doing his time the way he had done his shifts, and the reader is owed the years this book has so far skipped past his cell door, because the family's ruin has a shape that cannot be seen whole without them: while the household was being hollowed, the man whose absence made it possible was being managed — with a patience, a thrift, and a cruelty of craft that the prosecutors, when they finally unpacked it, called the coldest file in the case.
+
+Prison, for a man like Harlan, was not the abyss the town imagined for him. It was a system, and he was a foreman; within a year he ran the wood shop, within two the trusties called him Pops, and the chaplain — a shrewd old Marine who figures in this chapter because he was the first officer of any institution in this entire story to *notice something and write it down* — had marked him as the rarest bird in the yard: a convict at peace with his sentence because he believed, to the marrow, that it was purchasing something. His boy's freedom. His family's peace. He did the years like a man paying off land.
+
+The management of him ran on three instruments.
+
+The first was the visits. They came monthly, the first Saturday, and they came — the reader will know the grammar by now — *all together*: Evie, Emma, a rotation of the others, and always, at the edge of the photograph, the son-in-law, who shook Harlan's hand across the table with both of his and called him Dad and kept, before the guards, before the room, the exact bearing of a steward before his lord — deferential, brimming with report. The reports were masterpieces. The reader has attended the house those same years and can grade them: the laundromat job (after Miriam had been quit from it) reported as *going so well they've made her senior girl*; the homeschooling (after the school was cut away) as *the children thriving, Robbie reading two grades up* — always one true grain in the lie's center, Robbie did read two grades up; the singing Sundays; the roof repairs; the money *set aside*. Sixty months of a family passing before a man's eyes in Sunday clothes for one hour, arranged, briefed, the choir at pitch — and Harlan Weaver, no fool, a man who could read a weld through paint, read his family monthly across a steel table and saw — what?
+
+The chaplain's log, subpoenaed in 2020, answers in an entry from March 2009, and the entry is why this chapter bears his mark: *Weaver H. after visit today, long at the window. Said his wife holds her coffee wrong now. Both hands, like at a funeral. Asked him did he want to talk. Said no, said "cold in that visiting room is all." Note: room was 78 degrees.*
+
+Both hands around the cup. He saw. He saw the way Lemoine saw, the way Lucille Sonnier saw, the way the whole watching parish saw — a four-sentence feeling, unactionable, filed. And the second instrument was built precisely to keep it filed: the letters. Evie wrote weekly, and her letters — recovered, all two hundred and sixty of them, from a shoebox in the cell he kept them in, and read into the record across two terrible afternoons of the first trial — her letters trace, under forensic light, the truest graph of the household that exists. Not in what they say; in what they stop saying. Miriam's name, twice a page through the autumn of 2008. Then once a page. Then — the week of December 20 — a letter about weather, about the church den, about a recipe, a letter with a hole in the middle of it where a daughter had been; and then, in January, the sentence assembled for her, the sentence Harlan kept, creased soft as cloth, in his breast pocket through both trials and gave to the state with hands the officers reported as perfectly steady: *"Miriam has gone off westward with a man we think, like before with Aaron, you know her heart, we are praying and the babies are with us and well."*
+
+Like before with Aaron. Four words of engineering — grafting the flight of 2006, which the old man knew to be real, onto the vanishing of 2008, so that his memory itself would co-sign the lie. It half-worked. Nothing ever more than half-worked on Harlan Weaver, and nothing ever less: he wrote back one letter, to Miriam herself, care of the house — *Girl. Whatever it is, there is a bunk and a plate here when I walk out, and no questions from me, that is a promise, Daddy* — and the letter is in the file, because it never left the house; it was found, opened, in the mallard notebook's pocket, eleven years later, filed by the man who filed everything, kept — the prosecutors could establish no reason; the reader, who has met him, needs none: it was *interest*, accruing in the dark, on a deposit of pain — and of all the exhibits in four thousand pages, jurors from both trials, polled years apart, named that envelope, more than the rope, more even than the stones, as the one they could not sit still under: a father's amnesty, addressed to a woman already ten months in the ground it would take a decade to find, opened and read and filed by the man who put her there.
+
+The third instrument was the parole board. Twenty-ten, the first eligibility: and here the craft shows its finish, because Toby needed the sentence *served long*, and a model prisoner with a clean jacket and a parish full of sympathy was a flight risk in the wrong direction — home. So the file grew letters. Anonymous at first: the victim's family — the Hales — *objecting*; then, in 2012, a letter over Evie's own signature (her hand; her hand held the pen; the graphologist confirmed it and the courtroom heard her sob from the defendants' table as he did) respectfully asking the board to weigh her *fear of renewed violence in the home*, given her husband's *history of temper* — sixty years, two parking tickets, one plea taken for his son — and the board, reading a wife's plea against her own man's release, did what boards do. Denied, 2010. Denied, 2012, 2014, 2016. The town said: how the system fails a good man. The system said: we weigh what enters the record. And the record was written, entry by entry, by the same blue ballpoint that kept the mallard book, working through instruments, working through the mails, working — this once — through the trembling summoned hand of the man's own wife.
+
+Five years became eight became eleven.
+
+And the man himself, in the wood shop, on the yard, at the monthly table — what he became across those years, the chaplain's log tracks in entries that shorten as they deepen, down to the last one, April 2019, the week the gates finally opened onto a state trooper's sedan and a level-voiced detective and a world with two graves in it: *Weaver H. released today. Came by the chapel first, not to pray, he said, to square up. Shook my hand. Said: "Padre, I done five years for my boy and six for somebody's paperwork, and I never minded the five." Asked him would he be all right out there. Old man looked at me a while. Said: "I built that house with a lock on the door and I have spent eleven years finding out who I locked in with what." Then he thanked me for the woodshop key and walked out to the car. Note: I have kept this log 26 years. That is the only answer I ever wrote down twice, once here and once for myself, to keep. God go with him. End of log.*
+
+---
+
+## 25
 
 ### Mellie
 
@@ -134,7 +160,29 @@ There is no Chapter of what happened. There is only what the pine grove west of 
 
 ---
 
-## 17
+## 26
+
+### The Box
+
+The years the reader is about to cross at speed — 2009 to 2014, the file's dormant years — Camille Fontenot crossed at one mile an hour, on her own time, against orders, and this chapter is the odometer.
+
+She was forty-one when the file opened, fifty-one when the annex swallowed it, and the department she gave those years to was not a corrupt department; the reader looking for a villain in a uniform must be disappointed here as everywhere in this account, where the villainy is all one man's and the failure is everyone's. Mercer Parish SO was underfunded, overtasked, procedurally sound, and institutionally incapable of digesting the one thing Fontenot kept bringing it, which was a pattern with no crime attached. She knew the species of the thing out at Salt Point by the end of her first year — knew it from a training she'd taken once in Baton Rouge on coercive families, four federal hours in a carpeted room that she came out of, colleagues recalled, gray as ash, because the instructor's checklist had read to her like a tour of the Weaver porch. But a pattern is not probable cause. And so began her decade of the almosts.
+
+Almost, 2009: the Cameron Parish sighting. She drove the two hours herself, off-shift, and found the witness — a shrimper's wife, kind, certain, wrong — and walked her through the flyer twice, and the woman's certainty came apart at the hairline exactly the way honest error does, and Fontenot drove home knowing the sighting was smoke and knowing, too, with the flat sick knowing of her trade, that smoke was what the case would now officially become: the sighting entered the file, the file entered the westbound-runaway theory, and the theory closed doors she'd spent a year propping. She wrote a four-page supplemental dismantling it. The supplemental is in the box. It is initialed by no one.
+
+Almost, 2010: the boy at the marina. She was two parishes away at a mandated in-service — the irony was noted at trial and the courtroom did not laugh — when Dot Prejean's hotline call came through, and by the time the state's machinery had cycled and Fontenot got the referral copy, the recantation was three days old and signed. She went anyway. She sat across a kitchen table from Robbie Hale, ten years old, the family arranged around him like a photograph, and she asked her questions and he answered in the flat clear rehearsed voice, and she understood — this is in her notes, State's 97, in her furious upright hand — *child is lying to protect someone. Child is the best witness I have ever sat across. Child has priced telling me the truth and the price is a person.* On her way out, at the door, out of the photograph's earshot for four seconds, she did the thing that broke protocol and that she never once regretted: she bent to hand the boy a card he could not keep, knew he could not keep, and said, quiet, "Arithmetic changes, son. When it does, I'm the number that don't." Nine years later a Tennessee area code called the tip line of a television program and asked for her by a description — *the one that talks level* — because her name had worn off the memory and the sentence had not.
+
+Almost, 2011: the substation, the nine miles of rain, the statement, the retraction — told already; add only this, the part that was hers. After the retraction she drove to the DA's office without appointment and stood in front of the golfer's desk with the two documents, the statement and its unsigning, held one in each hand like a scales, and made the argument she'd spent two nights building: that a retraction *of this speed and this fluency* was itself evidence, that the family should be separated and interviewed within seventy-two hours, that she needed six warm bodies and one week. The DA heard her out — he always heard her out; his courtesy is on every page of that decade — and then said the sentence that she repeated at the first trial, under oath, looking at him where he sat in the gallery, retired now, tanned now: *"Camille, you're asking me to prosecute a family for grieving weird."* And the courtroom made the sound, and the cameras found him, and whatever else that man's November-counting soul had banked across a career, the ledger closed that afternoon in a single entry, and every obituary he ever gets will quote it back over his name. The reader may weigh whether that is justice. Fontenot, asked exactly that by a documentary crew, gave the answer of a woman who'd had a decade to fit it: "No. It's just television. Justice would've been the six warm bodies."
+
+Almost, 2013: Ethan. A second child gone over the fence, a second chance at a wedge — and this time she had the clinic connection half-built, a nurse in Sulphur who remembered a feverish boy and a cash-paying mother under a grandmother's name, and for one week in the spring of 2013 the file was warm in her hands, she could feel the grain of it turning — and then the family produced the masked men. Produced them fluently, in unison, on the parish's own tip line, with a detail-set so specific — the mask color, the out-of-state plate glimpsed, the boy's shoe found *outside* the fence line — that the investigation was procedurally obligated to chase it, and did, for eight months, through two states, and the wedge-week was buried under a mountain of manufactured leads, and Fontenot understood, reading the tip transcripts in her gray cubicle — she'd been transferred sideways the first time by then, *Community Liaison*, a title with the teeth pulled — that the fiction had been *aimed*. Not at the public. At her, at her one week of warmth: he had felt the file heat up through the walls of that house the way a spider feels the web, and had spun, overnight, exactly the mass of silk required to cool it. It was the only time in the ten years she ever put in for leave without a reason. Four days. Her sister says she painted a fence that did not need painting, in November, in the wind, and came back Monday with the level voice reinstalled.
+
+And then 2014, and the memo, and the box.
+
+The takedown memo was administrative, routine, right: five years dormant, leads exhausted, retention schedule applied. She refused to initial it not as protest but as record — *let the file show one name that said no* — and a captain initialed it for her without rancor, and on a Friday in March she carried the box to the annex herself, declining the clerk's cart, because — she told the documentary, at sixty, with the level voice at last unlevel for eleven recorded seconds — "you carry it yourself. That's all that was left of the job by then. She weighed four pounds, box and all, and I carried her, and I clipped her picture where I'd see it if the light ever came back on, and I put her on the shelf, and I want to say I said something but I didn't, I stood there like a fool with my hand on the cardboard, and then I went and worked twenty-two years of other people's worst days. You want the truth of police work, there it is: the shelf. Everything the town won't say and the law can't hold goes to the shelf. And the shelf keeps. Shelves and water, cher. In this parish that's your two archives, shelves and water, and neither one ever, ever loses a deposit. They just wait on the withdrawal."
+
+---
+
+## 27
 
 ### The Runaways
 
@@ -168,7 +216,35 @@ The parish dragged the bayou. The prayer chain prayed. And in the tall house on 
 
 ---
 
-## 18
+## 28
+
+### Foster
+
+The Benoits of Abbeville had fostered eleven children before the quiet boy from the fire station, and they would foster nine after, and in the corner of the front room of their raised cottage there is a wall of framed school photographs that Celeste Benoit calls, to this day, *my congregation* — and the reader flinching at the word may stand down; it is the correct word, reclaimed; this chapter is the book's one unbroken stretch of level ground, and it is placed here, between the pines and the recantation, deliberately, the way the Benoits themselves were placed: proof that the machinery that failed a family at every gate could still, at one unguarded side door, produce two retired school-bus mechanics with a bunk bed and no theology of childhood beyond *feed them, mean what you say, and knock before you enter*.
+
+He arrived at twelve with a garbage bag of clothes and a Band-Aid tin he would not surrender to the intake worker, and Marcel Benoit, sixty-one, reading the intake sheet's careful hedges (*history of family instability; discloses selectively; flight risk*), performed on the first night the single most consequential clinical intervention in this entire account, without knowing it was one: shown the bunk, the boy asked which chores were his, and Marcel said supper dishes and the yard, and the boy asked what happened if they weren't done right, and Marcel Benoit looked at him a long moment over the reading glasses and said, "Then they're done wrong, and Thursday comes anyway." Then he knocked on the doorframe of the room he was already standing in, said "goodnight, then," and left the door open exactly halfway.
+
+The boy checked the door four times that first week — Celeste heard the hinge; she logged everything in a spiral notebook of her own, eleven children of practice behind the entries — checked whether halfway was a setting that *held*, whether it was weather or law. It held. Everything held. Supper at six held; the school bus at 7:10 held; the Thursday library run held with a mechanical, blessed, boring fidelity, and the boy who had grown up reading a house's weather systems for survival found himself, for the first time in his life, meteorologically unemployed. Celeste's notebook, October: *He watches us like TV. Waiting for the twist. No twist, cher. Just Thursdays.* And November, the entry she read aloud, by permission, at a foster-parent training a decade later, to a room of recruits she made cry: *Caught him tonight doing homework at the kitchen table with the radio on. Not listening for the driveway. First time. You can tell because his shoulders came down off his ears. Whole child looks two inches shorter. That's the job, people ask what the job is. The job is shoulders.*
+
+School diagnosed him gifted and adrift; the school counselor, a patient Vietnam-era man named Do, tried the usual doors and found them courteously locked, and then discovered — by accident, assigning an essay on *a place you know well* — that the boy could write. What came back was two pages on the tide flats at low water, precise as a survey, not one human being in it, and Do, who knew what an absence that total cost to construct, wrote in the margin the only comment that ever got past the locks: *You see like a scientist. Scientists get to pick what they look at next.* The boy picked, in order, across four years: tides, then navigation, then — the counselor watching the drift with his breath held — missing-persons statistics, then Louisiana criminal procedure, checked out of the Vermilion Parish library on the card of Celeste Benoit, who signed every slip without one question, and logged every title.
+
+He told them pieces. Never the whole; the reader knows the doctrine, *the whole was rope* — but pieces, spaced, defused, at the kitchen table with the radio on: a sister, once, in the direction of the salt. A grandmother who sang a crab song. A man he called, when he had to call him anything, *my uncle by marriage* — four words, always in that order, a legal formula holding a person at wrench's length. The Benoits pressed nothing. Celeste's notebook, single entry, spring: *Whatever it is, it's got a door on it and he checks the hinge. Our job is not the door. Our job is the hallway. Keep the hallway boring and lit.*
+
+Two things more, and the years may close.
+
+The postcard: he was fourteen when he mailed it, and he built it like an engineer — bought in one town, written in a second, mailed from a third on a school trip, unsigned, six words. The reader has seen it arrive. What the reader has not seen is the return traffic, because there was none, by design, and the boy who had learned to price every truth priced this one for years against no data: had it landed? Had it been intercepted, filed in a mallard pocket, *paid for* by the recipient? He ran the odds nightly the way other children run sheep, and Celeste's notebook logs the season without knowing its name: *Bad patch. Checks the mailbox like it's wired.* It broke the following summer, obliquely, a two-line item in the online *Gazette* — RUNAWAY, 11, SOUGHT; FAMILY FEARS ABDUCTION — that made him walk out of the library into the parking lot and stand in the white sun doing a thing Mr. Do observed from his car and had the wisdom to leave unwitnessed: both fists in the air, once, pulled down hard, a free-throw shooter's yes — and then forty minutes rigid on a parking bumper with his head in his hands, because the fence had held, the fence had held, and now there were two of them out here, and he had no way to find the other one, and the finding — he understood it that day at fifteen, in the heat coming up off the asphalt — the finding was going to be the work of his life, and it could not begin until the day it could be finished. Patience, then. The patient religion. He had the aptitude from both bloodlines.
+
+And the tin: he was seventeen, college mail coming to the house — Celeste steaming with pride at every envelope — when Marcel found him one Sunday at the workbench with the Band-Aid tin open. Inside: the fourteen dollars, grown to two hundred and six; a pebble, gray-green, egg-smooth; a flyer photograph, church dress, porch rail, folded to wallet size and refolded until the creases were cloth. The old man asked nothing. He took down instead, from the pegboard's place of honor, his own tin — tobacco, rusted, RAILROAD MILLS — and opened it beside the boy's: a woman's hairpin; a bus token, Lafayette Transit, 1971; a boy's watch with a burned strap. They looked at the two tins together a while, the mechanic and the scientist, neither asking, and then Marcel said the only sermon of his life, eleven words, and closed his tin, and put it back on the pegboard where it lived:
+
+"Everybody's carrying a box, son. Difference is just who gets took out of it."
+
+Robbie Hale graduated on a Thursday, third in his class, in a gown Celeste hemmed twice. He worked two years — marinas, then motels, moving with a purpose the Benoits never asked him to explain, each job one town further up the map toward Tennessee, toward a bus route he had reasons for, keeping himself — the reader knows now for what — *unlisted, solvent, and near a Trailways line*. He called the Benoits every Sunday of his life. He calls them still.
+
+In room fourteen of a motel by the highway, three weeks before Christmas of 2018, the television bolted near the ceiling said the words *Port Mercer, Louisiana* to a nineteen-year-old changing the sheets, and the boy who had waited out half his life for the arithmetic to change stood very still in the roar of it, and then finished the corners of the bed — *done wrong, and Thursday comes anyway* — and sat down on the end of it, and opened, after nine years, the whole tin.
+
+---
+
+## 29
 
 ### The Recantation
 
@@ -202,4 +278,60 @@ But mail like that always comes.
 
 On the shelf in the records annex, in the dark, in the box, clipped inside the lid where she had left it — the church-dress photograph, the eyes a beat too long on the camera — Miriam Weaver Hale waited eight more years for somebody to outlive their fear.
 
-It was the brother with the shaking hands. But that is Part Four.
+---
+
+## 30
+
+### Tuesday, 2013
+
+Ethan Usher planned his escape for two years, and the plan had one author, one page, and one word on the page, and the word was *Tuesday*.
+
+The postcard had come when he was nine. He was alone at the mailbox — mail was his chore, assigned because his father had determined that the boy's *closedness* made him the household's least likely leak, an assessment whose wrongness historians of this family may savor — and he knew the hand at once, though he had never seen his half-cousin's writing. He knew it the way you know a knock. *The tide chart is real. Tuesdays.* No name, no town. He read it four times at the box, and then — nine years old, the son of the file-keeper, raised from the cradle inside the counting — he did the bravest thing in this book. The reader may hold that against the shotguns and the depositions and the nine miles of rain, and the claim stands: he put it in his mouth, chewed it to pulp on the walk up the drive, and swallowed it.
+
+Then he waited two years. He waited because he was nine, and the fence was high, and the one runner he knew of had needed two tries — the household's version of Robbie's flights ran, officially, *taken by wickedness, pray for him*; but Ethan had been in the yard for one of the departures and had seen the wickedness in question climb the fence unassisted, with a purposeful face, and look back once, straight at him, and put his hand flat on his own chest, palm in, fingers spread — the third-floor sign, the fever sign, his mother's sign, *take up space* — and Ethan had understood the theology of it completely, at seven, at once: there was another gospel. It had two members. It met at the mailbox and it signed itself on the chest, and its whole scripture was six words and it was true, because it made predictions, and they held. The tide chart is real. Tuesdays the boats came. Tuesdays the marina filled with outside men. Tuesdays his father — this was the operational core, and it had taken the boy eighteen months of the quietest observation to certify — Tuesdays his father drove the collection to the coin counter in Sulphur, ninety minutes minimum, because he trusted no member of the household to touch the counting, being unable — the one incapacity in that whole engineered organism — to conceive of theft as anything but universal.
+
+The reader wants the running itself, and shall have it, but must first stand one moment where the boy stood, at the fence line of an eleventh year, and count what he was leaving: a mother. That is the whole list, and it was almost enough to hold him. She had signed his chest in the dark after fevers; she had buried a popsicle with him in the yard of a Sulphur emergency room; she was, in the full mathematics of that house, his one deposit in any account not his father's. He left her a message by the only secure channel the household possessed — an act of tradecraft so far beyond his years that the forensic interviewer who eventually took his history put down her pen when she reached it: he unpicked six inches of the hem of her winter coat, the coat that lived boxed till November, slid in a strip of paper, and sewed the hem back with her own thread. She would find it, if she found it, alone, in cold weather, by touch. It said — she testified to it at the second trial from memory, and asked the court's leave to say it twice, and the court gave it — *Mama. I am not taken. I am gone like R. Don't look. Look happy. E.*
+
+Don't look. Look happy. Eleven years old, and he had written his mother operational instructions for surviving his own escape, and she had followed them for six years, and the two performances — the boy's disappearance played as abduction by the father, and the mother's grief played as grief when it was half grief and half a hem she touched through every winter — ran concurrently in that house, each fooling the other's audience, neither ever fooling her.
+
+He went over on the fourth Tuesday of April, 2013, in the hour of the coin counter, dressed in double clothes, carrying nothing visible — carrying, invisibly, in a knotted bread bag inside his waistband: forty-one dollars in collection-skim singles (the underground railroad of the mind, third generation, same route), a heel of bread, and the stub of pencil with which, at the fence, in a final act of authorship that the investigating deputies mistook for the kidnappers' cruelty and that the reader is now equipped to read correctly, he wrote the household's own language back at it one time, on the fence post, in block letters, before dropping — his sole error, and a rich one — one shoe on the far side:
+
+*KEPT.*
+
+Past tense of the loudest word in this book. The parish read it as a taunt left by monsters. One detective, gray coming into her hair, community-liaisoned into a cubicle two buildings from the case, read the tip-sheet photograph of that fence post for one long afternoon and then filed a one-line supplemental that nobody actioned and the trial later blew up to poster size: *Suggest the word is a signature, not a message. Suggest we are being told the boy kept himself.*
+
+He was gone eleven days on the road that the reader will not get mile by mile, because the boy himself, grown, has never once sold it, declining every producer with the same four words, his mother's jaw set under them — *it was just walking* — and the dignity of that refusal governs here. It was just walking: shrimp boat to Cameron as unregistered cargo the crew pretended not to see and fed anyway; a Baptist crisis shelter in Lake Charles that asked few questions slowly, per its wise old design; a Greyhound northbound on a donated fare; and at the end of the line's fourth transfer, in a diner outside Chillicothe, Ohio, at two in the morning, a fry cook named Bohannon who found a child asleep upright in booth six with both fists closed, and put a plate in front of him without waking him, and sat across with his coffee till the boy startled, and said — the reader has met this species of American twice now, the Dot Prejeans, the Benoits; the country's quiet load-bearing wall — said only: "Eat first. Then one phone call, any number you want, on the house. Or no call. Booth's paid till morning either way."
+
+Ethan ate. Slept in the booth. And in the gray of morning, offered the phone, the son of Tobias Usher — who could have called any hotline in America and entered the machinery that had twice failed the family already — looked at the placemat map of Ohio a long time and made the operational decision of a born survivor of the counting: he called nobody. He asked Bohannon for a job instead. Dishes, cash, the storeroom cot; a school enrollment the following autumn under a name one letter off; a boyhood rebuilt at wrench's length from every list, every record, every count — six years of Tuesdays in which the only trace of Ethan Usher in the reachable world was a hem in a boxed coat and a growing competence with small engines in a town where nobody slowed their walk to listen to anything.
+
+Until a January midnight in 2019, when the diner's television — bolted near the ceiling; the composition of this family's salvations is consistent — replayed, on the late news, the noon footage of a studio in New Orleans, and the dish-room door opened, and Bohannon, who had asked no questions for six years, watched his storeroom kid walk slow to the pay phone by the restrooms — kept alive by the owner out of pure cussedness, last coin box in the county — and feed it, and dial a tip line number off the screen with a hand steady as a gauge, and say eight words, and hang up, and stand there a moment with his palm flat on his own chest, fingers spread, in the light of his father's arrest.
+
+Then he came back to the window and picked up the sprayer, and Bohannon put a plate in front of him, and the two of them closed out the shift with the radio on, and neither man said one word, there being — as the fry cook explained years later to the one documentary he let through the door, in the completest statement of this book's whole creed that anyone, expert or clergy or counsel, ever got on tape —
+
+"—nothing to say. Kid washed his dishes with his people on every channel in America and never broke a glass. You want to know what I saw, that's what I saw. Steadiest hands in Ross County. Where he got 'em, I didn't ask. You didn't neither, till the cameras came. That's the whole trouble with this country, ma'am, and I'll thank you to print it: everybody asks after the hands is famous. Nobody asks while they're washing your dishes."
+
+---
+
+## 31
+
+### The Lean Years
+
+Every organism of that kind has a metabolism, and metabolisms fail the same way: from the edges in.
+
+The reader has watched the machine at full feed — 2008, the deed, the pension, the loan, the eight thousand five hundred; and the reader has watched the last fresh conversions, the last new belief, come off the line in 2010. What remains, before the lights of Part Four come up, is the long decline the town watched without watching, 2014 to 2018 — the lean years, when the thing at the tall house stopped growing and began, in the pitiless bookkeeping it had itself installed, to consume its own plant.
+
+The money went first, because the money had always been the point — hold that sentence; the trial held it up to the light for a week, the defense insisting the man was a believer, a *sharer of the delusion*, and the prosecution answering with the mallard book, and the mallard book winning, because delusions do not reconcile monthly. The pension: continuing. The survivor benefits: continuing, though Melody's portion had required, in 2015, a forged school-enrollment letter from *Texas* whose typeface would eventually cost twenty minutes of expert testimony and constitute, the prosecutor noted in summation, the single crime in the file that the defendant had committed *carelessly* — the first spoor of an animal aging. The credit lines: exhausted serially — Harlan's, Evie's, Jesse's, a card taken out in the name of Fatih— of *Victor* Weaver that Victor discovered only when a collector called the college registrar; he paid its minimums for two years in silence, out of adjunct wages, rather than put a tremor on the web, and entered it in ODDMENTS under a heading that shows how far the watcher had come by then from the boy counting shades at half: *cost of surveillance, monthly, mine.*
+
+And the house began to give up its pieces. The Houston condominium, sold in '14 — *the Lord releasing what we no longer need*, though the proceeds reached no account the family could see. Harlan's truck, sold. The skiff — the skiff itself, the first instrument, sold in '16 to a Grand Isle man, and if the household noticed that the shepherd was eating the sheepdogs now, the household had by then no working vocabulary in which the noticing could be performed even silently, each member's interior language having been, over a decade, renovated room by room until the load-bearing words — *kept, called away, offering, watch* — could not be assembled into any sentence against the man who had installed them. This is the finding of the lean years, the one the experts kept circling at both trials and the reason this short chapter stands where it stands: by 2016 coercion in the tall house had become almost wholly *unadministered*. No sessions now; sessions require an audience worth performing to. No hexes found; finding requires fresh fear to spend, and the reserves were gone. The two cars sat in the yard with weeds to the axles, museum pieces of an earlier persecution nobody could quite recall the plot of. He barely preached. Sunday attendance in the den — Victor logged it to the end — sank to a horseshoe of four, of three; one Advent Sunday, of two: Evie, and Jesse, in folding chairs, in the half-light, singing three-part hymns in two parts while the lectern stood empty, the shepherd upstairs on the sanctioned computer, running — the forensic image would show — search strings on Louisiana parole procedure, into the small hours, night upon night upon night.
+
+Because the perimeter had one breach coming that no instrument on the mallard ledger could refinance. The reader closed Chapter 24 holding it. Denied in '10, '12, '14, '16 — and then the arithmetic of good time ran out of road, and the notice arrived in the spring of 2018, addressed to the household, copied to the parish: WEAVER, HARLAN J., RELEASE DATE SET: APRIL 2019.
+
+Victor kept the envelope. He kept it the way his nephew kept a tin: it was the hinge, and he knew it was the hinge the afternoon it came, because he was on the porch when Toby read it — read it twice, folded it back into thirds along its own creases, exact — and Victor watched the face he had been auditing for eleven years perform, for an audience of one porch and one spring afternoon, its masterwork: nothing. Total nothing. A man reading a weather report for a country he'd never visit. And then Tobias Usher looked up from the letter, out across the seeding yard, at the two dead cars, at the line where the live oak used to hold the horizon before the flood year took it, and he said — to Victor, or to the yard, or to whatever he ever spoke to when the audience was too small to bill — the sentence that Victor carried, eleven words in a sealed vessel, from that porch to a strip-mall law office eight months later, and that the reader, arriving now at the lit threshold of Part Four, is at last equipped to hear at its full and terrible pitch:
+
+"Well. We'll want to get the house in order for Dad."
+
+The house in order. A family of witnesses, aging toward courage. A ledger eleven years deep. A patriarch with a memory like a level and a key that still turned, ninety miles out and closing at the speed of ordinary time — and the steward at the door, folding the notice into thirds, beginning that same night, on the sanctioned computer, to search a new string, which the forensic examiner read aloud to a silent courtroom as the last exhibit of the state's case in chief, and which is the last line of this Part, because nothing this book could add would not blunt it:
+
+*how to have elderly person declared incompetent Louisiana how long*
+
+It was the quiet brother who moved first. But that is Part Four.
