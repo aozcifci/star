@@ -77,6 +77,8 @@ Ne yapmalı / ne yapmamalı… üç somut şey, net söyleyeyim. Bir: zihinsel n
 
 **Motto:** Zihinsel netliği fırsata çevir; kararlarında sabırlı ve gerçekçi kal.
 
+Ve bi' şey daha… Merkür gölgesi biterken o eski yarım kalmış konuşmaları da hatırla. "Söyleyecektim de" dediğin bi' mail, bi' mesaj, bi' özür… varsa, bugün nazikçe tamamla. Ama aceleyle değil, netlikle. Sen de biliyorsun ki bazen en iyi iletişim, kısa ve doğru olandır. Hadi, zihnini boşalt, kalbini de hafiflet — ikisi birden mümkün bugün.
+
 **Tavsiyem sana:** İkizler'im, bugün iki seçenek arasında gidip gelme. Birini seç, ona sadık kal — netlik senin süper gücün bugün, gerçekten.
 
 
@@ -97,6 +99,8 @@ Para… Satürn, Neptün, Plüton retroları var. Aşırı risk, gereksiz borçl
 Ne yapmalı / ne yapmamalı… üç somut şey, net söyleyeyim. Bir: yaşam alanında küçük estetik dokunuşlar yap, evi güzelleştir, yakın çevrede diplomasiyi koru. İki: zihinsel temizlik yap — eski duygusal ve zihinsel yükleri bırak, geçmişe tutunma. Üç: finansal risk alma, spekülasyon yok, bütçeyi koru, borç büyütme. Yapma: geçmişe tutunmak, spekülatif finans, Koç ve İkizler temasında sert çıkış, duygusal patlama, aceleci karar. Boyun, boğaz, tiroit, ses hassas olabilir; uyku kalitesine dikkat. Sesini zorlama, boğazını koru. Dinlen, sakinleş, evinde nefes al. Küçük bi' düzen, sıcak bi' çay… bedenini ve kalbini yumuşat. Ev ile ilişki dengesi… zarafetle kur, aceleyle değil.
 
 **Motto:** Geçmişin duygusal ve zihinsel yükünü bırak; evinde ve ilişkilerinde zarafetle denge kur.
+
+Bi' de şunu ekleyeyim… Venüs akşam 4. eve, yani eve ve aileye değince, küçük bi' dekoratif dokunuş bile ruhunu değiştirebilir. Perdeyi aç, masayı topla, sevdiğin bi' kokuyu yak… yani şartları zorlamadan, ortamı güzelleştir. Son Dördün'ün arındırıcı gücünü kullan: eskiyi bırak, geleceğe temiz bak. Hepimiz zaman zaman geçmişe tutunuyoruz ya… bugün tutma, bırak.
 
 **Tavsiyem sana:** Yengeç'im, bugün kalbini koru ama kapısını kilitleme. Güven, kontrollü açık kapıdan gelir, inan bana ha.
 
@@ -168,6 +172,8 @@ Ve hadi bi' dürüst olalım… sen bazen barış için kendini küçültüyorsu
 Ne yapmalı, ne yapmamalı… Bir: estetik yenilenme yap, imajına dokun — küçük de olsa. İki: net duruş sergile, sınır çiz. Üç: öz-bakım, estetik uygulamalar, gevşeme. Yapma: aşırı kararsızlık, "hayır" diyememe, erteleme, yüzünden taviz, spekülatif finans. Sağlık: böbrekler, bel, su-tuz dengesi… sıvı tüketimine dikkat; arınma ve dinlenme, self-care iyi gelir. Su iç. Gerçekten su iç. Belini zorlama. Kendine nazik ol — zarafet içe de lazım, sadece dışa değil. Kararsızlık tuzağına düşme; iki seçenek arasında sonsuza kadar sallanma — bi'ini seç, zarifçe seç.
 
 **Motto:** İç dengeni zarafetle koru; başkasını memnun etmek için kendinden taviz verme.
+
+Ve bi' hatırlatma daha… Ay Boğa'da Son Dördün'de Güneş'le kare yaparken, spekülatif risk ve aşırı taviz aynı paketten geliyor gibi. Yani hem cüzdanında hem ilişkilerinde "neyse tamam" deme. Kararını ver, zarifçe dur. Öz-bakım da bugünün parçası: sıvı tüket, beline ve böbreklerine nazik ol, dinlen. Hadi, kendine de aynı zarafeti göster — başkasına gösterdiğin kadar.
 
 **Tavsiyem sana:** Terazi'm, bugün güzelliğin değil, sınırın da zarafetidir. Bi' "hayır" bazen en zarif cümledir. Ve o "hayır"… seni sevdirmez değil, seni saydırır. Unutma bunu. Venüs senin evinde — sen de kendi evinde ol, başkasının gölgesinde değil.
 
