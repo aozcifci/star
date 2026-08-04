@@ -156,6 +156,11 @@ oldu bu son haftalarda?" sorusu geliyor. Ve üç Ağustos'ta başlayan Şiron re
 ekleniyor. Şiron nerede? Senin burcunda. Yani bugün özdeğer ve maddi güvenlik temalarında
 içsel bir iyileşme arayışına giriyorsun. İyileşme, dikkat — kriz değil, iyileşme.
 
+Bir de bugün Merkür'le Venüs arasında güzel bir sekstil açı var. Bu ne demek pratikte? Şu demek:
+bugün söylediğin şeyle kastettiğin şey aynı kapıya çıkıyor. Yani kelimelerin bugün seni yanlış
+temsil etmiyor, ki bu sende her gün olan bir şey değil — sen bazen çok az konuşup çok şey
+bekliyorsun, biliyorum.
+
 Pratik odaklanma seviyen bugün yüksek. Gerçekten yüksek, işleri bitirebilirsin. Ama bir risk var:
 inatlaşma ve eleştirilere karşı savunmacı tutum geliştirme riski. Ve burada kaynaklar biraz
 ayrışıyor, onu da dürüstçe söyleyeyim — bazı kaynaklar bugünü senin için olumlu gelişmelerle
@@ -249,6 +254,11 @@ Sabırlı düşünme, ki bu, ııı, şey... senin en sevdiğin şey değil, bil
 seviyorsun. Ama bugün Ay'ın Boğa'daki sakinleştirici etkisi zihinsel dağınıklığını engelliyor ve
 pratik sonuçlara odaklanmanı kolaylaştırıyor. Yani bugün fikirler havada uçuşmuyor, bugün fikirler
 yere iniyor. Ve akşama doğru Ay senin burcuna geçmeye hazırlanıyor, o da ayrı bir hareketlilik.
+
+Şunu da ekleyeyim: bugün hem Güneş hem Merkür Satürn'le olumlu üçgen açılar kuruyor. Yani
+gökyüzü sana iki koldan aynı şeyi söylüyor — "sabırlı düşün, yapısal düşün." Ve bütün kaynaklar
+bugün senin daha güçlü bir zihinsel netlik, daha çok sabır ve daha gerçekçi beklentiler içinde
+olacağın konusunda hemfikir. Hepsi. Bu da nadir bir şey.
 
 ### Aşk
 
@@ -434,6 +444,14 @@ Boğa'daki Ay da Son Dördün evresinde ve bu senin zihinsel odaklanmanı artır
 işleri tamamlayarak duygusal ve zihinsel bir netliğe ulaşmanı destekliyor. Ve bir not: akşam
 saatlerinde Ay boşluğa giriyor. Onu aklında tut, sonuna geleceğiz.
 
+Bir de şu detay var, hoşuma gidiyor: Jüpiter de senin burcunda, Aslan'ın yedinci derecesinde. Ve
+Güneş'le arasında ayrılan bir kavuşum var — yani o büyük Jüpiter enerjisi, o bolluk, o genişleme
+hissi... hâlâ senin arkanda duruyor, sadece artık sessizce duruyor. Yani bugün şansın kapıyı
+çalmıyor; bugün şansın senin evinde, mutfakta, çayını içiyor. Sen sadece işini yapacaksın.
+
+Ve bütün kaynaklar bugünün senin için "sakinleştirici, yapılandırıcı ve sorumluluk bilincini artırıcı"
+olduğu konusunda tam bir fikir birliği içinde.
+
 ### Aşk
 
 Aşkta bugün Venüs Terazi'ye geçiyor ve bu senin yakın çevre ve iletişim alanını hareketlendiriyor.
@@ -521,8 +539,13 @@ Güneş-Satürn üçgeninin sağladığı yapıcı disiplin, karmaşık sorumlul
 et: liste var, sıra var, plan var, ve işliyor.
 
 Bir de bugün Venüs'ün senin burcundaki son günü. Günün ilk yarısında Venüs, Başak'ın son
-derecesinde ilerliyor; akşam saat yirmi iki on ikide Terazi'ye geçiyor. Yani günün iki farklı yarısı var,
-bunu aşkta göreceğiz.
+derecesinde ilerliyor — yani otuzuncu derecede, tam sınırda; akşam saat yirmi iki on ikide Terazi'ye
+geçiyor. Yani günün iki farklı yarısı var, bunu aşkta göreceğiz.
+
+Ve Ay bugün Boğa'nın yirmi ikinci derecesinde, aydınlanması yüzde altmış beş civarında, küçülen
+fazda. Küçülen faz senin için ne demek? Şu demek: bugün eklemek değil, çıkarmak günü. Bir şeyi
+listeden silmek. Bir şeyi bitirmek. Ve sen... itiraf et, sen bunu seviyorsun. Üstünü çizmeyi
+seviyorsun.
 
 ### Aşk
 
@@ -815,4 +838,445 @@ Sen her şeyi kontrol etmek zorunda değilsin. Bazen en güçlü hamle, hamle ya
 Ve inan bana, altı gün sonraki o tutulmada sen hazır olacaksın.
 
 ---
-<!--DEVAM-->
+## ♐ YAY BURCU
+
+Şimdi sıra Yay burcunda. Yay! Gel bakalım, bugün senin frenlerin çalışıyor — ve bu iyi bir şey.
+
+Şaka bir yana, bugün senin için geniş vizyonlu hedeflerle pratik gerçeklerin dengelendiği kararlı bir
+enerji alanı var. Boğa burcundaki Ay sana bir topraklanma hissi veriyor, ve Aslan'daki
+Güneş-Jüpiter yapısının Koç'taki Satürn'le kurduğu o olumlu üçgen açı — senin yöneticin Jüpiter,
+hatırlatayım — sabırsız doğanı dizginleyerek sana yüksek bir odaklanma disiplini getiriyor.
+
+Ve bu üçgen açı gecenin geç saatlerinde tam olarak kesinleşiyor — yani günün enerjisi düşmüyor,
+tam tersine olgunlaşarak bitiyor. Bir de Güneş'le Jüpiter arasında geniş bir kavuşum var. Yani senin
+yöneticin, bugünün ışığıyla aynı burçta duruyor. Bu da şu demek: bugün kendine güvenmen için
+gökyüzünden bir izin belgesi almış sayılırsın. Kullan onu — ama akıllıca kullan.
+
+Yani şöyle: iç motivasyonun güçlü ve özgüvenli bir seyir izliyor. Ama bugün radikal riskler almak
+yerine mevcut projelerini sağlamlaştırma eğilimi hâkim. Ve bunu duyunca "aa ne sıkıcı" diyeceksin,
+biliyorum, seni tanıyorum. Ama düşün: senin en büyük problemin ne? Başlamak değil, bitirmek.
+Değil mi? Bugün gökyüzü sana bitirme gücü veriyor. Bu bir hediye, sıkıcı bir şey değil.
+
+### Aşk
+
+Aşkta bugün sosyal bir kapı açılıyor. Venüs Terazi'ye geçiyor ve Terazi senin on birinci evin — yani
+arkadaşlıklar, topluluklar, sosyal çevre, gelecek hayalleri. Venüs oraya girince sosyal ilişkilerinde ve
+aşk hayatında diplomasi, uyum ve cazibe getiren bir süreç başlıyor.
+
+Bekârsan bu çok önemli: sosyal çevre, arkadaş grupları veya topluluk etkinlikleri aracılığıyla yeni ve
+dengeli ilişki fırsatları doğuyor. Yani bugün karşılaşma nerede olacak? Bir kalabalıkta. Bir arkadaş
+grubunda. Bir etkinlikte. Yani birinin "gel bize katıl" dediği o davete evet de bugün. Ciddiyim.
+
+Evliysen ya da uzun süreli ilişkin varsa: partnerinle birlikte sosyalleşmek ve geleceğe yönelik ortak
+hedefler üzerine konuşmak bugün ilişkini tazeliyor. İkiniz birlikte bir yere gidin, insanlarla olun.
+Ve dönüşte konuşun — "beş yıl sonra nerede olmak istiyoruz" tipi bir konuşma. Bugün o konuşma
+çok iyi gidecek.
+
+Bir uyarı var: yaklaşan tutulmalar öncesinde partneri aşırı idealize etme riskine karşı temkinli ol.
+Yani onu bir kahramana çevirme kafanda. O da insan, sen de.
+
+### Kariyer
+
+Kariyerde bugün gerçekten güçlü bir gün. Aslan burcundaki Güneş ve Jüpiter'in — Jüpiter senin
+yöneticin, unutmayalım — Koç'taki Satürn'le kurduğu o olumlu üçgen açı, akademik işlerde,
+uluslararası projelerde ve stratejik planlamalarda kalıcı başarılar sunuyor.
+
+Kalıcı. Yani bugün attığın adım altı ay sonra da orada duruyor olacak. Akademik bir şey varsa,
+yurt dışıyla ilgili bir şey varsa, bir eğitim, bir başvuru, bir teklif — bugün onun günü.
+
+Boğa burcundaki Ay ise seni günlük çalışma rutinlerine, biriken ödemelere ve bütçe detaylarına
+odaklanmaya çağırıyor. Yani heyecanlı kısım değil, ama gerekli kısım.
+
+### Para
+
+Parada bugün net bir kırmızı çizgi var: büyük meblağlı borç veya kefalet altına girmekten kaçın.
+Kefalet, altını çiziyorum — birisi senden "şuna bir imza atsana" derse bugün, hayır de. Yarın
+bakarsın. Spekülatif riskler yerine mevcut kaynaklarını koruyan stratejiler izle.
+
+Ve bir de şu, çok spesifik: akşam saatlerinde Ay boşlukta olacak ve bu, gereksiz lüks harcamalar
+yapma riskini artırıyor. Yani akşam o vitrin, o sepet, o "bir hayat yaşıyoruz" cümlesi... bugün olmaz.
+Yarın da olur.
+
+### İlişkiler — aile, arkadaş, sosyal çevre
+
+Bu bölüm bugün senin en akıcı alanın. Merkür'ün gölge evresini bugün tamamlaması iletişimdeki
+belirsizlikleri dağıtıyor, Venüs'ün Terazi'ye geçişi de sosyal etkileşimlerine diplomasi ve zarafet
+getiriyor. Arkadaşlıklar, networking ve ortak projeler geliştirmek için son derece uygun bir ortam var.
+
+Ama bir tuzak var, dikkat: Merkür'ün Şiron'la kurduğu kare açı. Bu ne yapıyor? Düşüncelerini
+savunurken aşırı gururlu veya alıngan bir tutum sergilersen, küçük fikir çatışmaları yaşanabilir.
+Küçük — ama gereksiz. Yani birisi senin fikrine karşı çıktığında, o karşı çıkışı kendine yönelik bir
+saldırı olarak alma bugün. Fikir eleştirisi, kişi eleştirisi değil.
+
+Uyum notu: bugün Aslan ve Koç gibi Ateş grubu burçlarıyla zihinsel ve vizyoner açıdan yüksek bir
+senkronizasyon yakalıyorsun. Terazi ve İkizler gibi Hava grubu burçlarıyla ise sosyal etkinliklerde,
+romantik yakınlaşmalarda ve networking fırsatlarında en uyumlu etkileşimlerin var. Su grubu
+burçlarıyla yürüttüğün ortak finansal süreçlerde net sınırlar belirle.
+
+### Ne yapmalı, ne yapmamalı
+
+Yapılacaklar. Bir: bugün bir sosyal davete evet de. Aşk da, iş bağlantısı da, ilham da bugün
+kalabalıktan geliyor sana. İki: biriken ödemelerini ve bütçe detaylarını bugün otur, hallet. Sıkıcı
+ama bugün bunun için doğru gün. Üç: uyku ve beslenme rutinine sadık kal — Boğa Ay'ı ve Şiron
+retrosu boğaz, boyun, ses telleri ve tiroid bölgesini hassaslaştırıyor bugün.
+
+Yapılmayacaklar. Bir: kefil olma, büyük borca girme. İki: akşam Ay boşluğunda lüks harcama
+yapma. Üç: fikir ayrılıklarını kişisel mesele haline getirme, alınganlık yapma.
+
+> **YAY'IN BUGÜNKÜ MOTTOSU:** "Ufka koşarken ayağımın altındaki yolu da görüyorum."
+
+**Ve sana kişisel tavsiyem Yay:** büyük hedeflere ilerlerken hem hızını hem harcamalarını dengele,
+ve planlamadığın rotaları birer öğrenme fırsatı olarak benimse. Bak bu ikincisi çok senin gibi bir
+cümle — sen zaten yolda kaybolmayı seven bir insansın. Bugün fark şu: kaybolurken bütçeni
+kaybetme. Ve iletişimde o diplomatik dili koru. Bugün senin bilgeliğin hızında değil, sabrında.
+
+---
+
+## ♑ OĞLAK BURCU
+
+Şimdi sıra Oğlak burcunda. Oğlak... gel şöyle, seninle biraz farklı bir şey konuşacağız bugün.
+
+Bugün senin için pratik gerçekçilikle yaratıcı öz-ifade arasında verimli bir köprü kuruluyor. Boğa
+burcundaki küçülen Ay, senin doğuştan gelen o disiplinli yapını duygusal olarak besliyor, zihinsel
+odaklanmanı ve dikkat seviyeni üst düzeye taşıyor.
+
+Aslan mevsiminin getirdiği özgüven ve sahne alma arzusu da Boğa Ay'ının ağırbaşlılığıyla
+dengeleniyor. Ve Güneş'le Ay arasındaki kare açı sana şunu söylüyor: yüksek hedeflerinle öz-bakım
+ihtiyacın arasında bir denge kur. Denge. Sen bu kelimeyi iş hayatında iyi bilirsin ama kendine
+uygularken biraz zorlanırsın, değil mi?
+
+Ve bugün küçülen Ay fazı zihinsel yükleri hafifletmeye teşvik ediyor — yani üzerindeki o aşırı
+sorumluluk hissini esnetebilir, tamamlanmış projelere odaklanabilirsin. Genel atmosfer aceleci
+kararlar yerine geçmiş kazanımların takdir edildiği, ve kişisel neşeye alan açıldığı dengeli bir yapıya
+işaret ediyor. Kişisel neşe. Evet, o da bir gündem maddesi olabiliyor, bak.
+
+### Aşk
+
+Aşkta bugün çift taraflı bir dinamik var, ilginç. Neden? Çünkü hem Venüs senin onuncu evine —
+Terazi'ye, kariyer evine — geçiyor, hem de Ay senin beşinci evinde, Boğa'da. Beşinci ev aşk,
+flört, yaratıcılık evi. Yani iki cepheden birden hareket var.
+
+Evliysen ya da partnerliysen: bugünün konusu iş-özel hayat dengesi. Kariyer yoğunluğu nedeniyle
+ihmal ettiğin partnerine zaman ayırma gerekliliğiyle karşılaşabilirsin. Ve karşılıklı diplomasi ile nazik
+iletişim, olası uyuşmazlıkları çözmede anahtar rol oynuyor. Yani bugün "işim var" cümlesini bir kere
+daha söylemek yerine, telefonu kapat, otur, bak yüzüne. O kadar.
+
+Bekârsan ya da flört aşamasındaysan: gökyüzü bugün sana son derece cömert. Boğa Ay'ının
+romantik ve yaratıcı etkileri, sosyal ortamlarda veya iş bağlantılı toplantılarda dikkat çekici
+karşılaşmalara zemin hazırlıyor. Yani, ııı, evet — bir iş toplantısında birisiyle karşılaşabilirsin.
+Sende böyle olur zaten, sen aşkı hep işin yanında bulursun.
+
+Uyarı: Venüs-Mars karesi duygusal beklentilerde acelecilik veya güç mücadeleleri yaratabilir. O
+yüzden ilişkilerde savunmacı bir tutum yerine açık ve net diyalog tercih et.
+
+### Kariyer
+
+Kariyerde bugün gerçekten güçlü bir gün. Venüs, senin onuncu evinde — kariyer evinde — ve
+orada asaleten güçlü. Ne demek bu? Profesyonel ilişkilerde diplomasi ve üst düzey ortaklık
+fırsatları ön plana çıkıyor.
+
+Ve kaynaklar bugünü senin için stratejik bir dönüm noktası olarak işaretliyor. İş ortamında sert ve
+tavizsiz duruşlar yerine diplomatik, çözüm odaklı ve iş birliğine açık bir üslup sergilemek — üst
+yöneticilerin ve ortakların takdirini toplamanı sağlıyor. Yani bugün masaya yumruğunu vurarak
+değil, zarafetle ikna ederek kazanıyorsun. Bir de Büyük Hava Üçgeni var arkanda: Venüs, Uranüs
+ve Plüton. Bu sana iş dünyasında imajını güçlendirme ve üst düzey destek bulma fırsatı veriyor.
+
+Amirlerinle konuşurken şu taktiği kullan: geçmiş hak edişlerin ve tamamladığın projeler üzerinden
+ilerle. Yani "şunu istiyorum" değil, "şunları yaptım, dolayısıyla şunu istiyorum." Bu bugün somut
+netice doğuruyor.
+
+### Para
+
+Parada Boğa Ay'ının sağlamcılığı ile Satürn'ün disiplini birleşiyor. Sonuç: spekülatif borsa hamleleri
+veya yüksek riskli yatırımlar yerine bütçe düzenlemeleri, gayrimenkul ya da ev ile ilgili uzun vadeli
+planlamalar ve birikim odaklı stratejiler destekleniyor.
+
+Yani ev, mülk, uzun vade — bunlar bugünün kelimeleri. Hızlı kazanç değil.
+
+### İlişkiler — aile, arkadaş, sosyal çevre
+
+Merkür Yengeç burcunun son derecelerinde ilerliyor ve bu, ikili diyaloglarında karşı tarafın duygusal
+ihtiyaçlarını daha iyi saptamana imkân tanıyor. Yani bugün empati radarın açık. Boğa Ay'ı da aile ve
+yakın arkadaş ilişkilerinde samimiyeti ve karşılıklı desteği pekiştiriyor.
+
+Sosyal çevrede ve aile ilişkilerinde yüzeysel tartışmalar yerine güvene dayalı derin paylaşımlar öne
+çıkıyor bugün. Ve networking için Venüs'ün Terazi konumu çok elverişli koşullar sunuyor.
+
+Dikkat edilecek tek şey: Merkür'ün Aslan burcuna geçişi öncesinde oluşabilecek ego kaynaklı
+alınganlıklardan ve iddialı söylemlerden kaçın. Sözlü anlaşmalarda ve yazılı yazışmalarda netliği
+koru.
+
+Uyum notu: bugün Boğa ve Başak burçlarıyla yüksek bir pratik uyum yakalıyorsun — bu burçlarla
+yürüttüğün adımlar hızlı sonuç veriyor. Terazi ve Kova burçlarıyla profesyonel ve sosyal alanda
+yapıcı etkileşimler var. Koç ve Yengeç burçlarıyla duygusal veya ailevi diyaloglarda ise biraz daha
+dikkatli olman gerekiyor.
+
+### Ne yapmalı, ne yapmamalı
+
+Yapılacaklar. Bir: bugün sanatsal bir faaliyete vakit ayır. Müzik, resim, bir konser, bir kitap — ne
+olursa. Kaynaklar bunu somut öneri olarak veriyor ve sen bunu genelde "lüks" sanıyorsun, ama
+bugün bu bir ihtiyaç. İki: sevdiklerinle keyifli bir ortamda bulun ya da hobinle ilgilen; içsel dengeni
+restore edip yeni fikirlerin doğmasını sağlıyor. Üç: kısa yürüyüşler yap, esneme hareketlerine
+zaman ayır — Satürn'ün retrosu bugün kemikler, dizler, eklemler, dişler ve duruş sağlığında hafif
+bir hassasiyet yaratıyor.
+
+Yapılmayacaklar. Bir: sert ve tavizsiz duruş sergileme, özellikle iş yerinde. İki: spekülatif yatırım
+yapma. Üç: sadece sonuç odaklı çalışma — bugünün en büyük riski iş-aile dengesizliği ve
+sabırsızlıktan kaynaklanan içsel gerilim.
+
+> **OĞLAK'IN BUGÜNKÜ MOTTOSU:** "Zirveye çıkarken yol boyunca gülmeyi de öğreniyorum."
+
+**Ve sana kişisel tavsiyem Oğlak:** sorumluluklarını aksatmadan neşeye ve kişisel mutluluğa alan aç.
+Kaynaklarda bunun İngilizcesi geçiyor, çok hoşuma gitti: "make room for joy." Neşeye yer aç.
+Bak sen hayatın boyunca hep sonuca baktın, hep "tamamlandı mı" diye sordun. Bugün bir kere
+sürecin kendisine değer ver. Sanatsal, estetik bir detayla zihnini dinlendir. Ve şunu bil — dinlenmek,
+tembellik değil. Dinlenmek de bir yatırım. Belki en iyisi.
+
+---
+## ♒ KOVA BURCU
+
+Şimdi sıra Kova burcunda. Kova, gel — bugün senin için biraz alışılmadık bir mesaj var, hazır ol.
+
+Bugünün senin için öne çıkan enerjisi şu üç eksende şekilleniyor: duygusal zeminini
+sağlamlaştırmak, gerçekçi sınırları kabullenmek, ve içsel dinginlik sağlamak. Ve şimdi "gerçekçi
+sınırlar" cümlesinde biraz kaşlarını çattığını biliyorum, çünkü sen sınır sevmiyorsun, sen özgürlük
+seviyorsun. Ama bugün bak ne diyor gökyüzü.
+
+Boğa burcundaki Son Dördün Ay senin dördüncü evini tetikliyor — yani kişisel alanını, ev yaşamını
+ve temel güvenlik ihtiyaçlarını. Bu da seni oraya odaklanmaya zorluyor. Sorumluluklarının bilincinde
+olmak ve aşırıya kaçan beklentileri biraz törpülemek bugün iç motivasyonunu yükseltiyor. Ve
+zihinsel odaklanma seviyen pratik işleri tamamlamada son derece kararlı bir performans sunuyor.
+
+Yani özetle: bugün ruh halin dingin, adımları hesaplanmış, abartıdan uzak. Bütün kaynaklar bu
+konuda tam uyum içinde. Ve bu senin için bir kayıp değil — bu bir dinlenme.
+
+### Aşk
+
+Aşkta bugün güzel bir kombinasyon var. Venüs senin dokuzuncu evine geçiyor — Terazi'ye — ve
+Güneş'le Jüpiter de senin yedinci evinde, Aslan'da. Yedinci ev ilişkiler evi. Yani hem ilişki evin dolu,
+hem Venüs uyumlu bir yerde.
+
+Bu ne getiriyor? İkili ilişkilerine zarafet, entelektüel derinlik ve yapıcı dönüşüm imkânları.
+
+Evliysen ya da partnerliysen: on iki Ağustos'taki Aslan Güneş Tutulması öncesinde ortak kararlar
+alma, ilişkideki sorumluluk sınırlarını netleştirme ve geleceğe dönük sağlam adımlar atma atmosferi
+hâkim. Yani "biz nereye gidiyoruz" konuşmasını bugün yapabilirsin. Ve sen bu konuşmayı
+genelde erteliyorsun, biliyorum. Bugün ertelemeyebilirsin.
+
+Bekârsan ya da flört aşamasındaysan: Venüs'ün hava grubundaki uyumlu yerleşimi sana farklı
+kültürlerden veya entelektüel çevrelerden gelen kişilerle zihinsel çekim esasına dayalı kalıcı bağlar
+kurma fırsatı yaratıyor. Zihinsel çekim — senin için tek gerçek çekim türü bu zaten, değil mi? Bugün
+o var.
+
+### Kariyer
+
+Kariyerde İkizler'deki Mars ve Koç'taki Satürn'ün sağladığı destekleyici açılar sana yüksek bir
+zihinsel disiplin, stratejik planlama yeteneği ve iş yerinde itibar kazandırıyor.
+
+Ve bugünün iş taktiği şu: fevri kararlar almak yerine mevcut projeleri konsolide et ve sorumluluklarını
+eksiksiz yerine getir. Kaynaklar diyor ki saygınlığını artıran temel faktör bugün tam olarak bu. Yani
+bugün yeni bir fikirle ortaya çıkmak değil — sözünü tuttuğunu göstermek.
+
+Biliyorum, sende sürekli yeni bir fikir kaynıyor. Ama bugün o fikri bir kenara yaz, saklat, yarın
+bakarsın. Bugün elindekini bitir.
+
+### Para
+
+Parada net: Ay'ın Boğa burcundaki konumu sebebiyle finansal kararlarda spekülatif adımlardan ve
+riskli yatırımlardan kaçınman gerekiyor. Bütçe yönetimini ve ev ya da gayrimenkul odaklı zorunlu
+giderleri planlı yürüt.
+
+Ve bugünün en büyük riski de burada: Boğa'daki Son Dördün Ay'ın Güneş ve Jüpiter'le kurduğu sert
+kare, sende "sabit fikirlilik, esneklik gösterememe ve bütçeyi zorlama" eğilimi yaratıyor. Bütçeyi
+zorlama. Yani "bunu karşılayabilirim ben" dediğin an — dur. Hesaba bak. Esneklik gösterip pratik
+sınırlara uyum sağladığında bu riskler kontrol altına alınabiliyor.
+
+### İlişkiler — aile, arkadaş, sosyal çevre
+
+Bu bölüm bugün senin en verimli alanın. Merkür'ün Yengeç burcundaki gölgeli hareketini
+tamamlaması ve Satürn'le kurduğu olumlu etkileşim, iletişim üslubuna netlik, ciddiyet ve ikna edici
+bir yapı kazandırıyor.
+
+Arkadaşlık ilişkileri, profesyonel ağ oluşturma ve grup çalışmaları açısından son derece verimli bir
+gün. Ve şu çok kıymetli: fikir alışverişleri bugün somut projelere dönüştürülmeye uygun. Yani
+sadece konuşup dağılmıyorsunuz, bugün konuştuğunuz şey bir şeye dönüşebiliyor. Kova için bu
+altın demek.
+
+İletişimde açık sınırlar çizmen ve gerçekçi beklentiler sunman sayesinde yanlış anlaşılma veya
+çatışma potansiyeli minimum seviyede kalıyor.
+
+Uyum notu: bugün Terazi ve İkizler burçlarıyla yüksek düzeyde zihinsel ve romantik uyum
+sergiliyorsun. Boğa ve Başak burçları somut iş ve bütçe planlamalarında sana pratik destek
+sunuyor. Aslan ve Akrep burçlarıyla yürüttüğün etkileşimlerde ise esneklik ihtiyacı ve güç
+dengelerine dikkat etmen gerekiyor.
+
+### Ne yapmalı, ne yapmamalı
+
+Yapılacaklar. Bir: birikmiş iş listelerini bugün tamamla. Kaynakların verdiği en somut adım bu.
+O listede üç şey varsa üçünü de bitir, ya da en azından ikisini. İki: bir grup çalışmasına, bir
+networking ortamına gir — bugün oradan somut proje çıkıyor. Üç: uyku kalitesini artıracak beden
+topraklama pratikleri yap ve düzenli beslenmeye dikkat et. Boğa Ay'ı gereği boğaz, boyun, ses telleri
+ve tiroit bölgesini koru, aşırı zorlamalardan kaçın; zihinsel yoğunluğun hafif kas gerginliği
+yaratabileceğini de aklında tut.
+
+Yapılmayacaklar. Bir: bugün yeni maceralara atılma. Biliyorum, zor. Ama bugün değil. İki: ev ve iş
+alanındaki gereksiz harcamaları bugün yapma — ertele. Üç: sabit fikirlilik yapma, esnemeye açık ol.
+
+> **KOVA'NIN BUGÜNKÜ MOTTOSU:** "Sınırlarımı kabul ettiğim gün, gerçekten özgür oldum."
+
+**Ve sana kişisel tavsiyem Kova:** bugünün mottosu neredeyse birebir şöyle veriliyor kaynaklarda —
+"gerçekçi sınırları kabul etmek zihinsel özgürlük getirir; bugün yeni maceralara atılmak yerine
+elindeki işleri ve ilişkileri sağlamlaştır." Ve ben buna şunu eklemek istiyorum: senin özgürlüğün
+kaçmakta değil, seçmekte. Bugün elindekini seç. Bitir. Sağlamlaştır. Ve göreceksin ki bir şeyi
+gerçekten bitirmenin verdiği o hafiflik... yeni bir başlangıçtan bile daha özgürleştirici olabiliyor.
+
+---
+
+## ♓ BALIK BURCU
+
+Ve şimdi sıra son burçta — Balık. Balık, gel canım, kapanışı seninle yapıyoruz.
+
+Bugün senin için esneklik, duygusal olgunluk ve zihinsel dinginlik gerektiren bir enerji var. Şöyle
+söyleyeyim: olayları veya çevredeki koşulları kontrol etmeye çalışmak yerine, değişen şartlara
+soğukkanlılıkla adapte olma ihtiyacı öne çıkıyor bugün.
+
+Ve zaten senin süper gücün bu. Değil mi? Sen suyun aldığı şekli alırsın. Bugün gökyüzü sana
+"tam bunu yap" diyor.
+
+Zihinsel motivasyonun ve dikkat seviyen, Ay'ın Boğa burcundaki — yani senin üçüncü evindeki —
+sabit ve güvence arayan yapısıyla destekleniyor, bu sana zihinsel bir kararlılık kazandırıyor. Ve
+şu detay çok güzel: içsel motivasyonun bugün dışsal başarılardan ziyade ruhsal tatmin ve özdeğer
+dengesi üzerine odaklanıyor. Yani bugün "ne kazandım" değil, "nasıl hissediyorum" sorusu daha
+önemli. Ve bu sende yanlış bir soru değil, doğru soru.
+
+Küçük bir not: kaynaklar burada hafif ayrışıyor. Bazıları altıncı evdeki Güneş-Jüpiter vurgusu
+nedeniyle işe odaklanmayı öne çıkarıyor, diğerleri üçüncü evdeki Ay etkisi nedeniyle zihinsel
+dinlenmeyi vurguluyor. Yani sen bugün ikisini de dengeleyebilirsin — çalış, ama sonra kafanı dinle.
+
+### Aşk
+
+Aşkta bugün derinlik var. Venüs, Terazi'ye — senin sekizinci evine — geçiyor. Sekizinci ev ne?
+Derinlik, mahremiyet, ortak kaynaklar, dönüşüm. Ve bu geçiş, ikili ilişkilerinde yüzeysel etkileşimler
+yerine duygusal derinliği, adaleti, karşılıklı güveni ve alma-verme dengesini ön plana çıkarıyor.
+
+Alma-verme dengesi. Bunu bir daha söyleyeyim, çünkü bu senin en büyük meselen: alma-verme
+dengesi. Sen çok verirsin. Bugün almayı da hatırla.
+
+Evliysen ya da partnerliysen: ortak finansal konuların konuşulması, geçmişten kalan kırgınlıkların
+adaletli bir yaklaşımla çözülmesi ve ilişkide güvenin yeniden tesis edilmesi gündeme geliyor.
+
+Bekârsan ya da flört aşamasındaysan: zihinsel olarak seni besleyen, samimi ve güven veren
+kişilerle daha derin bağlar kurma potansiyelin artıyor. Yüzeysel flörtler yerine, zihinsel ve ruhsal
+doyum sağlayan derin bağlara çekiliyorsun.
+
+Ve şimdi bugünün en önemli uyarısı, bu tam sana yazılmış: Venüs-Neptün karşıtlığı var bugün.
+Bu ne demek? Gerçekleri göz ardı ederek partnerinden aşırı idealist beklentiler içine girme riski.
+Yani birini olduğu gibi görmeyip, olmasını istediğin gibi görme riski. Sen bunu yaparsın, ikimiz de
+biliyoruz. Bugün bir kere, gözlüğü çıkarıp bak.
+
+### Kariyer
+
+Kariyerde bugün güzel bir destek var. Senin geleneksel yöneticin Jüpiter, altıncı evinde — Aslan'da
+— ve ikinci evdeki retro Satürn'le olumlu bir üçgen açı kuruyor. Bu ne gösteriyor? Mesleki alanda
+gösterdiğin disiplinli çalışmaların uzun vadede kalıcı getirilere dönüşeceğini.
+
+Yani bugün emeğin boşa gitmiyor. Bunu duyman gerekiyordu belki, çünkü sen bazen emeğinin
+görülmediğini düşünüyorsun. Bugün gökyüzü diyor ki: görülüyor, sadece meyvesi biraz sonra.
+
+İş yerinde günlük rutinleri düzenlemek, verimliliği artırmak ve sorumlulukları eksiksiz yerine
+getirmek açısından gökyüzü oldukça destekleyici.
+
+### Para
+
+Parada dikkat: sekizinci evdeki Venüs sebebiyle finansal kararlar, borçlar, krediler ve ortaklı gelirler
+alanında bir hareketlilik başlıyor. Ama ikinci evindeki Satürn ve Neptün retrosu var — ve bu ikisi
+sana diyor ki: spekülatif adımlardan ve yüksek riskli yatırımlardan kaçın, muhafazakâr bir bütçe
+stratejisi izle.
+
+Ve bugünün en belirgin riski de burada: Venüs-Neptün gerilimi finansal konularda hayalperest
+beklentilere girip gerçekçi değerlendirmelerden uzaklaşmana yol açabilir. Yani bütçede
+belirsizlik, gereksiz harcamalar. Bugün rakamlara bak, hislere değil. Sadece bugün için.
+
+### İlişkiler — aile, arkadaş, sosyal çevre
+
+Boğa burcundaki Ay'ın üçüncü evdeki seyri, yakın çevrenle — kardeşlerinle, komşularınla, yakın
+arkadaşlarınla — iletişiminde sakin, yapıcı ve güven verici bir üslup benimsemeni sağlıyor.
+
+Merkür'ün konumu sezgisel algını artırıyor, ama tam da bu yüzden ifadelerinde açık ve net olman
+olası karmaşaları engelleyecek. Yani şu: sen bazen söylemeden anlaşılmayı bekliyorsun. Bugün
+söyle. Kelimelerle söyle.
+
+Ve şu çok pratik bir tavsiye: varsayımlara dayanarak hareket etmek yerine doğrudan diyalog kur.
+Yani "o böyle düşünüyor herhalde" deyip bir senaryo yazma kafanda — git sor. Ailevi paylaşımlar,
+networking ve sosyal etkileşimler açısından uzlaşmacı ve destekleyici bir atmosfer var bugün,
+çatışma riski genel olarak düşük.
+
+Uyum notu: bugün Boğa ve Terazi burçlarıyla etkileşimlerin oldukça uyumlu, huzurlu ve
+destekleyici. İkizler ve Koç burçlarındaki gezegen kümelenmeleri ve retrograd durumlar ise
+sabırsız veya belirsiz tutumlar yaratabileceği için, oralarda iletişimde ve finansal konularda daha
+dikkatli ol.
+
+### Ne yapmalı, ne yapmamalı
+
+Yapılacaklar. Bir: bugün kontrol edemediğin bir şey olduğunda tepki vermeden önce üç nefes al.
+Kaynakların bugün senin için verdiği en somut öneri bu: olayları sükunetle karşıla, duygusal
+esneklik göster. İki: finansal ve ilişkisel kararlarda dürüstlük, adalet ve şeffaflıktan taviz verme —
+özellikle ortak para konularında bugün her şeyi açık konuş. Üç: uyku düzenine, beslenmene ve
+stres yönetimine dikkat et. Beden direncin ve canlılığın bugün yüksek — altıncı evdeki Güneş ve
+Jüpiter sayesinde — ama iş temposu fiziksel yorgunluk getirebilir. Beden sinyallerini dinle.
+
+Yapılmayacaklar. Bir: kimseyi idealize etme. Ne partnerini, ne bir iş fırsatını. İki: spekülatif
+yatırıma girme, gereksiz harcama yapma. Üç: varsayımlarla hareket etme — sorman gereken şeyi
+sor.
+
+> **BALIK'IN BUGÜNKÜ MOTTOSU:** "Akışa direnmiyorum; ona olgunlukla yön veriyorum."
+
+**Ve sana kişisel tavsiyem Balık:** şartları zorlamak yerine esneklik göster — çünkü olaylara
+verdiğin olgun yanıtlar kaderini şekillendiriyor. Bu cümle kaynaklarda tam böyle geçiyor ve bence
+bugünün en güzel cümlesi. Bak sen bir şeyi zorlamaya başladığında kaybediyorsun, ama akışa
+izin verdiğinde... o zaman her şey sana geliyor. Bugün bunu bir daha hatırla. Ve kendine de aynı
+şefkati göster, tamam mı? Herkese verdiğin o anlayışı bugün bir kere de kendine ver.
+
+---
+
+## 🎬 VİDEO KAPANIŞI
+
+Ve... geldik sonuna. On iki burç, hepsi bitti.
+
+Şimdi şöyle bir toparlayayım: bugün gökyüzünde bir yumuşama var arkadaşlar. Venüs kendi evine
+dönüyor, Merkür'ün o gölgesi kalkıyor, Güneş'le Satürn el sıkışıyor. Yani bugün, ııı, nasıl anlatsam —
+bugün gökyüzü bize bağırmıyor. Bugün gökyüzü bize fısıldıyor. Ve fısıldadığı şey de aslında hepimiz
+için aynı: yavaşla, sağlamlaştır, dürüst konuş, harcamalarına dikkat et ve kimseyi — kendin dahil —
+olduğundan başka biri gibi görme.
+
+Hangi burç olursan ol, bugün büyük hamleler günü değil. Bugün sağlam temeller günü. Ve altı gün
+sonra, on iki Ağustos'ta Aslan burcunda bir Güneş tutulması var. Yani bugün ne kurarsan, o
+tutulmada onun üzerine çıkacaksın. Onu unutma.
+
+Bak, bir şey daha söyleyeceğim ve bunu gerçekten samimiyetle söylüyorum: bu videoyu sonuna
+kadar izlediysen — ki izledin, buradasın — sen benim için sadece bir izlenme sayısı değilsin. Sen
+bu kanalın bir parçasısın. O yüzden hadi, üşenme: abone ol butonuna bas, zili aç ki yarın sabah bu
+video sana ilk gelenlerden olsun. Videoyu beğen — o küçük dokunuş bu içeriğin başka insanlara
+ulaşmasını sağlıyor, gerçekten sağlıyor. Ve yoruma burcunu yaz. Sadece burcunu. Bugün senin
+burcunda anlattığım şeylerden hangisi tam oturdu, hangisi "aaa bu benim" dedirtti — onu da yaz,
+ben okuyorum, hepsini okuyorum.
+
+Bi' de şunu yap: bu videoyu, ııı, bugün aklına gelen o kişiye gönder. Var ya bir kişi. Ona gönder.
+Belki tam bugün ihtiyacı olan şey senin burcunda anlattığım o cümledir.
+
+Hadi canım arkadaşlar, kendinize çok iyi bakın. Bol su içmeyi unutmayın — bugün özellikle
+Terazi'ler, size söylüyorum. Boynunuzu üşütmeyin. Ve o söyleyemediğiniz cümleyi, bugün
+söyleyin. Nazikçe, ama söyleyin.
+
+Ben yarın sabah yine buradayım, aynı yerde, aynı saatte. Yeni bir gün, yeni bir gökyüzü.
+Yarın görüşmek üzere... hoşça kalın, çok sevgiler, kendinize iyi bakın. Bay bay!
+
+---
+
+*Kaynak notu: Bu senaryo, 06 Ağustos 2026 tarihi için hazırlanan 12 ayrı burç araştırma raporuna
+(Swiss Ephemeris / astro.com, NASA JPL Horizons, timeanddate.com, TheSkyLive, Astro-Seek teknik
+verileri; Cafe Astrology, Moon Omens, Economic Times, Women's Business Daily, nss G-Club,
+Talkndheal, Storizen, Horoscope.co.uk, Cumhuriyet Astroloji, Alem Dergisi, İndigo Dergisi, Twitburc,
+Hande Kazanova, Oggusto, Onedio, Plume Mag, Merkurapp, Hürriyet Mahmure yorum kaynakları)
+dayanılarak yazılmıştır. Araştırma dışı astrolojik iddia eklenmemiştir.*
+
