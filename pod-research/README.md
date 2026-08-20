@@ -35,7 +35,8 @@ yeniden çalıştırın (Cursor Automation veya bu konuşmadaki günlük timer).
 > `reports/YYYY-MM-DD.md` brifingini Türkçe yaz: pazaryeri ürün özeti,
 > 3 adet tasarım/ürün önerisi, ChatGPT Images için 3 prompt (1 papercraft,
 > 1 o günün en çok tercih edilen tarzı, 1 senin önerdiğin tarz).
-> Commit et, push et, PR'ı güncelle.
+> Her prompt şeffaf arka plan / arka plansız PNG olmalı: sadece görsel,
+> zemin, oda, gökyüzü, stüdyo, kâğıt yok. Commit et, push et, PR'ı güncelle.
 
 Telif / marka: Disney, FIFA, NFL, takım formaları, grup logoları ve
 karakter isimleri arama hacmi yüksek olsa da çoğu POD hesabı için yasaktır.
