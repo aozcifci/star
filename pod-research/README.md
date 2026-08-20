@@ -1,11 +1,13 @@
 # Günlük POD araştırması (Redbubble, TeePublic, Etsy)
 
 Her gün üç pazaryerinde satılan print-on-demand ürünleri, nişleri ve stilleri
-toplar; **3 ürün önerisi** ve ChatGPT Images için **3 prompt** üretir.
+toplar; **10 ürün önerisi** ve ChatGPT Images için **10 prompt** üretir
+(farklı tarzlar, orijinal sarkastik yazı, şeffaf PNG).
 
 ## Bugünün teslimi
 
 - [20 Ağustos 2026 brifing](reports/2026-08-20.md)
+- [10 ChatGPT Images promptu](prompts/2026-08-20.md)
 - [Canlı Google Suggest dökümü](reports/2026-08-20-autocomplete.md)
 
 ## Script
@@ -33,10 +35,12 @@ yeniden çalıştırın (Cursor Automation veya bu konuşmadaki günlük timer).
 > `pod-research` klasöründeki yöntemi kullan. Bugün Redbubble, TeePublic
 > ve Etsy'de satılan print on demand ürünleri araştır. Scripti çalıştır.
 > `reports/YYYY-MM-DD.md` brifingini Türkçe yaz: pazaryeri ürün özeti,
-> 3 adet tasarım/ürün önerisi, ChatGPT Images için 3 prompt (1 papercraft,
-> 1 o günün en çok tercih edilen tarzı, 1 senin önerdiğin tarz).
+> araştırmadaki nişlere göre 10 adet tasarım/ürün önerisi, ChatGPT Images
+> için 10 prompt (hepsi farklı tarz; papercraft, coquette ve analog
+> risograph dahil; orijinal sarkastik yazı her görselde).
 > Her prompt şeffaf arka plan / arka plansız PNG olmalı: sadece görsel,
-> zemin, oda, gökyüzü, stüdyo, kâğıt yok. Commit et, push et, PR'ı güncelle.
+> zemin, oda, gökyüzü, stüdyo, kâğıt yok. Viral sloganları kopyalama.
+> Commit et, push et, PR'ı güncelle.
 
 Telif / marka: Disney, FIFA, NFL, takım formaları, grup logoları ve
 karakter isimleri arama hacmi yüksek olsa da çoğu POD hesabı için yasaktır.
