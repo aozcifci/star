@@ -6,11 +6,11 @@ toplar; **10 ürün önerisi** ve ChatGPT Images için **10 prompt** üretir
 
 ## Bugünün teslimi
 
-- [24 Ağustos 2026 brifing](reports/2026-08-24.md)
-- [10 ChatGPT Images promptu](prompts/2026-08-24.md)
-- [Canlı Google Suggest dökümü](reports/2026-08-24-autocomplete.md)
+- [25 Ağustos 2026 brifing](reports/2026-08-25.md)
+- [10 ChatGPT Images promptu](prompts/2026-08-25.md)
+- [Canlı Google Suggest dökümü](reports/2026-08-25-autocomplete.md)
 
-Önceki günler: [23 Ağustos](reports/2026-08-23.md) · [22 Ağustos](reports/2026-08-22.md) · [21 Ağustos](reports/2026-08-21.md) · [20 Ağustos](reports/2026-08-20.md)
+Önceki günler: [24 Ağustos](reports/2026-08-24.md) · [23 Ağustos](reports/2026-08-23.md) · [22 Ağustos](reports/2026-08-22.md) · [21 Ağustos](reports/2026-08-21.md) · [20 Ağustos](reports/2026-08-20.md)
 
 ## Script
 
