@@ -6,11 +6,11 @@ toplar; **10 ürün önerisi** ve ChatGPT Images için **10 prompt** üretir
 
 ## Bugünün teslimi
 
-- [5 Eylül 2026 brifing](reports/2026-09-05.md)
-- [10 ChatGPT Images promptu](prompts/2026-09-05.md)
-- [Canlı Google Suggest dökümü](reports/2026-09-05-autocomplete.md)
+- [6 Eylül 2026 brifing](reports/2026-09-06.md)
+- [10 ChatGPT Images promptu](prompts/2026-09-06.md)
+- [Canlı Google Suggest dökümü](reports/2026-09-06-autocomplete.md)
 
-Önceki günler: [4 Eylül](reports/2026-09-04.md) · [3 Eylül](reports/2026-09-03.md) · [2 Eylül](reports/2026-09-02.md) · [1 Eylül](reports/2026-09-01.md) · [31 Ağustos](reports/2026-08-31.md) · [30 Ağustos](reports/2026-08-30.md) · [29 Ağustos](reports/2026-08-29.md) · [28 Ağustos](reports/2026-08-28.md) · [27 Ağustos](reports/2026-08-27.md) · [26 Ağustos](reports/2026-08-26.md) · [25 Ağustos](reports/2026-08-25.md) · [24 Ağustos](reports/2026-08-24.md) · [23 Ağustos](reports/2026-08-23.md) · [22 Ağustos](reports/2026-08-22.md) · [21 Ağustos](reports/2026-08-21.md) · [20 Ağustos](reports/2026-08-20.md)
+Önceki günler: [5 Eylül](reports/2026-09-05.md) · [4 Eylül](reports/2026-09-04.md) · [3 Eylül](reports/2026-09-03.md) · [2 Eylül](reports/2026-09-02.md) · [1 Eylül](reports/2026-09-01.md) · [31 Ağustos](reports/2026-08-31.md) · [30 Ağustos](reports/2026-08-30.md) · [29 Ağustos](reports/2026-08-29.md) · [28 Ağustos](reports/2026-08-28.md) · [27 Ağustos](reports/2026-08-27.md) · [26 Ağustos](reports/2026-08-26.md) · [25 Ağustos](reports/2026-08-25.md) · [24 Ağustos](reports/2026-08-24.md) · [23 Ağustos](reports/2026-08-23.md) · [22 Ağustos](reports/2026-08-22.md) · [21 Ağustos](reports/2026-08-21.md) · [20 Ağustos](reports/2026-08-20.md)
 
 ## Script
 
